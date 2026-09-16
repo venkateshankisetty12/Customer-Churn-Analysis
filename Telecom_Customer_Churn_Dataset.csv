@@ -1,0 +1,2501 @@
+CustomerID,Tenure_Months,Monthly_Charges,Total_Charges,Contract_Type,Internet_Service,Payment_Method,Churn
+CUST00001,52,1541.42,75408.44,Two Year,No,UPI,No
+CUST00002,15,1317.97,73419.49,Month-to-Month,DSL,Bank Transfer,No
+CUST00003,61,409.64,87681.15,Month-to-Month,No,Credit Card,No
+CUST00004,21,1791.31,72417.07,Two Year,DSL,Bank Transfer,No
+CUST00005,24,1791.34,23568.21,One Year,Fiber Optic,Debit Card,No
+CUST00006,3,861.69,70703.49,Month-to-Month,DSL,Credit Card,No
+CUST00007,22,878.69,31116.43,Two Year,Fiber Optic,Credit Card,Yes
+CUST00008,53,1981.35,24596.38,Two Year,No,Debit Card,No
+CUST00009,2,1364.5,7763.86,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00010,30,1203.24,74530.84,Two Year,No,Bank Transfer,No
+CUST00011,38,1724.86,71244.6,One Year,No,Debit Card,No
+CUST00012,2,784.99,23832.7,Two Year,Fiber Optic,UPI,No
+CUST00013,64,1029.61,75063.21,One Year,Fiber Optic,Debit Card,No
+CUST00014,60,755.22,91825.17,One Year,DSL,UPI,No
+CUST00015,21,1641.57,11248.88,Month-to-Month,DSL,UPI,No
+CUST00016,33,1274.69,23647.35,Two Year,Fiber Optic,Debit Card,No
+CUST00017,58,1420.0,75150.95,One Year,Fiber Optic,Debit Card,No
+CUST00018,22,728.92,27813.41,One Year,Fiber Optic,UPI,No
+CUST00019,49,674.38,62654.07,Two Year,Fiber Optic,UPI,No
+CUST00020,59,1130.24,8575.84,One Year,No,Credit Card,No
+CUST00021,42,1553.86,45494.15,Two Year,Fiber Optic,Debit Card,No
+CUST00022,60,1192.91,74039.6,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00023,15,355.5,68808.14,One Year,Fiber Optic,Credit Card,No
+CUST00024,62,1776.54,81599.67,One Year,Fiber Optic,Debit Card,No
+CUST00025,62,409.97,87806.49,Two Year,No,Credit Card,No
+CUST00026,47,1924.9,77431.76,Two Year,DSL,Credit Card,No
+CUST00027,62,342.74,67322.98,Two Year,DSL,Debit Card,No
+CUST00028,51,1480.57,3656.39,Two Year,DSL,Bank Transfer,No
+CUST00029,55,439.75,53729.18,One Year,DSL,UPI,No
+CUST00030,64,1848.15,4250.92,Month-to-Month,DSL,Debit Card,No
+CUST00031,3,1089.54,80902.75,Month-to-Month,No,Bank Transfer,No
+CUST00032,51,533.79,32412.09,Month-to-Month,DSL,Credit Card,No
+CUST00033,7,879.39,56461.72,Month-to-Month,No,Bank Transfer,No
+CUST00034,21,580.2,28304.81,Two Year,No,Debit Card,Yes
+CUST00035,39,589.99,78358.76,One Year,DSL,Debit Card,Yes
+CUST00036,18,1911.78,88707.0,One Year,DSL,Bank Transfer,Yes
+CUST00037,4,1056.92,40164.93,One Year,DSL,Debit Card,No
+CUST00038,60,1640.96,86360.78,Two Year,Fiber Optic,UPI,No
+CUST00039,14,1387.33,27073.96,One Year,No,Bank Transfer,Yes
+CUST00040,9,1449.92,53698.76,Two Year,DSL,Credit Card,Yes
+CUST00041,53,523.88,85946.76,One Year,Fiber Optic,Bank Transfer,No
+CUST00042,2,698.11,32925.19,Month-to-Month,No,Bank Transfer,Yes
+CUST00043,60,1637.48,95427.21,Two Year,Fiber Optic,Bank Transfer,No
+CUST00044,71,1950.3,12627.01,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00045,44,746.55,2318.37,Month-to-Month,DSL,Credit Card,No
+CUST00046,8,761.67,90461.47,Month-to-Month,No,Credit Card,No
+CUST00047,47,1103.93,7330.54,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00048,35,1972.53,99192.97,Two Year,No,Bank Transfer,No
+CUST00049,36,757.23,95163.99,Two Year,DSL,UPI,No
+CUST00050,50,991.85,14133.58,One Year,No,UPI,No
+CUST00051,4,1815.52,53989.67,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00052,2,304.97,18899.57,One Year,Fiber Optic,UPI,No
+CUST00053,6,367.6,43101.44,One Year,No,UPI,Yes
+CUST00054,54,1326.92,6611.8,Month-to-Month,Fiber Optic,UPI,No
+CUST00055,4,1842.55,22780.5,One Year,Fiber Optic,UPI,Yes
+CUST00056,54,706.06,36645.64,Two Year,Fiber Optic,UPI,No
+CUST00057,63,1098.39,44145.43,One Year,DSL,Debit Card,No
+CUST00058,18,1065.79,97760.88,Month-to-Month,DSL,Credit Card,No
+CUST00059,44,1104.05,80882.63,Two Year,Fiber Optic,Bank Transfer,No
+CUST00060,34,1358.28,73872.29,Two Year,No,UPI,No
+CUST00061,62,1098.56,53935.61,One Year,DSL,Debit Card,No
+CUST00062,14,1060.7,84079.78,One Year,No,Bank Transfer,No
+CUST00063,48,1106.29,34262.62,Two Year,Fiber Optic,Debit Card,Yes
+CUST00064,15,1304.47,71035.46,One Year,Fiber Optic,UPI,No
+CUST00065,62,1212.91,99381.51,Month-to-Month,No,UPI,No
+CUST00066,40,1752.03,31805.58,One Year,DSL,UPI,No
+CUST00067,53,384.14,67564.74,One Year,No,UPI,No
+CUST00068,24,1716.64,84509.33,Two Year,No,Bank Transfer,Yes
+CUST00069,26,1734.67,91622.85,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00070,60,784.34,71934.3,One Year,DSL,Debit Card,No
+CUST00071,41,1086.85,28718.99,One Year,No,Credit Card,No
+CUST00072,29,1045.52,32965.07,Month-to-Month,DSL,UPI,No
+CUST00073,15,671.47,2565.42,One Year,Fiber Optic,Debit Card,No
+CUST00074,45,974.55,76208.15,Month-to-Month,DSL,Debit Card,No
+CUST00075,65,375.46,4752.59,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST00076,71,772.3,86532.91,Month-to-Month,DSL,UPI,Yes
+CUST00077,9,1688.36,12306.73,Month-to-Month,No,UPI,Yes
+CUST00078,1,783.76,17601.71,Two Year,Fiber Optic,Debit Card,No
+CUST00079,8,1690.95,47914.38,Month-to-Month,No,UPI,Yes
+CUST00080,63,1203.72,73919.1,One Year,Fiber Optic,Debit Card,No
+CUST00081,11,1795.77,14330.72,Month-to-Month,DSL,Bank Transfer,No
+CUST00082,8,1277.13,44287.07,One Year,DSL,UPI,No
+CUST00083,35,350.44,48543.7,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST00084,35,1448.21,21622.42,Two Year,Fiber Optic,Credit Card,Yes
+CUST00085,33,376.25,11998.06,Month-to-Month,Fiber Optic,UPI,No
+CUST00086,5,1066.01,83723.88,Month-to-Month,DSL,Credit Card,No
+CUST00087,41,1880.03,50495.33,Two Year,Fiber Optic,Debit Card,No
+CUST00088,28,580.85,1930.93,Month-to-Month,Fiber Optic,UPI,No
+CUST00089,7,962.78,80396.64,One Year,No,UPI,No
+CUST00090,12,1540.76,98088.98,Month-to-Month,Fiber Optic,UPI,No
+CUST00091,34,1799.84,60789.66,Month-to-Month,No,Credit Card,No
+CUST00092,33,1440.6,50618.98,Month-to-Month,No,Credit Card,No
+CUST00093,48,738.89,87902.38,Two Year,No,Debit Card,No
+CUST00094,23,1446.83,95275.42,Month-to-Month,DSL,Bank Transfer,No
+CUST00095,62,804.44,75576.42,Month-to-Month,No,Bank Transfer,No
+CUST00096,37,1521.33,44822.57,One Year,Fiber Optic,Credit Card,No
+CUST00097,44,1921.86,59426.03,Month-to-Month,DSL,UPI,No
+CUST00098,35,1526.37,70243.07,Month-to-Month,DSL,Bank Transfer,No
+CUST00099,65,1766.9,19830.22,Month-to-Month,DSL,Bank Transfer,No
+CUST00100,47,303.58,44996.5,Month-to-Month,DSL,Credit Card,No
+CUST00101,3,1519.87,83067.22,One Year,DSL,Debit Card,No
+CUST00102,1,1710.3,65645.17,One Year,DSL,Credit Card,Yes
+CUST00103,5,368.95,41414.8,Two Year,DSL,Credit Card,Yes
+CUST00104,14,1781.72,66504.57,Month-to-Month,No,UPI,No
+CUST00105,27,736.38,12263.13,Two Year,Fiber Optic,Credit Card,No
+CUST00106,9,1431.0,40449.01,Two Year,Fiber Optic,UPI,Yes
+CUST00107,15,1660.6,79416.29,Month-to-Month,No,Debit Card,Yes
+CUST00108,42,1426.53,22440.62,One Year,No,UPI,No
+CUST00109,51,456.88,19003.17,One Year,DSL,Debit Card,Yes
+CUST00110,63,1313.75,95106.46,Month-to-Month,DSL,Debit Card,Yes
+CUST00111,52,1234.29,21384.81,Month-to-Month,No,Debit Card,No
+CUST00112,4,1830.55,26461.4,One Year,DSL,Credit Card,Yes
+CUST00113,23,987.21,96976.79,Month-to-Month,Fiber Optic,UPI,Yes
+CUST00114,15,845.84,73603.5,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00115,43,1574.75,70109.86,Month-to-Month,DSL,Credit Card,No
+CUST00116,29,1001.55,85366.18,One Year,DSL,Debit Card,No
+CUST00117,36,1398.36,12024.4,Two Year,DSL,Bank Transfer,Yes
+CUST00118,13,1398.97,70742.65,Two Year,Fiber Optic,Credit Card,No
+CUST00119,32,1809.67,50617.02,Month-to-Month,DSL,Bank Transfer,No
+CUST00120,71,1317.78,83000.49,One Year,No,Debit Card,Yes
+CUST00121,59,1153.66,51060.1,Month-to-Month,DSL,Bank Transfer,Yes
+CUST00122,28,536.08,62214.01,One Year,No,Bank Transfer,Yes
+CUST00123,66,496.75,48035.34,Month-to-Month,DSL,Debit Card,No
+CUST00124,42,562.35,48076.81,One Year,DSL,Bank Transfer,No
+CUST00125,45,592.14,76913.01,One Year,Fiber Optic,Credit Card,No
+CUST00126,62,1384.39,63042.36,Two Year,No,Bank Transfer,No
+CUST00127,57,1559.67,63509.69,Month-to-Month,No,UPI,No
+CUST00128,6,1200.99,45303.11,Two Year,No,Credit Card,No
+CUST00129,28,1709.33,53345.39,Two Year,Fiber Optic,Bank Transfer,No
+CUST00130,28,1985.15,74698.91,One Year,No,UPI,Yes
+CUST00131,44,1694.02,82681.12,Month-to-Month,Fiber Optic,UPI,No
+CUST00132,30,1481.3,69807.86,One Year,DSL,UPI,No
+CUST00133,62,1205.24,92445.26,One Year,DSL,Bank Transfer,No
+CUST00134,62,1063.05,82122.25,One Year,No,Debit Card,No
+CUST00135,1,443.47,56405.45,Month-to-Month,DSL,UPI,No
+CUST00136,27,978.93,67304.9,Month-to-Month,DSL,Debit Card,No
+CUST00137,62,1847.23,92667.67,One Year,No,Credit Card,Yes
+CUST00138,3,1673.64,62107.22,Month-to-Month,DSL,Debit Card,No
+CUST00139,70,667.29,82568.29,One Year,No,Debit Card,No
+CUST00140,27,1093.23,69036.65,Month-to-Month,No,Debit Card,No
+CUST00141,9,1688.43,55417.67,Month-to-Month,DSL,Debit Card,Yes
+CUST00142,62,414.55,24562.9,Two Year,DSL,Debit Card,Yes
+CUST00143,37,958.57,42886.75,One Year,DSL,Credit Card,No
+CUST00144,51,1748.13,96790.41,Two Year,DSL,Credit Card,No
+CUST00145,44,986.63,65947.66,Two Year,DSL,Debit Card,No
+CUST00146,24,431.94,56657.34,One Year,Fiber Optic,Debit Card,No
+CUST00147,59,1222.31,93329.18,One Year,DSL,UPI,No
+CUST00148,32,1764.96,58857.92,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00149,52,1303.49,52845.21,One Year,No,Bank Transfer,Yes
+CUST00150,62,684.67,76051.43,Two Year,DSL,Credit Card,Yes
+CUST00151,58,953.21,71410.23,Two Year,DSL,Bank Transfer,No
+CUST00152,52,1065.21,19719.42,One Year,DSL,UPI,No
+CUST00153,12,1284.75,47395.17,Two Year,No,Debit Card,No
+CUST00154,39,1590.9,47515.29,Month-to-Month,Fiber Optic,UPI,No
+CUST00155,2,468.09,38133.34,Two Year,Fiber Optic,Debit Card,Yes
+CUST00156,3,1812.41,51970.7,Month-to-Month,DSL,Credit Card,No
+CUST00157,56,320.93,41604.19,Two Year,DSL,Debit Card,No
+CUST00158,59,929.09,20334.88,Month-to-Month,DSL,Bank Transfer,No
+CUST00159,2,346.61,41530.47,Month-to-Month,DSL,Bank Transfer,Yes
+CUST00160,2,968.06,7691.56,One Year,No,UPI,No
+CUST00161,54,1193.88,57790.69,Month-to-Month,DSL,Credit Card,No
+CUST00162,1,1169.86,85438.63,One Year,No,Bank Transfer,No
+CUST00163,19,581.57,72666.06,Two Year,DSL,UPI,No
+CUST00164,2,1397.76,36359.21,Two Year,Fiber Optic,Credit Card,Yes
+CUST00165,53,376.12,9163.58,Two Year,Fiber Optic,Credit Card,Yes
+CUST00166,44,1595.24,20613.87,Month-to-Month,DSL,UPI,Yes
+CUST00167,32,1909.3,54776.29,Two Year,DSL,Bank Transfer,No
+CUST00168,70,877.61,21102.18,Two Year,No,Bank Transfer,No
+CUST00169,32,1179.31,54625.32,One Year,DSL,UPI,No
+CUST00170,68,944.15,23544.1,One Year,DSL,Bank Transfer,Yes
+CUST00171,55,311.41,84967.93,Two Year,DSL,UPI,No
+CUST00172,56,955.99,40028.51,Two Year,Fiber Optic,Bank Transfer,No
+CUST00173,17,1645.92,24932.29,Month-to-Month,No,Bank Transfer,Yes
+CUST00174,38,1313.18,81326.45,Month-to-Month,Fiber Optic,UPI,No
+CUST00175,24,472.14,34612.48,Two Year,No,UPI,Yes
+CUST00176,69,1740.14,11593.02,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00177,70,1202.85,57255.74,Two Year,DSL,UPI,Yes
+CUST00178,11,1730.93,58365.64,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00179,16,1286.38,71612.22,One Year,Fiber Optic,Debit Card,No
+CUST00180,59,1251.47,24401.83,One Year,No,Credit Card,No
+CUST00181,70,478.94,44655.25,Month-to-Month,No,Credit Card,No
+CUST00182,3,584.51,28595.61,Two Year,Fiber Optic,Bank Transfer,No
+CUST00183,20,1952.44,8554.9,Two Year,No,Credit Card,No
+CUST00184,59,688.43,87723.08,Two Year,No,Bank Transfer,No
+CUST00185,36,1961.67,73022.55,Month-to-Month,No,UPI,No
+CUST00186,19,1204.25,30495.57,One Year,No,Debit Card,No
+CUST00187,67,530.84,60137.61,Month-to-Month,No,Credit Card,Yes
+CUST00188,19,468.81,20525.75,Two Year,Fiber Optic,Credit Card,No
+CUST00189,20,655.07,89078.54,Month-to-Month,No,UPI,No
+CUST00190,71,1873.58,11933.18,One Year,DSL,Debit Card,Yes
+CUST00191,52,1004.06,881.8,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00192,33,972.24,50449.82,Two Year,Fiber Optic,Debit Card,Yes
+CUST00193,40,832.45,58521.22,One Year,Fiber Optic,UPI,No
+CUST00194,39,550.01,58107.05,Month-to-Month,No,Credit Card,Yes
+CUST00195,1,1129.35,5923.94,Month-to-Month,DSL,Credit Card,Yes
+CUST00196,11,521.08,31747.36,One Year,No,Debit Card,No
+CUST00197,57,1720.32,50170.3,One Year,Fiber Optic,UPI,No
+CUST00198,50,929.67,22049.63,Two Year,Fiber Optic,UPI,No
+CUST00199,23,937.17,87326.28,One Year,Fiber Optic,UPI,Yes
+CUST00200,31,1105.81,9167.37,Two Year,Fiber Optic,Debit Card,Yes
+CUST00201,42,1055.02,48994.75,Month-to-Month,No,UPI,No
+CUST00202,7,1991.26,69295.9,Two Year,DSL,Debit Card,No
+CUST00203,16,1227.15,26544.23,Month-to-Month,DSL,Debit Card,No
+CUST00204,60,449.94,62611.95,One Year,Fiber Optic,Debit Card,Yes
+CUST00205,2,1331.69,83023.82,Month-to-Month,DSL,Bank Transfer,No
+CUST00206,1,557.69,19438.53,One Year,Fiber Optic,Debit Card,No
+CUST00207,48,352.59,91763.45,Month-to-Month,Fiber Optic,UPI,No
+CUST00208,12,1950.26,55579.07,Month-to-Month,DSL,Bank Transfer,No
+CUST00209,69,1615.02,30273.58,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00210,37,1966.19,43370.4,Month-to-Month,DSL,Credit Card,Yes
+CUST00211,32,1112.39,31563.09,Two Year,Fiber Optic,UPI,No
+CUST00212,9,1204.84,72648.56,Month-to-Month,DSL,UPI,No
+CUST00213,19,586.17,79731.92,Two Year,Fiber Optic,UPI,No
+CUST00214,48,719.74,83377.27,One Year,DSL,UPI,No
+CUST00215,3,1725.53,98583.94,One Year,Fiber Optic,Bank Transfer,No
+CUST00216,20,905.52,79232.79,Two Year,Fiber Optic,UPI,No
+CUST00217,24,1705.59,60337.72,One Year,Fiber Optic,Debit Card,No
+CUST00218,54,1505.32,34252.42,One Year,DSL,Credit Card,Yes
+CUST00219,33,601.19,54687.25,Month-to-Month,No,UPI,Yes
+CUST00220,24,1162.66,4586.28,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00221,36,1451.56,74610.1,Month-to-Month,Fiber Optic,UPI,Yes
+CUST00222,38,699.56,44872.58,Two Year,DSL,Debit Card,Yes
+CUST00223,25,1712.17,2492.31,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST00224,18,1226.21,6719.44,One Year,Fiber Optic,Credit Card,Yes
+CUST00225,66,580.91,39052.91,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00226,54,1291.07,58550.44,Two Year,Fiber Optic,Bank Transfer,No
+CUST00227,35,1999.51,46688.29,Two Year,No,Debit Card,No
+CUST00228,61,555.89,62110.83,Month-to-Month,No,UPI,No
+CUST00229,41,1688.49,48289.28,Two Year,Fiber Optic,Debit Card,No
+CUST00230,33,652.43,66339.53,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00231,68,1630.06,22303.04,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00232,33,1548.78,11727.9,One Year,No,Bank Transfer,No
+CUST00233,14,810.83,59845.18,One Year,No,Debit Card,Yes
+CUST00234,21,853.9,48726.61,Month-to-Month,DSL,Debit Card,No
+CUST00235,48,1647.29,3173.33,Two Year,DSL,Bank Transfer,No
+CUST00236,20,1084.46,38357.95,One Year,Fiber Optic,Credit Card,No
+CUST00237,8,1542.39,11059.5,One Year,Fiber Optic,UPI,No
+CUST00238,7,551.57,53370.0,One Year,No,UPI,No
+CUST00239,67,1749.35,39879.88,Two Year,Fiber Optic,Debit Card,No
+CUST00240,17,1508.5,61508.62,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST00241,33,1841.8,80657.42,Month-to-Month,No,Bank Transfer,No
+CUST00242,48,525.03,30317.03,One Year,No,Bank Transfer,No
+CUST00243,59,1308.12,96229.16,Two Year,No,Credit Card,No
+CUST00244,22,1318.5,53795.63,Month-to-Month,No,Debit Card,Yes
+CUST00245,30,900.88,62019.93,One Year,DSL,Debit Card,No
+CUST00246,38,1079.39,68226.9,Two Year,No,Debit Card,Yes
+CUST00247,51,364.57,66839.79,Two Year,No,Credit Card,Yes
+CUST00248,54,1567.96,51341.59,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00249,8,1233.85,43162.05,One Year,Fiber Optic,UPI,Yes
+CUST00250,27,398.16,5851.31,One Year,Fiber Optic,Debit Card,No
+CUST00251,27,1457.29,2697.54,Two Year,DSL,Debit Card,No
+CUST00252,21,1093.53,36117.14,One Year,No,Debit Card,No
+CUST00253,30,358.58,33699.26,Month-to-Month,No,Credit Card,No
+CUST00254,28,1948.33,39075.67,Two Year,DSL,UPI,No
+CUST00255,64,1913.49,14267.64,Two Year,No,UPI,No
+CUST00256,69,1171.93,73947.74,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00257,61,459.24,85767.96,Two Year,DSL,Bank Transfer,No
+CUST00258,48,1582.86,93902.11,One Year,No,UPI,No
+CUST00259,19,1136.28,49490.05,One Year,DSL,Debit Card,Yes
+CUST00260,4,814.16,70236.14,Two Year,DSL,Debit Card,No
+CUST00261,35,1135.41,85627.34,Month-to-Month,No,Debit Card,Yes
+CUST00262,64,1188.16,42119.97,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00263,49,1256.61,31286.57,One Year,No,Debit Card,Yes
+CUST00264,17,1050.08,93704.09,Month-to-Month,No,Credit Card,No
+CUST00265,44,1329.78,51809.82,Two Year,Fiber Optic,UPI,No
+CUST00266,30,1861.85,49976.76,Two Year,No,Debit Card,No
+CUST00267,46,915.86,18252.4,One Year,No,Debit Card,No
+CUST00268,6,1533.72,11261.42,One Year,No,Bank Transfer,No
+CUST00269,37,1820.57,84289.63,One Year,DSL,UPI,No
+CUST00270,24,1075.16,61606.25,Month-to-Month,DSL,Debit Card,No
+CUST00271,46,1053.87,32919.55,Two Year,DSL,Credit Card,No
+CUST00272,53,1323.6,19577.75,Two Year,No,UPI,No
+CUST00273,60,1305.39,55771.98,Two Year,Fiber Optic,Bank Transfer,No
+CUST00274,63,1671.2,58599.97,One Year,DSL,UPI,No
+CUST00275,32,1110.02,21095.86,Two Year,Fiber Optic,Credit Card,Yes
+CUST00276,33,1993.41,85214.87,Month-to-Month,No,Bank Transfer,No
+CUST00277,67,401.1,8884.3,Month-to-Month,DSL,Credit Card,No
+CUST00278,18,305.39,35931.26,Two Year,No,UPI,No
+CUST00279,25,1388.34,68198.25,One Year,Fiber Optic,Bank Transfer,No
+CUST00280,54,807.34,27774.98,Two Year,DSL,Credit Card,No
+CUST00281,58,708.65,82853.68,Month-to-Month,DSL,UPI,No
+CUST00282,67,830.23,74116.85,Month-to-Month,DSL,Credit Card,No
+CUST00283,46,735.28,79007.77,Month-to-Month,DSL,Debit Card,Yes
+CUST00284,24,352.34,12351.1,Two Year,Fiber Optic,UPI,No
+CUST00285,32,1951.61,14484.44,Month-to-Month,DSL,Bank Transfer,No
+CUST00286,47,675.27,29004.14,One Year,No,Bank Transfer,Yes
+CUST00287,23,1547.85,52048.68,Two Year,DSL,Debit Card,No
+CUST00288,66,1596.41,74927.6,Two Year,Fiber Optic,Credit Card,No
+CUST00289,27,1879.74,83734.82,Month-to-Month,DSL,Credit Card,Yes
+CUST00290,2,351.93,70581.36,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00291,17,1782.48,92895.39,One Year,Fiber Optic,Credit Card,No
+CUST00292,33,1196.28,74004.98,Two Year,No,UPI,No
+CUST00293,9,1375.32,30973.65,Month-to-Month,DSL,UPI,Yes
+CUST00294,43,1395.6,26875.59,One Year,DSL,Bank Transfer,No
+CUST00295,48,1693.66,69771.15,Month-to-Month,DSL,UPI,No
+CUST00296,39,866.79,19690.62,Two Year,No,Bank Transfer,Yes
+CUST00297,42,1546.19,9725.12,Month-to-Month,No,Credit Card,Yes
+CUST00298,26,1198.58,53456.18,Two Year,Fiber Optic,Credit Card,No
+CUST00299,50,1648.77,82253.34,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00300,25,1983.93,10587.29,Two Year,Fiber Optic,Debit Card,Yes
+CUST00301,24,641.11,79293.19,One Year,No,Bank Transfer,No
+CUST00302,13,1990.9,81251.41,Two Year,No,UPI,No
+CUST00303,60,452.68,48486.26,One Year,No,Credit Card,No
+CUST00304,7,303.94,6202.38,Two Year,Fiber Optic,Debit Card,Yes
+CUST00305,57,375.08,17871.69,One Year,No,UPI,No
+CUST00306,36,881.03,70888.91,Month-to-Month,Fiber Optic,UPI,Yes
+CUST00307,45,1375.94,71321.91,Two Year,Fiber Optic,UPI,No
+CUST00308,20,417.35,89886.35,Month-to-Month,DSL,Credit Card,No
+CUST00309,65,309.63,58477.27,One Year,DSL,UPI,No
+CUST00310,8,1893.05,12848.68,Two Year,DSL,Bank Transfer,No
+CUST00311,16,1697.28,12580.78,Two Year,Fiber Optic,Debit Card,No
+CUST00312,14,1675.61,72252.67,Month-to-Month,DSL,UPI,No
+CUST00313,15,1803.52,18786.57,Two Year,DSL,UPI,Yes
+CUST00314,66,1490.06,33174.36,Two Year,DSL,Bank Transfer,No
+CUST00315,32,477.49,48977.59,Month-to-Month,No,UPI,Yes
+CUST00316,63,978.47,2964.11,Two Year,Fiber Optic,Credit Card,No
+CUST00317,51,1529.35,25257.49,Month-to-Month,DSL,Credit Card,No
+CUST00318,25,776.57,41085.02,Month-to-Month,No,Credit Card,No
+CUST00319,58,1468.59,28323.81,Month-to-Month,No,UPI,No
+CUST00320,63,341.65,14068.85,Month-to-Month,No,Debit Card,No
+CUST00321,62,820.43,72937.22,Month-to-Month,DSL,Debit Card,No
+CUST00322,22,1233.52,81408.19,One Year,No,UPI,No
+CUST00323,58,1374.55,26119.16,One Year,Fiber Optic,Debit Card,Yes
+CUST00324,58,1280.97,77554.74,Month-to-Month,No,Debit Card,No
+CUST00325,49,1486.19,38862.58,One Year,No,UPI,No
+CUST00326,52,310.35,50915.24,One Year,No,Credit Card,No
+CUST00327,42,471.6,85672.11,Two Year,No,UPI,Yes
+CUST00328,70,1777.21,75120.39,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00329,15,1458.97,80609.13,One Year,DSL,Credit Card,No
+CUST00330,54,491.98,14116.09,Two Year,Fiber Optic,Debit Card,Yes
+CUST00331,60,1731.53,7437.08,Two Year,Fiber Optic,Debit Card,Yes
+CUST00332,8,711.79,89393.77,Month-to-Month,DSL,Credit Card,No
+CUST00333,53,1113.04,39089.51,Month-to-Month,No,Credit Card,No
+CUST00334,60,546.83,29144.03,Two Year,DSL,Debit Card,No
+CUST00335,5,1507.19,72607.28,Month-to-Month,DSL,Bank Transfer,Yes
+CUST00336,68,1433.65,83723.35,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00337,6,658.89,86317.72,Two Year,DSL,Credit Card,No
+CUST00338,47,1767.78,31941.72,Two Year,No,Credit Card,No
+CUST00339,55,982.22,85295.13,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00340,40,797.28,4572.93,One Year,No,UPI,No
+CUST00341,52,558.96,5441.32,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00342,16,752.49,62540.16,One Year,No,Credit Card,No
+CUST00343,13,337.45,6779.08,Two Year,DSL,Credit Card,No
+CUST00344,30,1291.54,32798.61,One Year,DSL,UPI,No
+CUST00345,19,1731.79,67439.22,Two Year,DSL,UPI,No
+CUST00346,17,1233.27,34058.06,Month-to-Month,No,Credit Card,No
+CUST00347,63,672.77,18370.18,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00348,19,357.24,28494.39,Two Year,Fiber Optic,Bank Transfer,No
+CUST00349,58,664.87,46028.75,Two Year,Fiber Optic,UPI,Yes
+CUST00350,55,1007.41,47800.89,Two Year,DSL,Bank Transfer,No
+CUST00351,62,1591.34,78408.52,Month-to-Month,No,Credit Card,Yes
+CUST00352,23,619.33,75140.25,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00353,9,1523.65,45953.37,One Year,No,Credit Card,Yes
+CUST00354,12,1773.79,84643.9,Two Year,Fiber Optic,Credit Card,No
+CUST00355,1,1071.71,11866.6,One Year,DSL,Debit Card,No
+CUST00356,58,1696.43,25907.66,Month-to-Month,No,Debit Card,No
+CUST00357,1,1242.92,82883.66,One Year,Fiber Optic,Debit Card,No
+CUST00358,34,1383.05,38110.41,One Year,Fiber Optic,Bank Transfer,No
+CUST00359,48,1194.67,98127.57,Month-to-Month,Fiber Optic,UPI,No
+CUST00360,1,1087.39,46892.2,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00361,16,698.91,79297.59,Two Year,DSL,UPI,No
+CUST00362,61,815.43,40529.55,One Year,Fiber Optic,Debit Card,Yes
+CUST00363,64,792.95,42782.88,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00364,63,1257.59,38596.87,Month-to-Month,DSL,Credit Card,No
+CUST00365,69,503.92,72048.02,One Year,Fiber Optic,Bank Transfer,No
+CUST00366,22,1858.55,54978.03,Month-to-Month,No,UPI,No
+CUST00367,67,1525.11,94405.92,Two Year,No,Bank Transfer,No
+CUST00368,26,982.46,25463.59,Two Year,Fiber Optic,Debit Card,No
+CUST00369,16,569.66,10505.99,One Year,DSL,UPI,No
+CUST00370,51,1799.39,39629.52,Two Year,DSL,Debit Card,No
+CUST00371,57,1700.42,61862.91,Month-to-Month,DSL,Bank Transfer,Yes
+CUST00372,29,1526.93,86149.49,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00373,69,761.63,34946.59,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00374,47,984.16,65551.78,Month-to-Month,No,UPI,No
+CUST00375,62,474.67,35344.77,One Year,DSL,UPI,No
+CUST00376,69,621.37,61913.35,Two Year,Fiber Optic,Credit Card,Yes
+CUST00377,16,1631.13,88538.39,Two Year,Fiber Optic,UPI,Yes
+CUST00378,48,1515.57,23520.09,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00379,39,1308.93,40722.04,One Year,DSL,Debit Card,No
+CUST00380,33,1822.74,99329.89,Month-to-Month,DSL,Bank Transfer,No
+CUST00381,23,1291.55,86921.42,Month-to-Month,No,Debit Card,Yes
+CUST00382,10,1093.85,56681.67,One Year,DSL,UPI,No
+CUST00383,69,878.63,51904.45,One Year,Fiber Optic,Credit Card,Yes
+CUST00384,34,1898.76,28817.74,Month-to-Month,No,Bank Transfer,No
+CUST00385,52,440.62,51962.34,Two Year,DSL,Credit Card,No
+CUST00386,10,1882.51,84894.06,Month-to-Month,DSL,Bank Transfer,No
+CUST00387,19,1705.41,68674.86,Two Year,DSL,Bank Transfer,No
+CUST00388,58,520.88,29359.38,Two Year,DSL,Credit Card,Yes
+CUST00389,1,1260.47,20545.66,One Year,Fiber Optic,Debit Card,No
+CUST00390,69,1773.13,26888.25,One Year,DSL,Debit Card,No
+CUST00391,4,1272.08,17391.04,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST00392,16,1842.24,10016.25,Two Year,Fiber Optic,Debit Card,Yes
+CUST00393,24,1903.07,42204.05,Two Year,Fiber Optic,Credit Card,No
+CUST00394,2,1018.05,11773.31,Month-to-Month,No,UPI,Yes
+CUST00395,32,941.43,17605.3,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST00396,24,1891.75,54958.81,Month-to-Month,DSL,Credit Card,No
+CUST00397,12,1447.74,16877.63,One Year,No,Debit Card,No
+CUST00398,50,497.24,6856.04,Month-to-Month,DSL,Debit Card,No
+CUST00399,35,371.9,32080.19,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00400,33,1259.87,22421.75,Two Year,DSL,Bank Transfer,Yes
+CUST00401,33,1881.29,51772.87,Month-to-Month,No,Credit Card,No
+CUST00402,61,1735.22,10685.52,Two Year,No,Credit Card,Yes
+CUST00403,51,1448.94,75301.19,Two Year,DSL,UPI,No
+CUST00404,43,536.5,90670.24,One Year,DSL,Credit Card,Yes
+CUST00405,12,732.19,74471.8,Month-to-Month,DSL,UPI,No
+CUST00406,67,1788.37,53516.29,Month-to-Month,No,Bank Transfer,No
+CUST00407,65,610.77,86136.45,Two Year,Fiber Optic,Credit Card,Yes
+CUST00408,33,773.35,69644.38,One Year,DSL,Credit Card,No
+CUST00409,40,520.32,1549.84,One Year,Fiber Optic,Debit Card,Yes
+CUST00410,43,1449.38,39711.97,Month-to-Month,No,Credit Card,No
+CUST00411,44,1904.77,85169.71,Two Year,DSL,Debit Card,No
+CUST00412,29,757.25,34912.96,Month-to-Month,DSL,Debit Card,Yes
+CUST00413,13,1108.19,4003.91,Month-to-Month,No,Debit Card,No
+CUST00414,12,1378.38,74744.87,Month-to-Month,DSL,Bank Transfer,Yes
+CUST00415,46,1999.09,80302.81,Month-to-Month,Fiber Optic,UPI,No
+CUST00416,2,478.17,16479.07,Two Year,No,Debit Card,No
+CUST00417,35,1147.57,53965.38,One Year,No,Credit Card,No
+CUST00418,8,954.7,19599.57,Month-to-Month,DSL,Credit Card,No
+CUST00419,26,1771.89,72063.82,Month-to-Month,No,Debit Card,No
+CUST00420,34,1109.15,27519.27,Month-to-Month,DSL,Debit Card,No
+CUST00421,7,488.66,31963.4,Month-to-Month,DSL,Credit Card,No
+CUST00422,68,1378.52,84574.6,One Year,No,Debit Card,Yes
+CUST00423,58,1610.33,47894.07,One Year,DSL,UPI,No
+CUST00424,29,304.9,67140.57,One Year,Fiber Optic,UPI,No
+CUST00425,36,1760.23,40536.12,One Year,Fiber Optic,Bank Transfer,No
+CUST00426,21,616.24,30151.68,Month-to-Month,DSL,Debit Card,Yes
+CUST00427,36,1238.52,62735.07,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST00428,10,1006.86,15908.33,One Year,DSL,Bank Transfer,No
+CUST00429,24,1523.41,37613.48,One Year,Fiber Optic,Bank Transfer,No
+CUST00430,64,930.97,21299.19,Month-to-Month,No,Debit Card,No
+CUST00431,49,1778.6,69731.6,Month-to-Month,DSL,Bank Transfer,Yes
+CUST00432,36,1541.84,94448.78,Month-to-Month,DSL,UPI,No
+CUST00433,24,1401.11,99553.34,Month-to-Month,DSL,Bank Transfer,No
+CUST00434,23,1653.61,45302.54,Two Year,DSL,UPI,Yes
+CUST00435,62,1581.84,25626.77,Two Year,DSL,UPI,Yes
+CUST00436,37,361.1,44561.52,One Year,DSL,Debit Card,No
+CUST00437,12,971.05,84803.31,Two Year,No,Bank Transfer,No
+CUST00438,55,1882.37,20997.57,One Year,No,Debit Card,No
+CUST00439,13,513.73,95233.52,One Year,Fiber Optic,UPI,No
+CUST00440,23,1553.06,34515.64,Two Year,DSL,Credit Card,No
+CUST00441,30,1956.81,98587.46,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00442,17,388.74,83941.58,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00443,62,1459.73,80952.77,One Year,No,Credit Card,No
+CUST00444,13,1095.86,32131.52,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00445,59,1284.6,1373.33,Two Year,No,Bank Transfer,Yes
+CUST00446,19,445.08,38522.22,Two Year,Fiber Optic,Debit Card,No
+CUST00447,49,373.11,30530.03,One Year,DSL,Credit Card,No
+CUST00448,12,1433.67,4221.0,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00449,61,1699.63,50783.84,One Year,No,Bank Transfer,No
+CUST00450,19,1629.43,40601.62,Two Year,No,Bank Transfer,No
+CUST00451,9,1224.47,63638.37,One Year,No,UPI,No
+CUST00452,71,469.77,62308.04,One Year,Fiber Optic,Bank Transfer,No
+CUST00453,28,1469.68,12514.29,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00454,52,711.21,97708.07,Two Year,No,Credit Card,Yes
+CUST00455,16,1848.82,19099.68,One Year,DSL,Credit Card,No
+CUST00456,69,1725.05,44804.77,Month-to-Month,DSL,UPI,No
+CUST00457,12,1505.95,49067.7,One Year,Fiber Optic,UPI,No
+CUST00458,25,1913.04,81399.75,Month-to-Month,Fiber Optic,UPI,No
+CUST00459,52,353.42,10373.34,Month-to-Month,No,Debit Card,No
+CUST00460,53,1551.54,43150.11,One Year,Fiber Optic,Debit Card,Yes
+CUST00461,23,861.41,63035.97,Two Year,Fiber Optic,UPI,No
+CUST00462,16,1840.31,21907.98,Two Year,No,Debit Card,No
+CUST00463,57,753.35,62933.06,Month-to-Month,No,Bank Transfer,No
+CUST00464,39,1532.26,92404.65,Two Year,Fiber Optic,UPI,No
+CUST00465,53,1792.0,99753.05,Month-to-Month,DSL,UPI,No
+CUST00466,42,370.82,3728.88,Two Year,Fiber Optic,Debit Card,No
+CUST00467,58,976.0,23941.03,One Year,DSL,Credit Card,No
+CUST00468,39,1595.93,31375.56,Two Year,DSL,UPI,No
+CUST00469,14,1073.36,40213.05,Month-to-Month,DSL,Debit Card,No
+CUST00470,5,754.33,24604.59,Month-to-Month,No,Debit Card,Yes
+CUST00471,35,673.67,20747.06,Two Year,No,Credit Card,No
+CUST00472,18,523.58,95478.11,One Year,No,UPI,No
+CUST00473,9,1757.12,91892.9,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00474,58,1278.1,5175.75,Month-to-Month,No,Bank Transfer,No
+CUST00475,17,429.85,34211.9,Month-to-Month,No,Credit Card,No
+CUST00476,7,950.39,40812.28,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00477,46,925.15,24281.95,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00478,13,608.96,63072.85,One Year,DSL,Credit Card,No
+CUST00479,40,1040.36,64217.88,Two Year,Fiber Optic,Bank Transfer,No
+CUST00480,42,864.57,85125.17,One Year,Fiber Optic,Debit Card,No
+CUST00481,9,881.07,74216.49,One Year,No,Bank Transfer,No
+CUST00482,50,1556.35,54486.05,Month-to-Month,DSL,Credit Card,No
+CUST00483,27,679.55,65531.88,One Year,DSL,Bank Transfer,Yes
+CUST00484,66,1391.16,27761.88,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00485,5,1270.1,59509.09,One Year,No,Credit Card,Yes
+CUST00486,29,1265.76,49178.11,Month-to-Month,No,Credit Card,No
+CUST00487,37,1427.11,13767.77,Month-to-Month,No,Debit Card,No
+CUST00488,38,1232.25,24633.16,One Year,No,Debit Card,No
+CUST00489,8,1794.73,29523.5,One Year,Fiber Optic,UPI,No
+CUST00490,65,1448.49,92468.8,Two Year,No,Debit Card,Yes
+CUST00491,17,1229.84,23423.47,Two Year,DSL,Credit Card,Yes
+CUST00492,71,1710.6,29279.77,Two Year,DSL,Bank Transfer,Yes
+CUST00493,45,1330.45,37250.74,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00494,4,794.95,66542.4,One Year,No,Debit Card,Yes
+CUST00495,36,652.06,12264.72,Month-to-Month,No,Debit Card,No
+CUST00496,70,558.96,95417.55,Two Year,No,Credit Card,No
+CUST00497,31,1829.07,86624.34,Month-to-Month,No,Bank Transfer,No
+CUST00498,19,1507.23,57933.0,Month-to-Month,Fiber Optic,UPI,No
+CUST00499,61,1893.54,67566.77,Month-to-Month,No,UPI,Yes
+CUST00500,54,1325.6,2157.72,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00501,39,1104.78,34225.01,Two Year,No,UPI,No
+CUST00502,19,401.52,79668.19,Month-to-Month,No,Credit Card,No
+CUST00503,39,1441.79,8209.56,One Year,DSL,UPI,No
+CUST00504,67,1289.75,28590.23,One Year,Fiber Optic,Debit Card,No
+CUST00505,45,1983.36,58737.03,One Year,DSL,Credit Card,Yes
+CUST00506,13,706.57,26013.1,Two Year,Fiber Optic,Bank Transfer,No
+CUST00507,58,1202.25,93430.81,Month-to-Month,No,Credit Card,Yes
+CUST00508,20,1406.63,13540.33,Two Year,No,Debit Card,Yes
+CUST00509,61,1395.8,79840.74,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST00510,39,1254.2,51040.89,Two Year,DSL,UPI,No
+CUST00511,1,1620.78,75157.91,Two Year,Fiber Optic,UPI,No
+CUST00512,3,648.47,31416.18,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST00513,62,1533.57,51691.72,Two Year,No,Bank Transfer,No
+CUST00514,63,1353.55,85755.12,Month-to-Month,DSL,Debit Card,No
+CUST00515,25,1823.33,46954.37,One Year,Fiber Optic,Debit Card,No
+CUST00516,56,1740.23,36292.13,One Year,DSL,Debit Card,No
+CUST00517,33,835.75,53847.46,One Year,DSL,Bank Transfer,No
+CUST00518,38,769.6,71877.59,Two Year,Fiber Optic,Debit Card,No
+CUST00519,6,1968.81,44634.55,One Year,DSL,Bank Transfer,No
+CUST00520,58,1196.35,93918.26,Month-to-Month,No,Debit Card,No
+CUST00521,44,1840.92,29847.11,One Year,No,Credit Card,No
+CUST00522,45,578.6,47808.63,One Year,No,Credit Card,Yes
+CUST00523,32,1392.79,75814.3,Two Year,No,Debit Card,No
+CUST00524,45,1676.76,69067.55,Month-to-Month,DSL,Credit Card,Yes
+CUST00525,61,1910.57,86432.28,Two Year,No,Bank Transfer,No
+CUST00526,47,873.48,99682.51,Two Year,Fiber Optic,UPI,Yes
+CUST00527,21,1532.47,42972.4,Month-to-Month,No,Credit Card,No
+CUST00528,36,1215.98,11559.51,Two Year,Fiber Optic,UPI,No
+CUST00529,19,403.07,3526.38,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00530,20,1473.0,72824.25,One Year,No,Bank Transfer,No
+CUST00531,57,1473.16,87464.36,Month-to-Month,No,Credit Card,No
+CUST00532,18,1882.03,22460.9,Month-to-Month,DSL,Credit Card,No
+CUST00533,47,1145.43,16265.58,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00534,49,691.43,6689.41,Two Year,No,UPI,Yes
+CUST00535,14,375.76,82358.94,Month-to-Month,DSL,UPI,No
+CUST00536,15,1006.59,31482.5,Month-to-Month,No,Bank Transfer,No
+CUST00537,31,813.26,40468.84,Month-to-Month,No,Bank Transfer,No
+CUST00538,1,1593.85,50523.64,One Year,No,UPI,No
+CUST00539,54,902.26,84025.6,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00540,3,1913.42,65257.91,Two Year,No,Debit Card,Yes
+CUST00541,16,1935.93,61698.93,Month-to-Month,DSL,UPI,No
+CUST00542,57,1355.54,17979.37,Month-to-Month,No,Credit Card,Yes
+CUST00543,12,1878.72,51562.39,One Year,No,UPI,Yes
+CUST00544,16,1593.45,71680.41,Month-to-Month,DSL,Credit Card,No
+CUST00545,24,1229.66,97339.46,Two Year,DSL,UPI,No
+CUST00546,28,606.52,20539.93,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00547,8,1079.62,1449.56,Two Year,Fiber Optic,Debit Card,No
+CUST00548,36,1253.49,7992.49,One Year,Fiber Optic,UPI,No
+CUST00549,8,1768.73,37897.32,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00550,58,1118.27,82144.19,One Year,DSL,Credit Card,No
+CUST00551,60,1826.05,1210.64,Month-to-Month,No,Debit Card,No
+CUST00552,50,1446.39,45944.69,Two Year,No,Bank Transfer,Yes
+CUST00553,28,532.9,33258.45,One Year,No,Debit Card,No
+CUST00554,41,1991.47,5721.93,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00555,64,1196.3,45298.51,Two Year,DSL,UPI,No
+CUST00556,27,966.16,25847.5,One Year,DSL,Debit Card,No
+CUST00557,63,1420.49,35512.54,Month-to-Month,DSL,UPI,No
+CUST00558,17,485.12,70708.72,One Year,No,UPI,Yes
+CUST00559,33,1382.12,52394.32,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST00560,29,1147.0,12902.42,Two Year,DSL,Debit Card,No
+CUST00561,13,991.35,96160.75,Two Year,Fiber Optic,Debit Card,No
+CUST00562,46,1920.13,63773.12,One Year,DSL,UPI,No
+CUST00563,35,1188.32,76703.91,One Year,Fiber Optic,Bank Transfer,No
+CUST00564,6,672.5,8381.71,Month-to-Month,DSL,Credit Card,No
+CUST00565,69,1080.24,5182.31,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST00566,47,1862.96,2435.08,Month-to-Month,DSL,UPI,Yes
+CUST00567,25,599.36,19285.01,Two Year,DSL,Debit Card,No
+CUST00568,66,663.73,41733.64,One Year,Fiber Optic,Debit Card,No
+CUST00569,10,322.15,93614.7,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00570,56,324.12,45977.44,Month-to-Month,No,Credit Card,Yes
+CUST00571,30,1709.97,29380.38,Two Year,Fiber Optic,Bank Transfer,No
+CUST00572,5,1544.61,56412.56,Two Year,DSL,Bank Transfer,No
+CUST00573,33,903.57,11637.49,Two Year,DSL,Credit Card,No
+CUST00574,65,1487.13,61145.84,One Year,Fiber Optic,UPI,No
+CUST00575,18,971.85,57058.98,Month-to-Month,No,Bank Transfer,Yes
+CUST00576,49,1919.92,79303.31,Two Year,Fiber Optic,Debit Card,Yes
+CUST00577,11,1943.99,98675.42,One Year,DSL,Debit Card,No
+CUST00578,26,967.75,25461.91,Two Year,DSL,UPI,No
+CUST00579,63,1752.18,51210.82,Month-to-Month,No,Credit Card,No
+CUST00580,59,1614.25,90932.11,Two Year,Fiber Optic,Bank Transfer,No
+CUST00581,27,827.0,78626.39,Month-to-Month,DSL,Debit Card,No
+CUST00582,49,694.47,48996.93,One Year,DSL,Credit Card,No
+CUST00583,33,1079.0,94564.48,One Year,DSL,Bank Transfer,No
+CUST00584,1,1628.29,6195.05,Two Year,Fiber Optic,UPI,Yes
+CUST00585,21,1932.29,93134.36,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00586,55,1598.08,5525.49,Month-to-Month,No,UPI,No
+CUST00587,6,1753.85,54956.82,Month-to-Month,DSL,UPI,No
+CUST00588,69,1325.21,89098.87,Two Year,DSL,UPI,No
+CUST00589,5,1720.19,26640.73,Month-to-Month,No,Bank Transfer,No
+CUST00590,3,1633.52,47488.73,Month-to-Month,DSL,UPI,No
+CUST00591,53,940.88,32770.72,Month-to-Month,No,Bank Transfer,Yes
+CUST00592,23,1238.38,95238.32,Month-to-Month,No,Bank Transfer,Yes
+CUST00593,53,1668.08,82452.74,Two Year,DSL,UPI,No
+CUST00594,37,378.3,71045.65,Two Year,Fiber Optic,UPI,Yes
+CUST00595,17,1673.73,58968.89,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00596,1,602.41,82148.88,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00597,51,1174.96,39530.57,One Year,Fiber Optic,Credit Card,No
+CUST00598,45,1674.07,45031.41,One Year,DSL,Debit Card,No
+CUST00599,4,731.5,73135.17,Month-to-Month,No,Debit Card,No
+CUST00600,62,717.87,36096.6,Month-to-Month,No,Credit Card,Yes
+CUST00601,65,984.7,6858.14,One Year,DSL,Credit Card,Yes
+CUST00602,32,1820.89,7896.29,One Year,Fiber Optic,Debit Card,No
+CUST00603,34,300.75,11978.6,Month-to-Month,No,Debit Card,Yes
+CUST00604,39,1832.35,87033.29,Two Year,DSL,Debit Card,No
+CUST00605,26,561.47,47486.53,Two Year,DSL,Bank Transfer,Yes
+CUST00606,34,1983.15,71431.8,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00607,54,1923.24,39594.48,Month-to-Month,DSL,UPI,No
+CUST00608,3,1140.95,26241.74,One Year,No,UPI,Yes
+CUST00609,50,1171.62,35045.62,One Year,No,UPI,No
+CUST00610,12,1118.63,79521.14,Two Year,DSL,Credit Card,No
+CUST00611,65,1380.25,62709.0,Month-to-Month,No,Credit Card,No
+CUST00612,54,454.23,93795.16,One Year,DSL,Credit Card,No
+CUST00613,5,355.45,68130.63,Two Year,No,Debit Card,No
+CUST00614,57,398.09,57233.07,Two Year,Fiber Optic,UPI,No
+CUST00615,17,1055.42,61214.5,Two Year,No,Debit Card,No
+CUST00616,47,768.43,94265.96,One Year,Fiber Optic,Bank Transfer,No
+CUST00617,23,1357.47,78925.99,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00618,14,1987.15,2892.1,Month-to-Month,DSL,Credit Card,No
+CUST00619,66,956.75,53646.9,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00620,51,1275.53,68989.67,Two Year,No,UPI,No
+CUST00621,38,1006.53,74995.5,Two Year,No,Bank Transfer,No
+CUST00622,64,1740.36,21707.64,One Year,Fiber Optic,Credit Card,No
+CUST00623,38,1833.8,86784.15,One Year,DSL,Debit Card,No
+CUST00624,50,1791.5,95606.39,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00625,30,1956.43,24053.17,Month-to-Month,No,UPI,No
+CUST00626,51,346.78,88320.24,Month-to-Month,No,UPI,No
+CUST00627,63,1727.69,10149.39,One Year,Fiber Optic,UPI,No
+CUST00628,52,1578.01,6042.83,Two Year,Fiber Optic,Debit Card,No
+CUST00629,38,688.78,13357.77,Month-to-Month,Fiber Optic,UPI,No
+CUST00630,30,1925.74,6245.24,Month-to-Month,No,Credit Card,No
+CUST00631,51,551.9,84578.72,One Year,No,Credit Card,Yes
+CUST00632,5,1455.23,6375.49,Month-to-Month,No,UPI,Yes
+CUST00633,29,682.31,27530.59,Two Year,DSL,Bank Transfer,No
+CUST00634,4,1033.35,10823.76,One Year,No,UPI,No
+CUST00635,10,1522.57,29894.49,Month-to-Month,No,Credit Card,No
+CUST00636,56,1257.65,9510.67,Month-to-Month,DSL,Credit Card,No
+CUST00637,17,1026.75,66966.32,One Year,DSL,Credit Card,No
+CUST00638,17,854.78,13766.02,One Year,DSL,Bank Transfer,Yes
+CUST00639,69,1727.42,85258.67,Month-to-Month,DSL,Bank Transfer,No
+CUST00640,34,544.48,81810.51,Two Year,DSL,Bank Transfer,No
+CUST00641,6,1031.17,1859.34,One Year,DSL,Credit Card,No
+CUST00642,53,1836.39,89624.77,Two Year,Fiber Optic,Debit Card,No
+CUST00643,66,1737.94,3379.96,Month-to-Month,Fiber Optic,UPI,Yes
+CUST00644,43,981.6,24344.76,Two Year,Fiber Optic,UPI,No
+CUST00645,23,1597.28,3722.72,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00646,55,1699.37,33916.43,Month-to-Month,No,Bank Transfer,No
+CUST00647,16,1811.11,51629.72,Month-to-Month,DSL,Debit Card,No
+CUST00648,8,1225.66,79766.16,Month-to-Month,No,Debit Card,No
+CUST00649,4,647.58,34129.16,Two Year,DSL,Bank Transfer,No
+CUST00650,4,734.03,70696.26,Month-to-Month,DSL,UPI,No
+CUST00651,56,802.68,19156.69,Month-to-Month,No,UPI,No
+CUST00652,25,1309.46,75184.55,Two Year,Fiber Optic,Debit Card,No
+CUST00653,67,355.78,23981.66,One Year,No,Debit Card,Yes
+CUST00654,67,1381.27,14782.7,Two Year,No,Bank Transfer,No
+CUST00655,27,919.4,18948.18,Two Year,DSL,UPI,No
+CUST00656,32,801.91,18615.28,Two Year,DSL,Debit Card,No
+CUST00657,50,1795.14,51529.86,Month-to-Month,DSL,UPI,No
+CUST00658,61,1082.0,84557.36,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00659,51,461.59,8420.71,Month-to-Month,No,Bank Transfer,No
+CUST00660,19,1705.47,70842.15,One Year,No,UPI,No
+CUST00661,21,380.99,65607.47,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00662,5,1535.47,87315.74,One Year,No,Debit Card,No
+CUST00663,42,1615.64,24792.68,Month-to-Month,No,Debit Card,No
+CUST00664,61,899.42,45285.93,Two Year,DSL,Debit Card,No
+CUST00665,22,1702.14,92619.82,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00666,21,1176.62,66169.35,One Year,DSL,UPI,Yes
+CUST00667,70,1087.6,39182.46,One Year,Fiber Optic,UPI,No
+CUST00668,1,377.19,13575.53,Month-to-Month,DSL,Credit Card,Yes
+CUST00669,5,793.05,26617.26,Two Year,No,UPI,Yes
+CUST00670,12,1882.72,58330.94,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00671,46,966.1,71957.71,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00672,34,1229.39,12879.98,Month-to-Month,DSL,Bank Transfer,No
+CUST00673,49,1204.44,60159.93,Two Year,Fiber Optic,Bank Transfer,No
+CUST00674,45,1303.73,55259.95,One Year,No,Debit Card,No
+CUST00675,27,404.26,51638.57,Two Year,No,Credit Card,No
+CUST00676,26,915.7,69167.25,One Year,No,Debit Card,No
+CUST00677,47,1529.32,83826.23,One Year,DSL,Bank Transfer,Yes
+CUST00678,56,640.95,32637.47,One Year,Fiber Optic,Bank Transfer,No
+CUST00679,63,646.08,88956.71,Two Year,DSL,UPI,No
+CUST00680,48,317.15,16483.04,Month-to-Month,No,Credit Card,No
+CUST00681,61,1043.72,17715.88,Month-to-Month,Fiber Optic,UPI,No
+CUST00682,26,1800.65,27043.82,Month-to-Month,No,Bank Transfer,No
+CUST00683,36,388.23,12393.32,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00684,1,624.9,23416.76,Month-to-Month,Fiber Optic,UPI,No
+CUST00685,8,827.14,11087.97,Two Year,DSL,UPI,No
+CUST00686,52,1543.93,82264.37,Two Year,Fiber Optic,Bank Transfer,No
+CUST00687,47,1389.08,14327.41,Two Year,No,UPI,No
+CUST00688,56,1007.1,74856.11,Two Year,Fiber Optic,UPI,No
+CUST00689,14,1590.42,5267.43,Two Year,No,Credit Card,Yes
+CUST00690,28,1336.37,94877.77,Two Year,DSL,Bank Transfer,No
+CUST00691,2,1823.27,71260.43,Two Year,No,Debit Card,No
+CUST00692,26,1690.65,1176.26,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00693,14,729.78,76503.72,One Year,No,Debit Card,No
+CUST00694,59,761.45,51651.15,Two Year,No,UPI,No
+CUST00695,56,513.11,78046.83,One Year,Fiber Optic,UPI,No
+CUST00696,7,872.84,52488.43,Two Year,No,Debit Card,Yes
+CUST00697,3,1999.22,64281.97,Two Year,Fiber Optic,UPI,No
+CUST00698,23,989.78,78740.0,Month-to-Month,DSL,UPI,No
+CUST00699,18,674.83,40808.25,One Year,No,Credit Card,Yes
+CUST00700,38,1596.22,769.46,Month-to-Month,DSL,Debit Card,No
+CUST00701,15,1222.2,85069.68,Month-to-Month,No,Credit Card,No
+CUST00702,64,554.32,38398.59,One Year,No,Debit Card,No
+CUST00703,28,947.17,49856.25,Month-to-Month,DSL,Credit Card,No
+CUST00704,39,1004.6,1272.78,Two Year,No,Bank Transfer,No
+CUST00705,57,1581.51,49463.16,Two Year,No,Bank Transfer,No
+CUST00706,17,335.14,98655.5,Two Year,DSL,Debit Card,No
+CUST00707,44,757.33,28187.63,Two Year,No,Bank Transfer,No
+CUST00708,25,1179.91,39844.12,Two Year,Fiber Optic,Credit Card,No
+CUST00709,17,757.04,68875.4,Month-to-Month,No,Debit Card,Yes
+CUST00710,13,1368.34,81571.97,Month-to-Month,No,Bank Transfer,No
+CUST00711,25,1119.17,42030.47,Two Year,No,Bank Transfer,No
+CUST00712,68,914.91,31312.05,Two Year,DSL,Debit Card,No
+CUST00713,10,1913.65,93813.67,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST00714,67,1374.67,67875.92,One Year,Fiber Optic,Bank Transfer,No
+CUST00715,18,520.9,12342.62,Month-to-Month,No,Debit Card,No
+CUST00716,34,1252.16,7358.32,Month-to-Month,DSL,Bank Transfer,No
+CUST00717,8,1627.24,48613.21,Month-to-Month,DSL,Bank Transfer,No
+CUST00718,40,1504.43,22398.96,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00719,42,592.55,25771.48,Month-to-Month,DSL,Bank Transfer,No
+CUST00720,41,1953.11,87830.37,One Year,No,UPI,No
+CUST00721,6,1062.98,9411.82,Two Year,No,Debit Card,No
+CUST00722,52,570.34,71678.73,Two Year,DSL,UPI,No
+CUST00723,26,606.33,27478.65,One Year,No,UPI,No
+CUST00724,64,467.0,76152.66,Two Year,Fiber Optic,Credit Card,No
+CUST00725,59,1665.98,72379.93,Two Year,No,UPI,No
+CUST00726,56,507.45,1235.49,Two Year,DSL,UPI,No
+CUST00727,59,512.71,51158.97,One Year,Fiber Optic,Credit Card,No
+CUST00728,70,1745.8,14362.29,One Year,No,Bank Transfer,No
+CUST00729,33,885.83,86689.59,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST00730,53,352.46,87222.8,Two Year,DSL,UPI,No
+CUST00731,22,388.22,42125.41,Two Year,No,Credit Card,No
+CUST00732,21,541.69,44717.36,Month-to-Month,No,Bank Transfer,No
+CUST00733,70,662.77,30676.65,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00734,70,1430.75,71802.33,Month-to-Month,No,Debit Card,No
+CUST00735,4,567.45,36186.81,One Year,No,Debit Card,Yes
+CUST00736,62,502.09,27145.35,Two Year,No,Debit Card,No
+CUST00737,62,1600.02,43506.99,One Year,No,Debit Card,Yes
+CUST00738,24,1440.79,9603.01,One Year,DSL,UPI,No
+CUST00739,55,1040.05,74787.02,One Year,No,Debit Card,Yes
+CUST00740,9,1233.83,1753.34,Two Year,Fiber Optic,Debit Card,Yes
+CUST00741,3,830.37,64626.26,Month-to-Month,DSL,Credit Card,Yes
+CUST00742,31,1120.25,18695.02,Two Year,Fiber Optic,Bank Transfer,No
+CUST00743,40,1161.34,23624.2,Two Year,Fiber Optic,Credit Card,No
+CUST00744,36,958.3,63745.38,One Year,Fiber Optic,UPI,No
+CUST00745,24,1841.17,99297.87,One Year,DSL,Debit Card,Yes
+CUST00746,6,327.31,77882.89,One Year,DSL,Bank Transfer,No
+CUST00747,66,1629.69,22971.04,Month-to-Month,DSL,Bank Transfer,No
+CUST00748,4,511.45,18014.46,Month-to-Month,No,Debit Card,No
+CUST00749,6,1655.83,86690.17,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00750,51,1347.05,44696.3,Two Year,DSL,UPI,Yes
+CUST00751,62,1733.57,14136.75,One Year,Fiber Optic,UPI,No
+CUST00752,57,465.77,86290.04,Two Year,DSL,Debit Card,No
+CUST00753,66,1250.27,81701.19,Month-to-Month,DSL,Debit Card,Yes
+CUST00754,8,1151.85,98398.68,One Year,DSL,Debit Card,No
+CUST00755,26,1500.53,91019.5,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00756,51,1208.29,85253.14,One Year,No,Bank Transfer,No
+CUST00757,45,1219.25,5731.15,One Year,DSL,UPI,No
+CUST00758,44,1030.31,10889.33,Two Year,DSL,Debit Card,No
+CUST00759,5,825.02,57113.83,Two Year,DSL,Debit Card,No
+CUST00760,70,1119.85,53382.19,Month-to-Month,No,Bank Transfer,No
+CUST00761,26,501.44,46067.34,Two Year,Fiber Optic,Credit Card,No
+CUST00762,68,1934.57,39980.54,Two Year,Fiber Optic,Debit Card,No
+CUST00763,19,1514.5,43405.44,Two Year,Fiber Optic,Bank Transfer,No
+CUST00764,20,1919.19,57145.14,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00765,12,685.44,706.61,Two Year,DSL,Credit Card,No
+CUST00766,47,1794.88,26440.52,Month-to-Month,No,UPI,No
+CUST00767,1,1674.94,52068.83,One Year,DSL,UPI,No
+CUST00768,14,1451.16,72360.5,One Year,No,UPI,No
+CUST00769,64,1362.55,17828.59,Two Year,Fiber Optic,Debit Card,No
+CUST00770,38,838.13,54914.68,One Year,No,UPI,Yes
+CUST00771,37,1687.9,71588.74,Month-to-Month,DSL,Debit Card,Yes
+CUST00772,11,1152.58,44740.45,Month-to-Month,DSL,Debit Card,Yes
+CUST00773,3,420.52,3194.57,One Year,Fiber Optic,Bank Transfer,No
+CUST00774,33,831.87,45202.18,Two Year,DSL,UPI,No
+CUST00775,6,1890.01,29996.27,Two Year,DSL,UPI,No
+CUST00776,50,1746.16,93000.14,One Year,No,UPI,No
+CUST00777,10,1969.24,12899.03,Month-to-Month,DSL,Debit Card,No
+CUST00778,5,1367.59,65421.36,One Year,Fiber Optic,Debit Card,No
+CUST00779,23,720.77,5745.62,Two Year,Fiber Optic,UPI,No
+CUST00780,10,576.79,44893.96,Two Year,DSL,Debit Card,No
+CUST00781,44,617.75,55620.96,One Year,Fiber Optic,Debit Card,No
+CUST00782,2,333.65,30146.52,Month-to-Month,No,Credit Card,No
+CUST00783,13,964.16,45780.03,One Year,No,Credit Card,No
+CUST00784,40,625.43,16773.6,Month-to-Month,DSL,UPI,No
+CUST00785,2,999.81,30760.32,Month-to-Month,DSL,UPI,Yes
+CUST00786,65,1889.49,62300.08,One Year,No,Credit Card,Yes
+CUST00787,63,1031.92,30529.11,One Year,Fiber Optic,Debit Card,No
+CUST00788,17,1792.57,90024.44,Month-to-Month,DSL,Debit Card,No
+CUST00789,9,1329.36,63026.49,Month-to-Month,DSL,Bank Transfer,Yes
+CUST00790,15,720.12,44145.58,Month-to-Month,Fiber Optic,UPI,No
+CUST00791,24,904.95,4356.32,Month-to-Month,DSL,UPI,No
+CUST00792,38,442.66,50205.06,Two Year,Fiber Optic,UPI,No
+CUST00793,35,866.89,76595.24,One Year,Fiber Optic,Bank Transfer,No
+CUST00794,49,1451.82,26922.98,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST00795,69,422.59,80773.97,One Year,Fiber Optic,Debit Card,Yes
+CUST00796,62,649.18,25554.77,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00797,60,948.45,82462.77,One Year,No,Credit Card,No
+CUST00798,50,1969.48,8984.2,One Year,Fiber Optic,Credit Card,No
+CUST00799,9,1634.27,86685.28,Month-to-Month,No,Debit Card,No
+CUST00800,34,1546.93,50169.05,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00801,35,497.52,30005.49,One Year,DSL,Bank Transfer,No
+CUST00802,1,1627.69,26878.77,One Year,No,Bank Transfer,No
+CUST00803,40,1634.96,43485.05,One Year,DSL,UPI,Yes
+CUST00804,64,1321.87,99905.43,Two Year,Fiber Optic,Credit Card,Yes
+CUST00805,22,1983.62,22422.58,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST00806,60,852.93,10770.06,Two Year,DSL,UPI,No
+CUST00807,64,1900.16,58711.0,Two Year,Fiber Optic,Credit Card,Yes
+CUST00808,11,1855.04,49109.98,Month-to-Month,DSL,Credit Card,Yes
+CUST00809,14,319.52,52657.53,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00810,60,1065.2,66860.07,Two Year,Fiber Optic,UPI,No
+CUST00811,30,1961.08,27080.83,Month-to-Month,No,UPI,Yes
+CUST00812,35,475.31,91111.17,One Year,DSL,Bank Transfer,Yes
+CUST00813,37,1231.23,43849.37,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00814,5,1964.23,13344.08,Two Year,DSL,Bank Transfer,No
+CUST00815,26,1244.34,74358.73,Two Year,No,Credit Card,No
+CUST00816,62,622.69,64488.88,Month-to-Month,DSL,Bank Transfer,No
+CUST00817,4,1289.71,31916.47,Month-to-Month,No,Bank Transfer,No
+CUST00818,42,647.55,62341.11,Two Year,DSL,Debit Card,No
+CUST00819,18,1183.5,22376.26,Two Year,DSL,Bank Transfer,Yes
+CUST00820,40,425.87,44761.52,One Year,No,Bank Transfer,No
+CUST00821,39,1329.32,89991.55,One Year,Fiber Optic,Credit Card,No
+CUST00822,14,1178.54,13786.66,Month-to-Month,Fiber Optic,UPI,No
+CUST00823,32,1558.27,38976.3,One Year,Fiber Optic,Credit Card,No
+CUST00824,51,1372.19,82203.67,Month-to-Month,DSL,Debit Card,No
+CUST00825,38,1234.33,96964.34,Month-to-Month,DSL,Bank Transfer,No
+CUST00826,23,1472.62,45665.65,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST00827,63,544.7,50946.46,One Year,DSL,Bank Transfer,No
+CUST00828,15,1312.11,57431.11,Two Year,DSL,Bank Transfer,Yes
+CUST00829,25,592.59,93268.64,Two Year,Fiber Optic,Bank Transfer,No
+CUST00830,17,1873.39,85891.58,One Year,No,Bank Transfer,Yes
+CUST00831,66,416.17,17474.81,Two Year,DSL,Debit Card,No
+CUST00832,53,1031.64,43957.4,Month-to-Month,DSL,Bank Transfer,No
+CUST00833,51,1482.86,46668.04,Two Year,DSL,Bank Transfer,No
+CUST00834,39,1078.64,79015.06,One Year,DSL,Bank Transfer,No
+CUST00835,51,456.56,60487.84,Two Year,No,Debit Card,No
+CUST00836,70,1240.74,65594.94,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00837,6,1390.77,99820.89,Month-to-Month,DSL,Debit Card,Yes
+CUST00838,67,1496.45,7958.52,One Year,Fiber Optic,Credit Card,No
+CUST00839,7,934.54,22689.48,One Year,DSL,Bank Transfer,Yes
+CUST00840,51,1258.22,41085.65,One Year,No,UPI,Yes
+CUST00841,42,1066.17,35104.35,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST00842,64,1442.5,2653.73,Two Year,No,Credit Card,No
+CUST00843,15,1292.05,9631.87,Two Year,DSL,Debit Card,No
+CUST00844,29,1193.79,68254.85,One Year,No,Debit Card,Yes
+CUST00845,33,724.19,87992.78,Two Year,No,Credit Card,No
+CUST00846,27,303.43,51665.59,Two Year,DSL,Bank Transfer,No
+CUST00847,36,595.94,54149.51,One Year,DSL,Bank Transfer,No
+CUST00848,29,499.01,25881.8,One Year,Fiber Optic,Debit Card,No
+CUST00849,38,1063.44,76903.7,Month-to-Month,DSL,Credit Card,Yes
+CUST00850,57,1340.84,75303.56,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00851,27,662.24,59042.39,Month-to-Month,No,Debit Card,Yes
+CUST00852,55,1896.4,21660.1,Month-to-Month,No,UPI,No
+CUST00853,33,311.36,10153.31,Two Year,Fiber Optic,Credit Card,No
+CUST00854,68,1612.91,6891.74,Two Year,DSL,UPI,No
+CUST00855,66,1362.85,59473.26,Month-to-Month,DSL,UPI,Yes
+CUST00856,10,935.04,82591.01,Month-to-Month,No,Debit Card,Yes
+CUST00857,5,385.83,85903.88,One Year,Fiber Optic,Credit Card,Yes
+CUST00858,38,1366.73,46630.4,Two Year,No,Bank Transfer,No
+CUST00859,13,955.54,78534.99,Two Year,No,Bank Transfer,No
+CUST00860,31,1891.65,94714.58,Month-to-Month,DSL,Debit Card,No
+CUST00861,47,1221.38,27879.43,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST00862,52,1897.41,40097.05,One Year,No,Bank Transfer,No
+CUST00863,56,674.82,93182.16,One Year,DSL,UPI,Yes
+CUST00864,15,1533.73,34153.98,Two Year,No,UPI,Yes
+CUST00865,29,1349.32,91430.69,Month-to-Month,No,Credit Card,No
+CUST00866,8,1556.99,98113.96,Two Year,DSL,UPI,No
+CUST00867,5,664.94,66350.17,One Year,DSL,Bank Transfer,No
+CUST00868,29,1430.49,81780.58,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00869,47,1146.67,75079.78,Two Year,No,Credit Card,No
+CUST00870,68,1562.8,70103.66,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00871,45,855.98,31039.64,Month-to-Month,DSL,UPI,No
+CUST00872,2,1813.1,6180.89,One Year,DSL,Credit Card,No
+CUST00873,27,443.31,34633.65,Month-to-Month,No,Bank Transfer,No
+CUST00874,36,1672.22,66860.13,Two Year,Fiber Optic,Credit Card,Yes
+CUST00875,36,1764.24,10701.66,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00876,26,1689.33,1685.84,Month-to-Month,No,Debit Card,No
+CUST00877,43,1171.63,14399.39,Two Year,No,Bank Transfer,Yes
+CUST00878,27,1045.25,71715.72,One Year,Fiber Optic,Bank Transfer,No
+CUST00879,69,1993.65,97292.97,One Year,DSL,UPI,Yes
+CUST00880,20,689.59,98314.94,Two Year,DSL,Bank Transfer,No
+CUST00881,11,1229.69,49650.93,Two Year,No,Credit Card,No
+CUST00882,38,1440.15,87000.55,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00883,6,1491.47,73814.23,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST00884,23,646.84,50353.5,Two Year,Fiber Optic,Credit Card,Yes
+CUST00885,47,1411.79,57489.67,Month-to-Month,DSL,Debit Card,No
+CUST00886,46,1691.23,14154.1,Two Year,DSL,UPI,No
+CUST00887,12,385.03,93797.32,One Year,Fiber Optic,UPI,Yes
+CUST00888,13,1849.59,35517.01,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST00889,62,350.16,44891.85,Month-to-Month,No,Credit Card,No
+CUST00890,60,905.15,67330.19,Two Year,No,UPI,Yes
+CUST00891,43,326.88,33723.3,Month-to-Month,Fiber Optic,Debit Card,No
+CUST00892,68,431.15,25798.79,Two Year,Fiber Optic,Debit Card,No
+CUST00893,5,1848.99,63289.41,One Year,DSL,Debit Card,No
+CUST00894,37,903.26,2985.92,Month-to-Month,Fiber Optic,UPI,No
+CUST00895,31,1022.11,72212.15,Two Year,No,UPI,No
+CUST00896,9,666.09,51645.33,Month-to-Month,DSL,UPI,No
+CUST00897,51,1315.06,60772.5,Two Year,No,UPI,No
+CUST00898,29,1311.17,63372.08,Two Year,No,Bank Transfer,No
+CUST00899,40,932.74,52941.49,Two Year,DSL,Debit Card,Yes
+CUST00900,41,866.16,58462.11,One Year,No,Bank Transfer,Yes
+CUST00901,11,1804.44,68536.93,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST00902,23,951.58,75435.33,One Year,No,UPI,No
+CUST00903,1,1138.95,72881.51,Two Year,DSL,UPI,No
+CUST00904,46,781.62,87026.84,Two Year,DSL,Bank Transfer,No
+CUST00905,21,1637.51,19349.62,One Year,DSL,Credit Card,No
+CUST00906,36,975.66,40414.22,One Year,No,UPI,No
+CUST00907,54,1173.14,94805.71,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST00908,57,730.71,39960.76,Two Year,DSL,Debit Card,No
+CUST00909,1,1979.02,12924.57,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00910,63,795.54,52781.79,Two Year,DSL,Credit Card,Yes
+CUST00911,54,1610.26,11394.35,Two Year,Fiber Optic,Credit Card,No
+CUST00912,55,1026.74,20683.9,Month-to-Month,Fiber Optic,UPI,No
+CUST00913,40,650.57,99832.72,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00914,15,1659.52,54365.58,Month-to-Month,DSL,Credit Card,No
+CUST00915,21,867.13,28763.81,One Year,No,Debit Card,No
+CUST00916,47,1770.83,99480.11,Two Year,No,Bank Transfer,No
+CUST00917,53,1855.94,96672.61,One Year,No,UPI,No
+CUST00918,9,1761.7,44353.53,One Year,Fiber Optic,UPI,No
+CUST00919,52,359.51,26410.11,Month-to-Month,DSL,Credit Card,No
+CUST00920,57,1638.53,83920.76,Two Year,Fiber Optic,Debit Card,No
+CUST00921,26,999.28,71704.26,Two Year,DSL,Credit Card,No
+CUST00922,41,1785.33,68850.67,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00923,35,1384.52,89364.82,Two Year,DSL,UPI,No
+CUST00924,63,1717.19,69097.0,Month-to-Month,DSL,Credit Card,No
+CUST00925,25,1149.03,28737.9,One Year,DSL,Credit Card,No
+CUST00926,38,1209.54,69539.38,One Year,Fiber Optic,Debit Card,No
+CUST00927,2,545.46,30928.44,Month-to-Month,No,UPI,Yes
+CUST00928,7,1632.78,76044.28,One Year,Fiber Optic,Bank Transfer,No
+CUST00929,34,1012.96,62164.91,One Year,Fiber Optic,Debit Card,Yes
+CUST00930,17,1150.14,8202.45,Month-to-Month,DSL,Debit Card,No
+CUST00931,43,1634.67,51527.12,One Year,DSL,Debit Card,No
+CUST00932,59,1318.04,34658.45,Two Year,No,UPI,No
+CUST00933,51,641.87,33192.78,One Year,No,Credit Card,No
+CUST00934,54,1303.4,60424.5,Month-to-Month,DSL,Bank Transfer,No
+CUST00935,24,992.98,32571.32,Two Year,No,UPI,Yes
+CUST00936,25,1098.19,77800.93,Two Year,No,Credit Card,Yes
+CUST00937,71,348.13,7543.75,One Year,DSL,Debit Card,No
+CUST00938,52,657.05,66208.63,Two Year,Fiber Optic,UPI,No
+CUST00939,70,777.76,81014.88,Month-to-Month,No,Credit Card,Yes
+CUST00940,33,1512.03,67446.75,Two Year,DSL,Bank Transfer,Yes
+CUST00941,49,319.54,49974.3,One Year,No,Bank Transfer,Yes
+CUST00942,29,994.92,95055.55,One Year,No,Credit Card,No
+CUST00943,63,1870.85,30343.88,Two Year,DSL,UPI,Yes
+CUST00944,22,490.2,2407.2,Month-to-Month,No,Debit Card,Yes
+CUST00945,26,1177.92,43482.94,Month-to-Month,No,Credit Card,No
+CUST00946,28,1637.09,3784.69,One Year,No,Debit Card,No
+CUST00947,49,1902.3,95416.71,One Year,Fiber Optic,Bank Transfer,No
+CUST00948,71,1569.52,21386.85,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00949,49,1524.96,78998.24,Two Year,No,Bank Transfer,No
+CUST00950,20,1705.03,77569.92,Two Year,DSL,Debit Card,No
+CUST00951,63,1058.54,22164.03,Two Year,No,Debit Card,No
+CUST00952,61,1669.94,62312.04,Two Year,No,Credit Card,Yes
+CUST00953,49,313.54,5283.86,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00954,71,1871.75,48615.67,One Year,Fiber Optic,Credit Card,No
+CUST00955,1,1053.62,1957.39,One Year,Fiber Optic,Bank Transfer,Yes
+CUST00956,13,1240.75,92153.82,Two Year,No,Debit Card,No
+CUST00957,51,733.3,97620.56,Month-to-Month,No,Debit Card,No
+CUST00958,56,1562.3,22617.14,Month-to-Month,DSL,Bank Transfer,No
+CUST00959,62,430.28,21206.55,Two Year,No,Credit Card,No
+CUST00960,32,1783.48,75495.16,Two Year,No,UPI,Yes
+CUST00961,30,1707.8,25711.25,Two Year,Fiber Optic,Credit Card,No
+CUST00962,29,667.3,89560.12,One Year,Fiber Optic,UPI,No
+CUST00963,49,1675.85,57605.95,Two Year,Fiber Optic,UPI,No
+CUST00964,45,1636.81,35402.37,One Year,Fiber Optic,Bank Transfer,No
+CUST00965,30,1374.77,83353.03,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST00966,16,934.98,49593.97,Month-to-Month,DSL,Debit Card,No
+CUST00967,40,761.55,91207.47,One Year,DSL,Debit Card,No
+CUST00968,19,694.03,92837.42,One Year,DSL,Debit Card,Yes
+CUST00969,18,841.64,16959.31,One Year,Fiber Optic,Bank Transfer,No
+CUST00970,1,1836.05,731.18,One Year,Fiber Optic,UPI,No
+CUST00971,47,431.99,98401.13,Two Year,Fiber Optic,Debit Card,No
+CUST00972,66,1709.08,90660.68,Month-to-Month,DSL,UPI,Yes
+CUST00973,38,893.11,6016.8,Two Year,Fiber Optic,Bank Transfer,No
+CUST00974,51,1186.72,83386.91,One Year,DSL,Credit Card,No
+CUST00975,63,1650.63,46051.59,Two Year,Fiber Optic,Bank Transfer,No
+CUST00976,4,1803.44,26266.68,Two Year,No,Debit Card,Yes
+CUST00977,1,886.13,87935.28,Month-to-Month,DSL,Credit Card,No
+CUST00978,8,1085.13,20068.39,Two Year,No,Bank Transfer,No
+CUST00979,29,1004.68,94756.35,Month-to-Month,DSL,Bank Transfer,Yes
+CUST00980,55,322.53,20959.34,One Year,Fiber Optic,UPI,No
+CUST00981,3,803.1,61561.48,Two Year,Fiber Optic,Bank Transfer,No
+CUST00982,32,1080.62,22697.09,One Year,No,Credit Card,Yes
+CUST00983,10,998.86,54794.03,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST00984,34,1527.28,68555.53,One Year,DSL,Debit Card,No
+CUST00985,55,954.17,19427.68,One Year,Fiber Optic,UPI,No
+CUST00986,32,1131.94,52328.14,Month-to-Month,Fiber Optic,Credit Card,No
+CUST00987,50,1030.33,47171.44,One Year,DSL,Credit Card,Yes
+CUST00988,7,1559.06,7568.22,One Year,No,Bank Transfer,No
+CUST00989,8,1767.05,81921.63,One Year,No,Debit Card,No
+CUST00990,65,1204.21,33900.4,Two Year,Fiber Optic,UPI,Yes
+CUST00991,57,1642.03,57670.93,One Year,DSL,Credit Card,No
+CUST00992,67,804.54,51721.03,Month-to-Month,No,UPI,Yes
+CUST00993,59,1220.33,51569.42,Two Year,No,Bank Transfer,No
+CUST00994,54,886.89,11168.63,Two Year,Fiber Optic,Debit Card,No
+CUST00995,67,1004.14,42636.46,Month-to-Month,DSL,Bank Transfer,No
+CUST00996,51,1545.1,45510.49,One Year,No,UPI,Yes
+CUST00997,8,1798.83,73497.46,Two Year,Fiber Optic,Bank Transfer,No
+CUST00998,34,506.54,84081.87,Two Year,Fiber Optic,UPI,No
+CUST00999,35,1378.89,54725.74,Two Year,Fiber Optic,Credit Card,No
+CUST01000,32,1289.64,9134.9,One Year,Fiber Optic,Credit Card,No
+CUST01001,46,501.31,24066.52,Two Year,No,Bank Transfer,Yes
+CUST01002,16,660.22,16910.94,Month-to-Month,DSL,Credit Card,No
+CUST01003,68,828.7,12899.2,One Year,Fiber Optic,UPI,No
+CUST01004,37,583.78,36906.98,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01005,54,714.34,23324.65,Month-to-Month,No,Debit Card,No
+CUST01006,14,754.92,22221.16,Two Year,Fiber Optic,Debit Card,No
+CUST01007,55,870.65,5941.97,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01008,48,1573.96,2258.17,Two Year,DSL,Bank Transfer,No
+CUST01009,7,1272.25,10725.44,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01010,7,1976.62,17633.65,One Year,No,Bank Transfer,No
+CUST01011,33,1005.05,43382.88,Two Year,DSL,UPI,No
+CUST01012,23,1581.57,51296.77,Two Year,No,UPI,No
+CUST01013,19,1781.5,14488.9,Month-to-Month,DSL,Debit Card,Yes
+CUST01014,19,1454.26,42765.94,One Year,DSL,UPI,No
+CUST01015,36,1000.17,34504.01,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01016,29,1581.11,18750.65,Two Year,Fiber Optic,Debit Card,No
+CUST01017,60,646.23,1180.65,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01018,2,856.84,46968.28,Two Year,No,Bank Transfer,Yes
+CUST01019,1,1229.36,68722.35,One Year,Fiber Optic,UPI,No
+CUST01020,47,1278.2,23014.59,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01021,69,337.64,13614.78,Two Year,DSL,UPI,No
+CUST01022,20,1906.69,88760.75,Two Year,Fiber Optic,UPI,No
+CUST01023,11,1484.27,27864.96,Two Year,Fiber Optic,UPI,No
+CUST01024,2,1142.7,22749.46,Two Year,Fiber Optic,Debit Card,Yes
+CUST01025,67,1886.32,85781.15,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01026,12,1046.46,81802.16,Two Year,DSL,Credit Card,No
+CUST01027,20,1966.74,45110.47,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01028,5,1170.88,49179.27,Two Year,DSL,Debit Card,No
+CUST01029,37,494.29,22166.0,Month-to-Month,No,Bank Transfer,No
+CUST01030,38,1600.16,8291.02,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01031,9,1454.13,57556.47,Two Year,Fiber Optic,Credit Card,Yes
+CUST01032,53,1614.08,10285.32,Two Year,Fiber Optic,Bank Transfer,No
+CUST01033,44,1917.45,45202.82,Two Year,DSL,Bank Transfer,Yes
+CUST01034,24,1620.03,94079.47,Two Year,Fiber Optic,Bank Transfer,No
+CUST01035,30,1339.27,95307.02,One Year,Fiber Optic,UPI,No
+CUST01036,59,1757.43,24313.56,Two Year,No,Debit Card,No
+CUST01037,14,1444.52,62599.29,Two Year,DSL,Debit Card,No
+CUST01038,9,993.8,47670.59,Two Year,DSL,Credit Card,No
+CUST01039,40,1805.55,87630.67,Month-to-Month,No,UPI,No
+CUST01040,66,677.23,27507.37,Two Year,DSL,UPI,No
+CUST01041,25,1514.89,868.39,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01042,22,1798.66,16674.84,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01043,4,1543.24,35277.52,Month-to-Month,No,Credit Card,No
+CUST01044,26,1485.37,31914.25,Month-to-Month,DSL,UPI,No
+CUST01045,58,1579.49,79240.61,One Year,DSL,Bank Transfer,Yes
+CUST01046,29,1090.59,68215.79,Two Year,DSL,Credit Card,Yes
+CUST01047,37,1786.09,30305.85,Month-to-Month,No,UPI,Yes
+CUST01048,70,645.84,46045.51,Two Year,Fiber Optic,Credit Card,No
+CUST01049,18,516.56,10008.13,Month-to-Month,No,UPI,Yes
+CUST01050,42,785.36,89865.57,One Year,Fiber Optic,Credit Card,Yes
+CUST01051,41,1203.68,93574.77,Month-to-Month,No,UPI,No
+CUST01052,38,1167.96,97990.45,Two Year,Fiber Optic,UPI,No
+CUST01053,34,1695.02,86921.01,Two Year,DSL,Credit Card,No
+CUST01054,17,987.77,17809.11,One Year,DSL,UPI,No
+CUST01055,37,1123.39,5096.55,Two Year,DSL,UPI,No
+CUST01056,25,322.73,58169.87,Two Year,No,UPI,No
+CUST01057,27,996.56,91304.2,Month-to-Month,No,Credit Card,No
+CUST01058,57,1401.22,18146.46,Two Year,No,Credit Card,No
+CUST01059,31,326.36,1200.77,Month-to-Month,DSL,UPI,No
+CUST01060,6,777.5,80646.86,One Year,Fiber Optic,UPI,No
+CUST01061,40,653.53,8141.17,Two Year,DSL,Credit Card,Yes
+CUST01062,12,371.38,41663.75,Month-to-Month,DSL,Bank Transfer,No
+CUST01063,53,1114.74,68049.29,Two Year,Fiber Optic,UPI,Yes
+CUST01064,71,608.93,24061.36,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01065,10,1563.24,8854.28,One Year,Fiber Optic,Credit Card,No
+CUST01066,45,1741.48,77117.11,Month-to-Month,Fiber Optic,UPI,No
+CUST01067,17,1227.49,63202.42,Two Year,DSL,Bank Transfer,No
+CUST01068,26,1968.9,98854.8,Month-to-Month,No,Credit Card,No
+CUST01069,62,1065.81,34758.65,Two Year,DSL,Bank Transfer,No
+CUST01070,46,1172.73,6645.36,One Year,Fiber Optic,Debit Card,No
+CUST01071,64,1981.67,73567.83,Month-to-Month,No,Credit Card,No
+CUST01072,2,693.63,52412.48,Two Year,No,Debit Card,No
+CUST01073,54,1902.33,21713.79,Two Year,DSL,Credit Card,No
+CUST01074,65,372.82,78282.03,Two Year,DSL,Credit Card,No
+CUST01075,51,1058.86,20773.67,Month-to-Month,DSL,UPI,Yes
+CUST01076,53,419.01,26435.83,Month-to-Month,No,Debit Card,No
+CUST01077,36,1539.7,9706.59,Month-to-Month,No,Debit Card,No
+CUST01078,26,1334.3,40243.51,One Year,No,Debit Card,No
+CUST01079,29,1501.28,42183.46,Two Year,Fiber Optic,Credit Card,No
+CUST01080,21,936.62,51698.9,Two Year,Fiber Optic,Debit Card,No
+CUST01081,11,928.12,71041.94,One Year,DSL,Debit Card,No
+CUST01082,40,377.04,90657.04,One Year,No,UPI,No
+CUST01083,11,894.91,14204.54,Month-to-Month,DSL,Bank Transfer,No
+CUST01084,36,1879.79,5907.64,Month-to-Month,No,Bank Transfer,Yes
+CUST01085,59,944.69,2343.86,Month-to-Month,DSL,Debit Card,No
+CUST01086,39,1713.33,14790.33,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01087,54,1731.95,65965.97,Month-to-Month,No,Debit Card,Yes
+CUST01088,55,934.51,72883.97,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01089,24,1374.38,78757.32,One Year,No,Bank Transfer,No
+CUST01090,22,462.13,24748.97,One Year,DSL,UPI,No
+CUST01091,69,476.25,30936.53,One Year,No,Credit Card,No
+CUST01092,56,382.72,48571.9,Two Year,Fiber Optic,Debit Card,No
+CUST01093,33,1287.73,6786.72,Two Year,No,Debit Card,No
+CUST01094,36,1024.32,61308.58,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01095,20,1231.66,98381.64,One Year,No,Debit Card,No
+CUST01096,62,1185.82,36400.23,Two Year,Fiber Optic,UPI,No
+CUST01097,26,895.35,75408.32,Two Year,DSL,UPI,No
+CUST01098,66,1451.7,50253.37,One Year,Fiber Optic,Debit Card,Yes
+CUST01099,40,1589.45,13217.28,Two Year,No,Bank Transfer,No
+CUST01100,17,324.87,58432.63,Two Year,Fiber Optic,Debit Card,No
+CUST01101,1,652.31,30337.49,One Year,No,Debit Card,No
+CUST01102,61,1512.5,3923.12,Two Year,DSL,Bank Transfer,No
+CUST01103,43,957.25,63675.51,One Year,Fiber Optic,UPI,No
+CUST01104,42,1426.22,85963.77,Two Year,Fiber Optic,Credit Card,Yes
+CUST01105,25,889.84,34804.59,One Year,No,Debit Card,Yes
+CUST01106,39,964.28,39334.41,Two Year,Fiber Optic,UPI,No
+CUST01107,35,569.75,89156.66,Two Year,Fiber Optic,Debit Card,No
+CUST01108,3,738.99,81454.08,One Year,DSL,Credit Card,No
+CUST01109,44,1329.2,71637.81,Two Year,No,Bank Transfer,Yes
+CUST01110,51,1036.38,25255.31,One Year,No,UPI,No
+CUST01111,12,1616.31,91066.56,One Year,DSL,Credit Card,Yes
+CUST01112,19,1749.39,15864.37,Two Year,DSL,Debit Card,Yes
+CUST01113,44,1220.8,62863.67,Month-to-Month,No,Credit Card,No
+CUST01114,59,1589.05,3365.72,Two Year,DSL,UPI,No
+CUST01115,49,821.74,64550.12,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01116,61,1005.45,28075.86,Month-to-Month,DSL,Debit Card,Yes
+CUST01117,17,1511.72,45242.86,Two Year,No,Bank Transfer,No
+CUST01118,57,956.56,34853.82,Month-to-Month,DSL,Bank Transfer,No
+CUST01119,55,1300.46,17689.3,One Year,Fiber Optic,Credit Card,No
+CUST01120,47,615.13,62387.09,One Year,Fiber Optic,Credit Card,No
+CUST01121,12,1319.61,88256.57,Month-to-Month,No,UPI,No
+CUST01122,62,1764.57,95928.88,One Year,DSL,UPI,Yes
+CUST01123,8,1776.69,19638.46,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01124,21,1531.39,71878.59,One Year,No,UPI,No
+CUST01125,70,1567.78,66601.77,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01126,25,1248.48,34666.09,Two Year,DSL,Debit Card,No
+CUST01127,12,1293.94,2400.37,One Year,No,Bank Transfer,No
+CUST01128,15,527.21,69134.23,Two Year,Fiber Optic,UPI,No
+CUST01129,59,1054.56,94576.74,Month-to-Month,No,UPI,No
+CUST01130,26,1066.32,63395.95,One Year,Fiber Optic,Bank Transfer,No
+CUST01131,26,1929.45,43811.63,Two Year,Fiber Optic,Credit Card,Yes
+CUST01132,47,1032.85,52752.81,Two Year,DSL,Bank Transfer,No
+CUST01133,32,1233.88,20363.07,One Year,DSL,Bank Transfer,Yes
+CUST01134,10,1206.53,75179.14,Two Year,Fiber Optic,Credit Card,No
+CUST01135,16,1382.49,74768.77,Two Year,No,Debit Card,No
+CUST01136,71,1572.0,14978.97,Month-to-Month,No,Credit Card,Yes
+CUST01137,17,682.57,87858.85,Month-to-Month,DSL,UPI,No
+CUST01138,23,1198.83,27284.38,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST01139,26,1704.06,98234.48,Month-to-Month,DSL,UPI,No
+CUST01140,7,1087.3,38598.85,Month-to-Month,Fiber Optic,UPI,No
+CUST01141,14,773.38,18199.46,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01142,7,1413.01,35496.15,One Year,DSL,Bank Transfer,Yes
+CUST01143,9,1700.4,44297.94,Month-to-Month,No,Debit Card,No
+CUST01144,48,407.34,7396.12,Two Year,DSL,UPI,No
+CUST01145,59,1620.54,58032.73,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01146,39,1696.8,59964.43,Two Year,DSL,UPI,No
+CUST01147,18,1084.59,74023.58,Month-to-Month,No,Debit Card,No
+CUST01148,59,1971.62,3402.4,Month-to-Month,No,UPI,Yes
+CUST01149,17,1637.4,54353.2,Two Year,Fiber Optic,Debit Card,No
+CUST01150,14,1615.23,5764.29,Two Year,DSL,Debit Card,No
+CUST01151,31,1571.33,70263.85,Two Year,No,Debit Card,No
+CUST01152,24,556.03,6044.93,One Year,DSL,Bank Transfer,No
+CUST01153,60,669.29,91216.92,Month-to-Month,No,Credit Card,Yes
+CUST01154,45,1088.78,70357.22,Two Year,Fiber Optic,Credit Card,No
+CUST01155,3,748.81,50985.28,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01156,37,1005.91,44429.64,Two Year,DSL,UPI,Yes
+CUST01157,43,1810.39,13501.93,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01158,40,1701.36,29454.44,One Year,No,UPI,No
+CUST01159,55,1371.07,86961.43,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01160,39,1758.8,90493.05,Two Year,No,Bank Transfer,No
+CUST01161,15,1632.41,574.4,Month-to-Month,No,Credit Card,No
+CUST01162,4,1029.27,59616.57,One Year,Fiber Optic,UPI,No
+CUST01163,25,641.81,72070.41,One Year,No,Bank Transfer,No
+CUST01164,13,1174.14,62065.32,Month-to-Month,No,Bank Transfer,Yes
+CUST01165,33,1551.59,8627.14,Two Year,DSL,UPI,Yes
+CUST01166,16,1041.91,22163.63,One Year,DSL,Debit Card,No
+CUST01167,42,1433.51,25408.86,One Year,DSL,Debit Card,No
+CUST01168,66,460.36,83256.6,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01169,55,1571.61,46588.34,One Year,DSL,Debit Card,No
+CUST01170,42,1681.61,48939.41,One Year,No,UPI,No
+CUST01171,34,1501.62,93521.86,Two Year,Fiber Optic,Credit Card,Yes
+CUST01172,30,1944.35,63890.05,Two Year,Fiber Optic,Bank Transfer,No
+CUST01173,13,1705.31,89917.44,Two Year,Fiber Optic,Bank Transfer,No
+CUST01174,13,1835.26,45922.63,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01175,18,1887.07,15368.91,One Year,No,UPI,No
+CUST01176,32,1662.29,93028.59,Month-to-Month,No,Credit Card,No
+CUST01177,39,1446.24,46141.16,One Year,DSL,Credit Card,No
+CUST01178,46,309.72,18572.33,One Year,Fiber Optic,Bank Transfer,No
+CUST01179,29,1091.9,30588.38,One Year,DSL,Debit Card,Yes
+CUST01180,62,1270.98,5554.86,Two Year,No,Bank Transfer,No
+CUST01181,62,816.85,47095.91,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01182,57,840.78,85386.25,Month-to-Month,No,Credit Card,No
+CUST01183,16,1933.97,93391.26,One Year,DSL,UPI,No
+CUST01184,56,1815.91,93293.92,Month-to-Month,No,Credit Card,No
+CUST01185,10,1743.6,12960.39,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01186,30,990.22,38514.36,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01187,25,323.29,3308.76,One Year,DSL,Debit Card,Yes
+CUST01188,5,436.38,85588.95,Two Year,Fiber Optic,UPI,No
+CUST01189,65,830.73,36196.2,Two Year,No,UPI,Yes
+CUST01190,49,326.76,63296.14,One Year,No,UPI,No
+CUST01191,3,329.15,71632.39,Month-to-Month,No,Bank Transfer,Yes
+CUST01192,45,1858.23,43269.54,One Year,No,Bank Transfer,No
+CUST01193,14,1500.47,30991.01,Month-to-Month,DSL,UPI,No
+CUST01194,30,825.23,96240.18,Month-to-Month,No,Debit Card,No
+CUST01195,68,525.5,96466.58,Two Year,DSL,Debit Card,Yes
+CUST01196,18,1169.78,29298.92,One Year,No,Debit Card,No
+CUST01197,62,309.09,48222.7,Two Year,DSL,Bank Transfer,No
+CUST01198,37,1895.3,97297.99,One Year,No,Credit Card,No
+CUST01199,25,1005.19,984.41,One Year,No,Debit Card,No
+CUST01200,48,983.97,41561.49,Two Year,DSL,Debit Card,No
+CUST01201,65,964.01,10495.53,One Year,Fiber Optic,Debit Card,No
+CUST01202,53,417.86,51161.22,One Year,Fiber Optic,UPI,No
+CUST01203,15,1385.15,2954.66,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01204,49,1546.11,40986.39,One Year,DSL,UPI,Yes
+CUST01205,68,1449.41,22459.56,One Year,Fiber Optic,UPI,No
+CUST01206,12,535.34,53564.18,Two Year,Fiber Optic,Credit Card,Yes
+CUST01207,59,1284.03,99601.37,Two Year,DSL,UPI,No
+CUST01208,37,1268.12,80153.34,One Year,Fiber Optic,Credit Card,Yes
+CUST01209,61,1776.3,84641.39,Month-to-Month,Fiber Optic,UPI,No
+CUST01210,43,944.52,63708.87,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01211,70,931.53,4635.2,Two Year,DSL,Bank Transfer,No
+CUST01212,39,1351.5,21076.37,One Year,DSL,UPI,No
+CUST01213,56,1376.22,92543.92,One Year,Fiber Optic,Credit Card,No
+CUST01214,63,1097.78,36928.26,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01215,46,1053.2,10811.85,Month-to-Month,DSL,Credit Card,No
+CUST01216,11,1140.05,70389.33,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01217,62,1763.78,30296.04,Two Year,DSL,UPI,No
+CUST01218,25,1083.98,27251.26,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01219,71,1897.88,99798.76,Two Year,DSL,Debit Card,No
+CUST01220,52,1156.81,85884.82,One Year,No,UPI,No
+CUST01221,4,1913.64,41089.81,Two Year,No,UPI,Yes
+CUST01222,59,1715.81,98035.99,One Year,DSL,Credit Card,Yes
+CUST01223,20,916.13,65186.27,Month-to-Month,No,Credit Card,No
+CUST01224,63,1768.19,74331.23,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01225,54,487.11,3635.55,Month-to-Month,DSL,Credit Card,Yes
+CUST01226,57,1872.58,12599.72,Two Year,DSL,Debit Card,No
+CUST01227,41,1373.79,63491.97,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01228,3,392.46,89952.89,One Year,Fiber Optic,Debit Card,No
+CUST01229,6,1395.24,62562.5,Two Year,DSL,Credit Card,No
+CUST01230,5,1956.22,13835.48,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01231,5,418.66,12018.12,Two Year,DSL,Debit Card,No
+CUST01232,54,1242.97,84496.5,One Year,Fiber Optic,Bank Transfer,No
+CUST01233,47,1571.25,14360.58,One Year,DSL,UPI,No
+CUST01234,49,1677.44,52263.08,Two Year,Fiber Optic,Credit Card,Yes
+CUST01235,9,1003.51,4192.78,Two Year,Fiber Optic,Credit Card,No
+CUST01236,20,647.08,8526.64,Month-to-Month,No,Bank Transfer,No
+CUST01237,61,371.98,67398.65,Month-to-Month,No,UPI,No
+CUST01238,35,1285.53,69073.55,One Year,No,UPI,No
+CUST01239,50,1069.95,34476.21,One Year,Fiber Optic,Debit Card,Yes
+CUST01240,62,1912.87,21953.17,One Year,DSL,Credit Card,No
+CUST01241,17,403.03,81464.17,Two Year,Fiber Optic,UPI,Yes
+CUST01242,3,1465.17,22101.77,Two Year,No,UPI,No
+CUST01243,32,342.44,54431.69,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01244,13,591.44,96836.78,One Year,No,Debit Card,No
+CUST01245,68,1071.08,15211.32,Month-to-Month,No,Bank Transfer,No
+CUST01246,14,1073.28,94117.19,Two Year,DSL,Credit Card,No
+CUST01247,11,1465.69,18697.86,Two Year,DSL,UPI,Yes
+CUST01248,56,1847.36,56960.6,Two Year,No,Bank Transfer,No
+CUST01249,67,1386.35,38012.27,Month-to-Month,No,Credit Card,No
+CUST01250,29,1921.01,96510.4,Two Year,Fiber Optic,Bank Transfer,No
+CUST01251,9,1798.75,27717.43,One Year,No,Credit Card,Yes
+CUST01252,67,1293.65,40265.97,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01253,25,1717.45,98294.58,Two Year,No,UPI,No
+CUST01254,42,1392.38,53878.8,Month-to-Month,DSL,Credit Card,No
+CUST01255,9,433.55,50511.7,Month-to-Month,DSL,Debit Card,Yes
+CUST01256,40,1558.96,26148.96,Two Year,No,UPI,No
+CUST01257,25,461.34,70285.67,Two Year,Fiber Optic,Debit Card,Yes
+CUST01258,5,1309.94,1930.11,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01259,11,1494.49,5426.51,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01260,59,413.1,60136.18,Two Year,No,Credit Card,No
+CUST01261,38,692.35,34496.62,One Year,No,Credit Card,No
+CUST01262,5,1856.64,95354.98,Month-to-Month,DSL,Debit Card,No
+CUST01263,48,1347.73,90367.47,Month-to-Month,DSL,Debit Card,No
+CUST01264,18,718.69,71513.77,One Year,No,Debit Card,No
+CUST01265,70,1474.16,81905.49,Two Year,DSL,Bank Transfer,No
+CUST01266,37,1314.52,66899.52,Two Year,Fiber Optic,Debit Card,No
+CUST01267,60,1152.68,12995.42,One Year,Fiber Optic,UPI,Yes
+CUST01268,48,1959.52,76671.57,Two Year,No,UPI,No
+CUST01269,28,1461.87,21414.1,Two Year,Fiber Optic,Bank Transfer,No
+CUST01270,69,938.25,32682.56,Month-to-Month,No,Debit Card,Yes
+CUST01271,40,1660.12,82013.8,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01272,45,1803.79,53884.3,Month-to-Month,No,Credit Card,No
+CUST01273,62,512.87,86064.1,One Year,Fiber Optic,UPI,Yes
+CUST01274,58,640.94,21697.01,Two Year,Fiber Optic,Bank Transfer,No
+CUST01275,67,667.59,60973.95,Two Year,DSL,Debit Card,No
+CUST01276,56,1475.06,8837.2,Month-to-Month,DSL,Credit Card,No
+CUST01277,40,1325.17,64484.57,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01278,40,1352.29,76372.14,One Year,DSL,Bank Transfer,No
+CUST01279,33,1899.31,58700.62,Two Year,DSL,UPI,No
+CUST01280,6,1619.05,26990.03,One Year,DSL,Debit Card,No
+CUST01281,19,517.49,3618.6,Two Year,No,Bank Transfer,Yes
+CUST01282,40,890.76,12385.16,One Year,No,Credit Card,No
+CUST01283,59,1040.17,62419.15,Month-to-Month,DSL,Credit Card,No
+CUST01284,59,973.13,93474.81,One Year,No,Bank Transfer,No
+CUST01285,48,1437.82,21050.17,One Year,DSL,Credit Card,No
+CUST01286,41,1816.22,73635.1,Month-to-Month,No,Bank Transfer,Yes
+CUST01287,13,820.29,86711.88,Two Year,Fiber Optic,Credit Card,No
+CUST01288,45,1238.19,52327.78,Two Year,No,Bank Transfer,No
+CUST01289,53,1642.0,67091.95,Month-to-Month,No,Bank Transfer,No
+CUST01290,42,1007.57,81594.02,One Year,No,Bank Transfer,No
+CUST01291,63,585.8,26437.18,One Year,Fiber Optic,Credit Card,No
+CUST01292,27,1107.42,30041.12,One Year,DSL,Bank Transfer,No
+CUST01293,38,393.88,562.44,Two Year,No,UPI,Yes
+CUST01294,60,1902.05,96327.87,One Year,No,Bank Transfer,Yes
+CUST01295,7,427.2,91795.72,Two Year,Fiber Optic,Debit Card,No
+CUST01296,5,1045.38,76574.54,One Year,DSL,Debit Card,No
+CUST01297,45,1200.8,8368.06,Month-to-Month,No,UPI,No
+CUST01298,58,1975.02,45026.54,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01299,31,582.24,10638.23,Two Year,DSL,Debit Card,Yes
+CUST01300,23,494.53,2084.07,Two Year,DSL,Bank Transfer,No
+CUST01301,42,314.8,61810.21,Month-to-Month,No,Debit Card,No
+CUST01302,10,564.47,96102.53,Month-to-Month,No,Credit Card,No
+CUST01303,32,652.36,90335.37,One Year,No,Credit Card,No
+CUST01304,53,1371.99,69827.1,Month-to-Month,No,UPI,No
+CUST01305,30,673.5,10115.74,Two Year,Fiber Optic,UPI,No
+CUST01306,39,334.89,27779.32,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01307,31,1705.25,32345.64,Two Year,No,UPI,Yes
+CUST01308,2,921.51,76433.43,Two Year,DSL,Bank Transfer,No
+CUST01309,12,901.28,80323.79,One Year,No,Credit Card,No
+CUST01310,39,814.21,38818.06,One Year,DSL,Credit Card,No
+CUST01311,66,1958.13,42079.46,One Year,DSL,Debit Card,No
+CUST01312,13,589.2,4928.65,One Year,DSL,Bank Transfer,No
+CUST01313,46,1827.0,29269.1,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01314,27,1620.57,45402.88,One Year,DSL,Credit Card,Yes
+CUST01315,17,430.02,12139.81,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01316,60,1977.44,45600.11,One Year,Fiber Optic,Debit Card,No
+CUST01317,64,761.32,85390.99,One Year,DSL,Debit Card,No
+CUST01318,35,467.59,58341.44,Two Year,DSL,Debit Card,Yes
+CUST01319,70,1709.83,8353.52,Month-to-Month,No,Debit Card,No
+CUST01320,30,1501.35,19571.3,Two Year,DSL,Credit Card,No
+CUST01321,71,1349.27,47717.16,One Year,DSL,Bank Transfer,No
+CUST01322,63,565.17,36467.97,Month-to-Month,DSL,Bank Transfer,No
+CUST01323,28,1113.44,36193.34,One Year,DSL,Credit Card,Yes
+CUST01324,60,1626.95,53162.11,Two Year,DSL,Credit Card,No
+CUST01325,37,816.16,58647.39,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01326,22,829.87,79787.73,Two Year,DSL,UPI,No
+CUST01327,68,305.34,34426.17,One Year,DSL,Bank Transfer,No
+CUST01328,20,596.21,80643.9,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01329,68,1788.19,34191.82,One Year,Fiber Optic,Bank Transfer,No
+CUST01330,64,1050.97,6015.58,Month-to-Month,DSL,Debit Card,No
+CUST01331,17,1973.2,55641.67,Two Year,DSL,Credit Card,No
+CUST01332,12,972.7,58996.28,Two Year,DSL,Credit Card,No
+CUST01333,22,1515.82,93486.75,One Year,No,Credit Card,No
+CUST01334,17,779.26,72743.1,Two Year,No,UPI,No
+CUST01335,10,918.48,91818.38,Month-to-Month,DSL,Bank Transfer,No
+CUST01336,65,624.23,90880.55,One Year,Fiber Optic,Credit Card,No
+CUST01337,22,890.01,60655.12,One Year,DSL,UPI,No
+CUST01338,50,1230.3,53012.33,One Year,Fiber Optic,Credit Card,No
+CUST01339,14,1986.01,55965.38,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01340,64,1429.14,97843.92,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01341,47,638.72,77430.19,One Year,DSL,UPI,No
+CUST01342,29,376.43,11073.46,One Year,DSL,Credit Card,No
+CUST01343,36,514.81,77953.63,One Year,Fiber Optic,Bank Transfer,No
+CUST01344,52,1256.34,17468.54,Two Year,No,UPI,No
+CUST01345,7,1600.77,45011.38,One Year,No,Bank Transfer,No
+CUST01346,29,1898.71,21440.74,Month-to-Month,No,Bank Transfer,Yes
+CUST01347,11,326.9,69113.52,One Year,Fiber Optic,Debit Card,No
+CUST01348,33,1188.69,87792.32,One Year,DSL,Bank Transfer,No
+CUST01349,6,1100.47,29391.01,Two Year,Fiber Optic,UPI,No
+CUST01350,32,1415.29,8660.07,One Year,No,Bank Transfer,No
+CUST01351,51,1251.28,30200.06,Two Year,DSL,UPI,No
+CUST01352,58,1467.97,67400.0,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01353,26,1418.74,33211.63,Two Year,Fiber Optic,Credit Card,No
+CUST01354,46,498.92,28172.16,One Year,No,Debit Card,No
+CUST01355,29,1659.52,18851.3,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST01356,4,509.5,50002.88,One Year,DSL,Debit Card,No
+CUST01357,13,1487.5,27956.91,Two Year,No,UPI,No
+CUST01358,39,1007.45,73235.53,Month-to-Month,No,Debit Card,Yes
+CUST01359,15,1173.55,8123.93,Month-to-Month,DSL,Bank Transfer,No
+CUST01360,29,1835.61,66571.29,Two Year,No,Bank Transfer,No
+CUST01361,29,1812.8,24137.22,Two Year,Fiber Optic,Credit Card,No
+CUST01362,32,1690.36,49183.29,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01363,2,1167.25,28965.95,Month-to-Month,No,UPI,No
+CUST01364,47,1551.61,72415.48,Two Year,DSL,UPI,No
+CUST01365,22,1171.92,94558.05,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01366,27,1778.33,91749.14,Month-to-Month,DSL,UPI,No
+CUST01367,67,984.72,58550.91,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01368,56,1949.4,46529.73,One Year,Fiber Optic,Bank Transfer,No
+CUST01369,21,1884.95,81920.9,Month-to-Month,No,Bank Transfer,No
+CUST01370,47,1560.72,68490.97,Month-to-Month,No,Credit Card,Yes
+CUST01371,59,775.01,18764.63,Two Year,DSL,Credit Card,Yes
+CUST01372,6,523.81,82181.46,One Year,No,Bank Transfer,No
+CUST01373,19,1753.0,43174.0,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01374,57,581.01,19304.07,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01375,69,1752.24,28538.84,One Year,DSL,UPI,No
+CUST01376,3,1134.3,27118.94,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01377,1,991.15,52161.09,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01378,58,1835.42,23819.82,Month-to-Month,No,Debit Card,No
+CUST01379,38,1326.55,12794.87,One Year,No,Debit Card,No
+CUST01380,15,1280.24,12807.24,Month-to-Month,DSL,Debit Card,No
+CUST01381,34,1249.9,58535.98,Two Year,DSL,Debit Card,Yes
+CUST01382,61,930.99,73608.55,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01383,35,1635.59,32492.53,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01384,64,729.76,3947.75,Month-to-Month,DSL,UPI,Yes
+CUST01385,25,1896.12,13158.88,One Year,Fiber Optic,UPI,No
+CUST01386,24,1819.77,91512.11,Two Year,DSL,Debit Card,No
+CUST01387,12,873.72,49607.59,One Year,DSL,Credit Card,No
+CUST01388,18,1540.09,45630.49,One Year,No,UPI,Yes
+CUST01389,15,1274.48,4285.89,Month-to-Month,DSL,UPI,No
+CUST01390,27,874.0,72999.38,One Year,Fiber Optic,Debit Card,No
+CUST01391,60,1980.49,53042.77,Month-to-Month,No,Debit Card,No
+CUST01392,46,342.9,20607.05,Two Year,No,Bank Transfer,Yes
+CUST01393,17,729.5,11452.34,One Year,Fiber Optic,UPI,No
+CUST01394,53,1184.13,38647.09,One Year,Fiber Optic,Debit Card,Yes
+CUST01395,8,1187.32,83797.62,One Year,Fiber Optic,Debit Card,No
+CUST01396,27,1301.19,86596.81,Month-to-Month,DSL,Bank Transfer,No
+CUST01397,46,1577.85,60483.21,Month-to-Month,No,UPI,No
+CUST01398,50,1359.91,72889.87,One Year,DSL,Debit Card,No
+CUST01399,71,1320.48,11958.0,One Year,DSL,Bank Transfer,No
+CUST01400,3,390.97,59018.54,Two Year,DSL,Debit Card,No
+CUST01401,64,940.1,66863.09,Two Year,DSL,Credit Card,No
+CUST01402,44,694.49,20470.93,Two Year,No,Credit Card,Yes
+CUST01403,53,751.13,88075.4,Two Year,No,Debit Card,No
+CUST01404,24,1242.37,19902.18,Two Year,DSL,UPI,No
+CUST01405,60,639.16,31691.0,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01406,3,799.71,62245.41,Two Year,No,Bank Transfer,No
+CUST01407,20,703.04,64015.83,Two Year,DSL,Debit Card,No
+CUST01408,46,1912.46,70088.78,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01409,15,1905.93,11645.17,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01410,25,1336.9,85021.71,Two Year,DSL,UPI,No
+CUST01411,71,1871.69,53518.29,Two Year,No,Bank Transfer,No
+CUST01412,17,1635.88,47396.52,Two Year,Fiber Optic,Credit Card,No
+CUST01413,9,1302.91,98119.21,One Year,No,Credit Card,No
+CUST01414,38,310.94,74167.64,One Year,No,Credit Card,No
+CUST01415,48,1613.28,12241.6,One Year,Fiber Optic,Bank Transfer,No
+CUST01416,60,1494.23,75775.65,Two Year,DSL,Credit Card,No
+CUST01417,63,1345.93,9977.27,One Year,Fiber Optic,Debit Card,Yes
+CUST01418,2,1592.72,3233.32,Two Year,Fiber Optic,Credit Card,No
+CUST01419,11,1171.97,40660.78,Month-to-Month,No,Debit Card,Yes
+CUST01420,64,1496.94,99361.03,Two Year,DSL,UPI,Yes
+CUST01421,21,1889.79,17900.95,One Year,No,Debit Card,No
+CUST01422,18,938.87,67428.11,Month-to-Month,Fiber Optic,UPI,Yes
+CUST01423,64,1503.81,17752.91,Two Year,DSL,UPI,Yes
+CUST01424,38,1108.67,72616.3,Month-to-Month,DSL,Debit Card,No
+CUST01425,32,1446.48,50782.69,Month-to-Month,DSL,UPI,Yes
+CUST01426,11,1596.92,68157.19,Month-to-Month,DSL,Debit Card,No
+CUST01427,45,377.27,20685.88,Two Year,DSL,Bank Transfer,Yes
+CUST01428,33,1399.22,74690.02,One Year,Fiber Optic,UPI,No
+CUST01429,41,685.46,99564.1,Two Year,Fiber Optic,Debit Card,No
+CUST01430,8,1439.06,66732.22,One Year,Fiber Optic,UPI,No
+CUST01431,11,1096.16,49601.26,Two Year,No,Credit Card,No
+CUST01432,51,1615.04,92355.81,Two Year,DSL,Debit Card,No
+CUST01433,41,509.78,2077.26,Two Year,DSL,Credit Card,Yes
+CUST01434,17,1364.75,73127.39,One Year,Fiber Optic,UPI,No
+CUST01435,46,773.4,88930.28,Two Year,DSL,UPI,No
+CUST01436,32,1750.07,6636.62,Month-to-Month,No,Bank Transfer,No
+CUST01437,54,1878.25,45281.38,Two Year,DSL,Debit Card,No
+CUST01438,20,1993.88,20869.59,Month-to-Month,DSL,Credit Card,Yes
+CUST01439,33,1653.21,56868.56,One Year,No,Bank Transfer,No
+CUST01440,40,1581.35,65129.52,One Year,Fiber Optic,UPI,Yes
+CUST01441,32,666.35,30611.01,Two Year,Fiber Optic,UPI,No
+CUST01442,2,871.21,46268.18,Two Year,DSL,Bank Transfer,No
+CUST01443,33,1091.66,28294.28,Two Year,No,Credit Card,No
+CUST01444,30,1614.75,37254.42,Month-to-Month,Fiber Optic,UPI,No
+CUST01445,33,1855.44,16374.23,One Year,Fiber Optic,UPI,No
+CUST01446,26,621.54,88613.16,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01447,22,1868.02,1496.04,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01448,66,1482.56,88299.71,Two Year,No,UPI,No
+CUST01449,38,1338.31,57382.05,Two Year,DSL,Credit Card,No
+CUST01450,46,639.73,33499.96,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01451,15,394.39,72444.18,Month-to-Month,No,Bank Transfer,No
+CUST01452,44,1266.39,51021.34,Two Year,DSL,Credit Card,No
+CUST01453,49,1407.58,50161.31,Two Year,Fiber Optic,UPI,No
+CUST01454,61,658.33,11459.16,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01455,67,1245.98,39256.84,Two Year,DSL,Bank Transfer,No
+CUST01456,6,1756.04,24485.9,Two Year,Fiber Optic,Credit Card,No
+CUST01457,9,1719.61,2061.74,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01458,6,1876.5,36329.91,Month-to-Month,No,Credit Card,No
+CUST01459,32,922.01,9437.3,One Year,Fiber Optic,UPI,No
+CUST01460,41,840.68,26054.59,Month-to-Month,DSL,Debit Card,No
+CUST01461,8,1574.02,9705.4,Two Year,No,Credit Card,No
+CUST01462,50,1032.89,10543.69,Month-to-Month,DSL,Debit Card,No
+CUST01463,62,448.83,20301.62,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01464,62,780.76,99985.0,Month-to-Month,No,Credit Card,Yes
+CUST01465,7,1011.59,717.32,One Year,No,UPI,Yes
+CUST01466,4,797.28,64047.93,One Year,No,Credit Card,No
+CUST01467,6,864.75,14553.75,Two Year,No,Credit Card,Yes
+CUST01468,58,799.42,92102.5,One Year,DSL,Credit Card,No
+CUST01469,22,370.55,9816.47,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01470,26,1383.06,95528.79,One Year,Fiber Optic,Debit Card,Yes
+CUST01471,3,1315.4,61287.18,Month-to-Month,No,Bank Transfer,No
+CUST01472,41,1410.75,626.17,One Year,Fiber Optic,Bank Transfer,No
+CUST01473,60,626.93,89453.72,One Year,DSL,Bank Transfer,Yes
+CUST01474,14,802.61,52410.32,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01475,12,1353.35,26635.64,Month-to-Month,DSL,Credit Card,Yes
+CUST01476,12,1319.37,76844.28,One Year,DSL,Debit Card,No
+CUST01477,13,1160.76,92703.22,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01478,25,895.7,48627.24,Month-to-Month,DSL,Debit Card,No
+CUST01479,45,1851.98,31897.57,Two Year,DSL,Debit Card,No
+CUST01480,19,877.61,79000.04,One Year,DSL,Bank Transfer,No
+CUST01481,55,1074.55,68337.66,Two Year,DSL,Credit Card,No
+CUST01482,45,1452.79,88930.87,Two Year,No,Debit Card,No
+CUST01483,8,1223.14,69405.14,Month-to-Month,Fiber Optic,UPI,No
+CUST01484,53,889.71,24731.07,One Year,No,Credit Card,No
+CUST01485,55,1040.6,93200.1,Month-to-Month,DSL,UPI,No
+CUST01486,32,1650.62,10931.16,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01487,51,772.82,27160.3,One Year,DSL,Credit Card,Yes
+CUST01488,44,541.83,52259.36,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01489,70,832.38,56791.33,One Year,No,UPI,No
+CUST01490,18,1744.21,2023.4,One Year,Fiber Optic,Debit Card,No
+CUST01491,22,451.28,78166.99,Month-to-Month,DSL,Debit Card,No
+CUST01492,37,1985.88,36479.93,Month-to-Month,Fiber Optic,UPI,No
+CUST01493,56,1219.7,40938.64,Two Year,Fiber Optic,Debit Card,Yes
+CUST01494,59,1974.24,81032.27,Month-to-Month,No,Bank Transfer,Yes
+CUST01495,3,1896.29,38238.7,One Year,DSL,Debit Card,No
+CUST01496,28,1069.78,5198.88,Two Year,Fiber Optic,Bank Transfer,No
+CUST01497,35,637.43,18055.76,One Year,No,Bank Transfer,No
+CUST01498,61,580.3,95612.37,Two Year,Fiber Optic,Bank Transfer,No
+CUST01499,54,707.98,7505.33,Month-to-Month,DSL,UPI,No
+CUST01500,63,1507.23,35815.65,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01501,7,764.01,50566.33,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01502,49,880.42,49581.44,One Year,Fiber Optic,UPI,Yes
+CUST01503,31,1062.92,894.01,Two Year,Fiber Optic,UPI,No
+CUST01504,58,1852.5,50365.69,One Year,DSL,Debit Card,No
+CUST01505,61,621.97,38685.36,Two Year,No,UPI,No
+CUST01506,24,308.55,97221.89,Month-to-Month,No,UPI,No
+CUST01507,20,402.16,16336.33,One Year,Fiber Optic,Bank Transfer,No
+CUST01508,37,1838.1,35738.34,Month-to-Month,DSL,UPI,Yes
+CUST01509,4,1400.78,42238.41,One Year,DSL,Bank Transfer,No
+CUST01510,20,764.17,39374.01,Month-to-Month,DSL,Credit Card,No
+CUST01511,60,601.23,66750.17,One Year,DSL,Bank Transfer,No
+CUST01512,24,800.25,21943.53,One Year,DSL,Bank Transfer,No
+CUST01513,50,495.15,22496.62,Two Year,DSL,UPI,No
+CUST01514,49,1900.61,73056.49,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01515,51,1633.15,50278.91,Two Year,No,Credit Card,Yes
+CUST01516,36,1086.07,41807.99,Two Year,No,Credit Card,No
+CUST01517,66,1770.44,17335.7,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST01518,34,724.08,19158.96,One Year,No,Debit Card,No
+CUST01519,36,1519.1,1549.89,Two Year,DSL,Credit Card,No
+CUST01520,6,1755.43,9596.91,Month-to-Month,DSL,Credit Card,Yes
+CUST01521,39,906.51,55905.45,One Year,No,Debit Card,No
+CUST01522,42,1587.69,89241.38,Two Year,DSL,Credit Card,No
+CUST01523,58,801.62,29072.89,Two Year,DSL,UPI,No
+CUST01524,12,808.06,33110.85,Two Year,No,UPI,Yes
+CUST01525,3,482.0,12002.76,One Year,Fiber Optic,Bank Transfer,No
+CUST01526,18,1048.1,39168.78,Two Year,No,Bank Transfer,No
+CUST01527,40,1540.51,4203.56,One Year,No,Bank Transfer,No
+CUST01528,21,1898.38,91801.27,Two Year,No,UPI,Yes
+CUST01529,15,1326.45,67474.58,Month-to-Month,No,UPI,No
+CUST01530,26,1767.33,99079.51,Two Year,Fiber Optic,UPI,No
+CUST01531,8,1698.24,88340.9,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01532,42,594.68,47562.56,Month-to-Month,DSL,Bank Transfer,No
+CUST01533,44,1125.89,52208.66,Month-to-Month,DSL,Bank Transfer,No
+CUST01534,14,498.77,19462.32,One Year,No,Bank Transfer,No
+CUST01535,2,1459.66,46472.91,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01536,37,1914.83,90351.27,Two Year,Fiber Optic,Bank Transfer,No
+CUST01537,69,533.05,5559.92,One Year,DSL,UPI,Yes
+CUST01538,38,1547.6,86423.9,Month-to-Month,DSL,Debit Card,No
+CUST01539,41,1374.8,34424.31,One Year,DSL,Debit Card,No
+CUST01540,62,1292.13,90001.52,One Year,No,Bank Transfer,No
+CUST01541,60,963.2,94117.55,One Year,DSL,Debit Card,No
+CUST01542,14,903.72,67251.06,Two Year,Fiber Optic,Debit Card,No
+CUST01543,2,376.92,66610.17,Month-to-Month,Fiber Optic,UPI,Yes
+CUST01544,70,670.44,45549.06,One Year,Fiber Optic,Bank Transfer,No
+CUST01545,17,325.8,83636.25,One Year,Fiber Optic,Bank Transfer,No
+CUST01546,28,1288.41,96180.47,One Year,DSL,Debit Card,No
+CUST01547,66,479.95,77620.64,Month-to-Month,No,Bank Transfer,No
+CUST01548,35,1784.13,62382.71,One Year,Fiber Optic,Bank Transfer,No
+CUST01549,5,1189.34,60875.89,One Year,Fiber Optic,Bank Transfer,No
+CUST01550,65,1489.47,85022.26,Two Year,No,Bank Transfer,No
+CUST01551,40,998.46,54349.77,Month-to-Month,No,Debit Card,No
+CUST01552,56,1252.99,80484.06,Two Year,Fiber Optic,Credit Card,No
+CUST01553,36,1902.52,51134.08,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01554,45,440.65,6713.21,Month-to-Month,No,UPI,No
+CUST01555,23,731.69,38702.73,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01556,47,1625.98,44721.88,Two Year,Fiber Optic,Credit Card,No
+CUST01557,31,467.85,14590.92,Two Year,DSL,Credit Card,No
+CUST01558,11,428.62,10698.38,Two Year,No,Debit Card,No
+CUST01559,10,914.62,53778.76,Two Year,DSL,UPI,No
+CUST01560,67,456.69,8971.79,One Year,DSL,Debit Card,No
+CUST01561,14,1294.63,30643.04,One Year,No,UPI,No
+CUST01562,10,684.67,74587.4,One Year,DSL,Debit Card,No
+CUST01563,1,1822.69,96461.0,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01564,5,1631.95,71928.12,One Year,DSL,Debit Card,No
+CUST01565,20,1489.5,99266.24,Month-to-Month,No,Credit Card,No
+CUST01566,8,1348.8,69984.63,Two Year,Fiber Optic,Debit Card,No
+CUST01567,43,1767.89,29732.55,Month-to-Month,Fiber Optic,UPI,No
+CUST01568,1,679.21,67369.23,Month-to-Month,Fiber Optic,UPI,No
+CUST01569,57,1784.29,70364.6,One Year,Fiber Optic,UPI,No
+CUST01570,64,1642.14,37486.83,Two Year,DSL,Credit Card,No
+CUST01571,28,1571.87,2262.53,Two Year,DSL,Debit Card,No
+CUST01572,37,1254.13,70468.38,One Year,Fiber Optic,Debit Card,No
+CUST01573,47,718.62,2659.16,Two Year,No,Bank Transfer,No
+CUST01574,37,1020.03,63303.21,Two Year,Fiber Optic,Credit Card,Yes
+CUST01575,49,1649.07,16779.84,Two Year,DSL,UPI,Yes
+CUST01576,44,354.02,56777.55,One Year,Fiber Optic,UPI,No
+CUST01577,56,1629.49,50639.35,Two Year,DSL,Debit Card,No
+CUST01578,28,708.12,1844.61,Month-to-Month,Fiber Optic,UPI,No
+CUST01579,6,545.33,36605.15,Month-to-Month,No,Debit Card,No
+CUST01580,61,496.69,60308.57,Two Year,Fiber Optic,Debit Card,No
+CUST01581,20,346.33,84936.35,One Year,No,Bank Transfer,No
+CUST01582,2,1190.1,88919.89,One Year,No,Credit Card,No
+CUST01583,37,671.04,48643.07,One Year,Fiber Optic,Debit Card,No
+CUST01584,20,1982.03,72978.04,Two Year,No,Debit Card,No
+CUST01585,26,1276.54,31987.23,Two Year,No,Debit Card,No
+CUST01586,29,534.4,34547.55,Month-to-Month,DSL,Bank Transfer,No
+CUST01587,1,1470.9,19849.12,One Year,DSL,Debit Card,Yes
+CUST01588,35,1826.16,56413.84,Month-to-Month,No,Credit Card,Yes
+CUST01589,70,1566.81,31799.13,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01590,59,429.95,8894.9,One Year,No,UPI,No
+CUST01591,69,1823.0,68658.11,Two Year,Fiber Optic,Credit Card,Yes
+CUST01592,33,1649.68,70921.44,Two Year,DSL,UPI,No
+CUST01593,51,569.12,36319.25,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01594,12,388.04,8133.98,Month-to-Month,No,UPI,No
+CUST01595,20,1247.43,42916.62,Month-to-Month,No,Debit Card,Yes
+CUST01596,53,565.26,44512.38,Month-to-Month,No,Bank Transfer,No
+CUST01597,43,1718.8,67032.75,One Year,No,Bank Transfer,No
+CUST01598,50,909.17,31883.93,Month-to-Month,No,Bank Transfer,No
+CUST01599,29,1851.92,68418.63,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01600,57,1261.67,87213.11,Two Year,No,Bank Transfer,No
+CUST01601,39,610.54,24129.86,Two Year,DSL,Credit Card,No
+CUST01602,56,537.32,97902.5,Two Year,No,UPI,Yes
+CUST01603,43,1280.0,38943.63,One Year,Fiber Optic,Debit Card,No
+CUST01604,50,1595.2,27092.24,One Year,No,Bank Transfer,Yes
+CUST01605,23,1628.56,42440.36,Two Year,No,Credit Card,No
+CUST01606,44,768.79,9892.55,Two Year,Fiber Optic,Credit Card,No
+CUST01607,38,647.22,13007.74,Month-to-Month,No,Debit Card,No
+CUST01608,23,328.49,41736.19,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01609,45,1454.64,76363.23,One Year,No,Bank Transfer,No
+CUST01610,52,430.17,90081.07,One Year,DSL,UPI,No
+CUST01611,50,1015.29,66649.39,Month-to-Month,No,Bank Transfer,Yes
+CUST01612,8,1322.86,10969.35,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01613,1,1893.09,67365.97,Month-to-Month,DSL,Debit Card,No
+CUST01614,8,830.06,63725.08,One Year,Fiber Optic,Bank Transfer,No
+CUST01615,29,724.61,80673.51,One Year,No,Bank Transfer,Yes
+CUST01616,5,1412.07,82612.24,Month-to-Month,DSL,UPI,No
+CUST01617,47,1352.71,86886.21,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01618,34,864.59,41706.09,Month-to-Month,DSL,Credit Card,No
+CUST01619,65,1877.77,69937.51,One Year,DSL,UPI,No
+CUST01620,55,1736.27,27190.91,Two Year,Fiber Optic,Credit Card,No
+CUST01621,43,680.77,99933.96,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01622,30,706.54,17945.76,One Year,Fiber Optic,UPI,Yes
+CUST01623,17,1170.91,1506.39,One Year,DSL,UPI,No
+CUST01624,26,1615.07,15306.47,One Year,DSL,Debit Card,No
+CUST01625,8,374.87,77699.29,Month-to-Month,DSL,Credit Card,No
+CUST01626,47,1478.67,44954.98,Month-to-Month,No,Debit Card,Yes
+CUST01627,46,1402.0,45026.27,Two Year,No,Bank Transfer,No
+CUST01628,68,693.52,95524.78,One Year,Fiber Optic,UPI,Yes
+CUST01629,33,1458.3,92003.67,Month-to-Month,DSL,Bank Transfer,No
+CUST01630,1,1898.31,31463.88,One Year,Fiber Optic,Credit Card,No
+CUST01631,19,379.54,21301.28,One Year,No,Debit Card,No
+CUST01632,31,843.41,84923.98,Two Year,No,Credit Card,No
+CUST01633,14,1044.9,90648.9,Month-to-Month,No,Bank Transfer,No
+CUST01634,53,1828.74,54388.89,Month-to-Month,No,Debit Card,No
+CUST01635,48,1935.84,63127.66,One Year,Fiber Optic,Credit Card,No
+CUST01636,69,1055.0,26062.97,One Year,DSL,Bank Transfer,Yes
+CUST01637,62,1575.05,80179.87,Two Year,Fiber Optic,Credit Card,No
+CUST01638,66,1203.82,63396.18,Two Year,DSL,UPI,No
+CUST01639,64,1214.23,50599.59,Two Year,No,Debit Card,Yes
+CUST01640,70,772.77,6480.8,Two Year,DSL,Debit Card,No
+CUST01641,63,668.83,91635.53,Two Year,No,Debit Card,Yes
+CUST01642,33,789.61,61737.42,Two Year,Fiber Optic,UPI,No
+CUST01643,41,1245.76,19672.76,One Year,DSL,Debit Card,No
+CUST01644,48,349.56,60835.42,Two Year,Fiber Optic,UPI,No
+CUST01645,13,1842.32,67907.6,One Year,No,Debit Card,Yes
+CUST01646,31,565.68,52814.15,One Year,Fiber Optic,Credit Card,Yes
+CUST01647,68,674.15,71951.12,Month-to-Month,No,Credit Card,No
+CUST01648,4,1181.07,58354.67,One Year,No,Credit Card,Yes
+CUST01649,19,1507.2,94803.07,One Year,No,Credit Card,No
+CUST01650,70,462.74,5842.86,Two Year,Fiber Optic,UPI,No
+CUST01651,13,840.08,11071.45,One Year,Fiber Optic,Bank Transfer,No
+CUST01652,23,1946.75,17780.33,Two Year,DSL,Bank Transfer,No
+CUST01653,1,745.98,69172.02,Two Year,DSL,Credit Card,No
+CUST01654,54,832.19,64736.79,Two Year,Fiber Optic,Bank Transfer,No
+CUST01655,71,1722.05,89259.86,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01656,15,385.36,73421.31,Two Year,Fiber Optic,Debit Card,No
+CUST01657,65,1089.84,51081.37,One Year,Fiber Optic,UPI,No
+CUST01658,71,945.35,99187.26,Two Year,No,Credit Card,No
+CUST01659,15,838.2,26977.74,Two Year,No,Bank Transfer,No
+CUST01660,21,785.69,83402.57,Two Year,No,Bank Transfer,No
+CUST01661,19,455.34,42965.64,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST01662,60,835.2,65049.15,One Year,No,Debit Card,No
+CUST01663,33,373.19,72863.21,Month-to-Month,No,Credit Card,Yes
+CUST01664,49,1627.64,63558.53,One Year,DSL,Debit Card,No
+CUST01665,35,976.99,14480.48,Month-to-Month,DSL,Bank Transfer,No
+CUST01666,44,1054.64,44573.63,One Year,No,UPI,No
+CUST01667,11,1819.11,56363.12,Month-to-Month,No,Debit Card,No
+CUST01668,66,1418.69,84979.85,Two Year,No,Debit Card,No
+CUST01669,46,313.7,44642.75,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01670,9,1903.4,91915.36,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01671,3,703.15,44317.24,Two Year,DSL,UPI,No
+CUST01672,26,482.94,55103.6,Two Year,DSL,Credit Card,Yes
+CUST01673,48,1605.82,79730.43,One Year,No,Credit Card,Yes
+CUST01674,66,1150.81,58515.23,One Year,Fiber Optic,UPI,Yes
+CUST01675,70,1037.41,96041.7,One Year,DSL,Bank Transfer,No
+CUST01676,28,724.16,66203.42,Month-to-Month,DSL,UPI,Yes
+CUST01677,26,1230.7,52509.59,One Year,Fiber Optic,Credit Card,No
+CUST01678,25,766.45,2847.4,Month-to-Month,No,Credit Card,No
+CUST01679,12,1832.69,41666.42,Month-to-Month,No,Debit Card,No
+CUST01680,5,665.85,30275.22,One Year,DSL,UPI,Yes
+CUST01681,48,1803.4,74936.51,One Year,DSL,UPI,No
+CUST01682,37,1250.99,21223.63,Month-to-Month,Fiber Optic,UPI,No
+CUST01683,44,1708.43,20919.4,Two Year,DSL,Credit Card,No
+CUST01684,15,1511.84,19357.14,Two Year,Fiber Optic,Bank Transfer,No
+CUST01685,43,1484.38,12998.75,Month-to-Month,DSL,Credit Card,No
+CUST01686,48,851.39,31445.2,One Year,DSL,Debit Card,Yes
+CUST01687,70,697.62,88649.25,Month-to-Month,DSL,Credit Card,No
+CUST01688,46,658.51,77605.38,Month-to-Month,No,Credit Card,Yes
+CUST01689,43,1757.23,73657.5,One Year,Fiber Optic,Credit Card,No
+CUST01690,21,1694.73,79835.01,Two Year,Fiber Optic,Debit Card,No
+CUST01691,23,1048.97,27307.08,Month-to-Month,No,UPI,No
+CUST01692,47,525.09,88800.45,Two Year,No,Bank Transfer,Yes
+CUST01693,15,949.83,14161.69,Two Year,No,Bank Transfer,No
+CUST01694,25,1352.88,33966.4,One Year,Fiber Optic,Debit Card,No
+CUST01695,36,1072.49,58881.44,Month-to-Month,DSL,UPI,Yes
+CUST01696,51,1626.32,10739.06,Month-to-Month,No,UPI,No
+CUST01697,15,1995.96,73147.95,Two Year,No,Debit Card,No
+CUST01698,68,624.92,39030.98,Two Year,No,Credit Card,No
+CUST01699,21,1081.41,78548.36,One Year,DSL,UPI,Yes
+CUST01700,13,1032.67,49543.18,Two Year,DSL,Bank Transfer,Yes
+CUST01701,19,817.64,18497.02,One Year,No,Debit Card,Yes
+CUST01702,34,636.76,73608.8,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01703,68,411.68,25588.32,One Year,No,Credit Card,No
+CUST01704,52,1808.1,49335.62,Two Year,DSL,Debit Card,No
+CUST01705,27,1013.74,8015.56,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01706,29,1144.72,61977.73,One Year,Fiber Optic,Bank Transfer,No
+CUST01707,28,1858.8,66752.85,Month-to-Month,DSL,Credit Card,Yes
+CUST01708,35,1619.69,38178.08,One Year,Fiber Optic,Debit Card,No
+CUST01709,8,521.85,95465.07,Two Year,Fiber Optic,UPI,No
+CUST01710,16,1261.21,87479.81,Two Year,Fiber Optic,UPI,No
+CUST01711,36,1051.83,70940.12,Month-to-Month,No,Bank Transfer,Yes
+CUST01712,30,1655.26,71508.38,Month-to-Month,DSL,Credit Card,No
+CUST01713,18,1531.2,25613.97,Month-to-Month,DSL,Bank Transfer,No
+CUST01714,2,1473.69,65853.12,One Year,DSL,Credit Card,No
+CUST01715,49,878.93,20221.52,Two Year,Fiber Optic,UPI,Yes
+CUST01716,4,1668.44,14828.32,Month-to-Month,No,Bank Transfer,Yes
+CUST01717,7,389.07,99947.06,Month-to-Month,DSL,Bank Transfer,No
+CUST01718,39,571.36,62426.41,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01719,13,870.56,43383.29,One Year,No,Debit Card,Yes
+CUST01720,31,430.57,29172.37,Month-to-Month,No,Credit Card,No
+CUST01721,71,699.49,60590.08,Month-to-Month,DSL,Debit Card,No
+CUST01722,63,1711.26,5434.55,One Year,DSL,UPI,No
+CUST01723,56,1912.03,9920.76,One Year,Fiber Optic,Bank Transfer,No
+CUST01724,42,817.82,3769.24,Month-to-Month,DSL,Bank Transfer,No
+CUST01725,61,749.68,50167.4,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01726,42,775.82,60260.36,One Year,No,Credit Card,No
+CUST01727,56,772.12,6716.74,Two Year,No,UPI,Yes
+CUST01728,36,361.08,72261.83,One Year,No,UPI,Yes
+CUST01729,68,1875.76,23424.31,Two Year,No,Debit Card,No
+CUST01730,7,663.29,68677.54,Month-to-Month,DSL,UPI,No
+CUST01731,54,1014.01,98198.77,Month-to-Month,DSL,UPI,No
+CUST01732,1,316.47,69265.03,Two Year,Fiber Optic,UPI,No
+CUST01733,44,1758.52,88377.71,One Year,Fiber Optic,UPI,No
+CUST01734,45,1542.97,94845.75,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01735,47,1909.49,48931.73,Two Year,Fiber Optic,UPI,No
+CUST01736,13,1628.75,70381.34,One Year,Fiber Optic,Debit Card,No
+CUST01737,22,833.3,85270.94,Two Year,No,Credit Card,Yes
+CUST01738,21,721.38,35982.59,One Year,No,Bank Transfer,No
+CUST01739,9,1486.12,26509.03,One Year,No,Credit Card,No
+CUST01740,26,918.99,94686.56,One Year,Fiber Optic,UPI,No
+CUST01741,9,1262.57,72767.2,One Year,No,Bank Transfer,No
+CUST01742,15,310.64,22358.37,Two Year,No,UPI,No
+CUST01743,10,405.21,45183.8,Two Year,No,UPI,No
+CUST01744,42,1210.13,79746.95,Two Year,No,Credit Card,No
+CUST01745,24,1262.32,54932.77,Two Year,DSL,UPI,No
+CUST01746,49,1577.47,65170.23,Two Year,Fiber Optic,Credit Card,No
+CUST01747,26,524.34,75499.94,One Year,Fiber Optic,UPI,No
+CUST01748,37,1172.41,62389.91,Month-to-Month,DSL,Debit Card,Yes
+CUST01749,68,630.56,54237.89,Month-to-Month,No,Bank Transfer,Yes
+CUST01750,50,458.43,75086.62,Two Year,No,Credit Card,No
+CUST01751,24,997.84,72892.52,Two Year,No,Credit Card,No
+CUST01752,19,577.67,63172.3,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01753,60,677.03,36299.05,One Year,Fiber Optic,Credit Card,Yes
+CUST01754,39,839.84,40878.3,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01755,18,740.96,97058.64,One Year,Fiber Optic,Debit Card,Yes
+CUST01756,19,448.91,11682.4,Month-to-Month,Fiber Optic,UPI,No
+CUST01757,36,452.86,27216.24,Month-to-Month,DSL,Debit Card,No
+CUST01758,55,628.52,49493.98,Two Year,Fiber Optic,UPI,No
+CUST01759,69,385.95,83754.6,One Year,No,Bank Transfer,Yes
+CUST01760,47,1364.98,16785.73,Two Year,Fiber Optic,Debit Card,No
+CUST01761,49,788.46,28056.98,Month-to-Month,DSL,UPI,No
+CUST01762,33,775.57,7046.92,One Year,No,Bank Transfer,Yes
+CUST01763,21,864.4,70745.53,Two Year,DSL,UPI,No
+CUST01764,22,1426.75,24201.84,Two Year,No,Credit Card,Yes
+CUST01765,48,1780.08,39173.14,Two Year,Fiber Optic,Credit Card,No
+CUST01766,37,1590.45,44648.29,Month-to-Month,DSL,Bank Transfer,No
+CUST01767,15,1536.8,89185.74,Two Year,No,UPI,No
+CUST01768,35,1123.47,41427.36,One Year,Fiber Optic,Credit Card,Yes
+CUST01769,71,1479.47,14949.89,Two Year,No,Debit Card,No
+CUST01770,32,1239.7,52669.34,Month-to-Month,DSL,UPI,No
+CUST01771,11,667.63,96314.32,Two Year,DSL,UPI,No
+CUST01772,10,654.6,60964.72,Month-to-Month,DSL,Credit Card,No
+CUST01773,57,803.87,98347.03,Month-to-Month,DSL,Credit Card,No
+CUST01774,25,1848.36,84190.18,One Year,Fiber Optic,Bank Transfer,No
+CUST01775,2,1230.61,4078.59,One Year,No,UPI,No
+CUST01776,64,1547.64,66010.76,Two Year,Fiber Optic,Debit Card,No
+CUST01777,35,889.15,29033.3,Month-to-Month,DSL,Credit Card,No
+CUST01778,7,993.12,56181.88,Month-to-Month,No,UPI,No
+CUST01779,18,513.46,28294.85,One Year,DSL,Credit Card,Yes
+CUST01780,67,591.2,35212.61,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01781,42,1706.51,92355.29,Two Year,Fiber Optic,UPI,Yes
+CUST01782,39,1294.23,21061.0,Month-to-Month,Fiber Optic,UPI,No
+CUST01783,41,873.81,87473.86,One Year,No,Bank Transfer,No
+CUST01784,24,1664.85,3530.55,Two Year,No,Debit Card,No
+CUST01785,60,719.08,9542.22,Month-to-Month,DSL,Credit Card,No
+CUST01786,46,1959.26,85540.17,Month-to-Month,No,Bank Transfer,No
+CUST01787,19,886.19,63240.33,One Year,No,UPI,No
+CUST01788,68,873.43,74850.0,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01789,42,830.25,21337.06,One Year,DSL,UPI,No
+CUST01790,32,507.59,53939.8,Two Year,Fiber Optic,Bank Transfer,No
+CUST01791,39,488.93,73853.31,Month-to-Month,DSL,Debit Card,No
+CUST01792,36,1401.78,62917.76,Two Year,DSL,UPI,Yes
+CUST01793,36,1787.7,47434.03,Two Year,No,Bank Transfer,No
+CUST01794,3,1643.88,95998.49,Two Year,Fiber Optic,Debit Card,No
+CUST01795,8,539.88,67777.65,Two Year,No,Debit Card,No
+CUST01796,70,1227.49,90821.2,Two Year,No,Credit Card,No
+CUST01797,41,479.51,73112.17,One Year,No,UPI,No
+CUST01798,68,377.0,73678.62,Two Year,DSL,Credit Card,Yes
+CUST01799,13,1415.86,8461.82,Two Year,Fiber Optic,Debit Card,Yes
+CUST01800,49,1209.76,36266.73,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01801,60,439.44,85907.76,Two Year,No,Credit Card,Yes
+CUST01802,2,359.4,23644.08,Month-to-Month,DSL,Bank Transfer,No
+CUST01803,60,1982.59,11992.83,One Year,Fiber Optic,Credit Card,No
+CUST01804,5,351.04,32947.55,One Year,Fiber Optic,Debit Card,No
+CUST01805,44,1055.7,22433.57,Two Year,No,Credit Card,Yes
+CUST01806,27,1157.85,92566.18,One Year,DSL,UPI,No
+CUST01807,32,499.38,86862.68,Two Year,No,Bank Transfer,No
+CUST01808,21,587.41,50218.48,One Year,Fiber Optic,Debit Card,No
+CUST01809,8,898.07,6603.72,Two Year,DSL,Credit Card,No
+CUST01810,50,1594.85,71598.95,Two Year,No,UPI,No
+CUST01811,67,1162.04,62529.47,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01812,44,1384.43,97070.19,Month-to-Month,No,Credit Card,No
+CUST01813,58,1974.8,56115.85,Month-to-Month,No,Bank Transfer,No
+CUST01814,3,1605.61,33971.18,Month-to-Month,No,Credit Card,No
+CUST01815,70,1038.41,52142.66,Two Year,DSL,Debit Card,No
+CUST01816,2,1058.95,97936.7,One Year,Fiber Optic,Debit Card,No
+CUST01817,44,1351.91,69788.06,Two Year,Fiber Optic,Debit Card,No
+CUST01818,2,1431.12,67361.63,Month-to-Month,Fiber Optic,UPI,No
+CUST01819,35,1151.21,24447.82,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01820,30,1396.26,74488.45,One Year,DSL,Credit Card,No
+CUST01821,8,340.01,75152.05,Month-to-Month,No,Credit Card,Yes
+CUST01822,22,1030.36,32070.25,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01823,44,774.19,48629.53,Two Year,DSL,UPI,Yes
+CUST01824,58,519.6,29813.03,Two Year,No,UPI,Yes
+CUST01825,36,469.23,26241.15,Two Year,DSL,Bank Transfer,No
+CUST01826,69,1325.43,3076.66,Two Year,DSL,UPI,No
+CUST01827,31,1190.12,28878.57,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01828,47,731.09,55620.01,Two Year,Fiber Optic,Debit Card,Yes
+CUST01829,55,1100.62,659.32,Month-to-Month,No,Debit Card,No
+CUST01830,62,1136.79,28680.3,Month-to-Month,No,UPI,No
+CUST01831,30,631.52,88200.33,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01832,55,1408.56,59568.03,Month-to-Month,DSL,Debit Card,No
+CUST01833,16,1627.56,60982.35,One Year,Fiber Optic,Debit Card,No
+CUST01834,12,1645.49,40634.75,Month-to-Month,No,Credit Card,No
+CUST01835,17,1324.2,67808.98,One Year,DSL,Debit Card,No
+CUST01836,16,1169.79,19398.31,Month-to-Month,DSL,Credit Card,Yes
+CUST01837,12,403.71,81965.31,One Year,DSL,Bank Transfer,No
+CUST01838,8,789.31,12110.57,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01839,3,458.56,65772.13,One Year,Fiber Optic,Bank Transfer,No
+CUST01840,16,1938.5,34444.36,Month-to-Month,No,Bank Transfer,No
+CUST01841,30,529.64,74877.54,One Year,DSL,Bank Transfer,No
+CUST01842,23,558.02,55201.57,Two Year,DSL,Debit Card,Yes
+CUST01843,5,1812.28,45509.13,Two Year,Fiber Optic,Debit Card,No
+CUST01844,65,1904.68,17357.53,Month-to-Month,No,Debit Card,No
+CUST01845,30,1601.91,63863.74,Two Year,No,Bank Transfer,No
+CUST01846,21,309.19,97489.6,Two Year,DSL,Bank Transfer,No
+CUST01847,70,302.29,82647.54,Two Year,Fiber Optic,Credit Card,Yes
+CUST01848,22,942.77,6470.82,Month-to-Month,DSL,UPI,No
+CUST01849,32,543.77,37934.82,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01850,33,331.26,92595.51,Two Year,No,UPI,No
+CUST01851,16,1088.91,50552.85,Month-to-Month,DSL,Bank Transfer,No
+CUST01852,38,1903.21,66380.13,One Year,DSL,Bank Transfer,No
+CUST01853,14,850.49,91303.63,Two Year,DSL,Bank Transfer,No
+CUST01854,36,1423.94,87442.57,Month-to-Month,No,UPI,No
+CUST01855,23,1408.8,50431.13,Month-to-Month,DSL,Credit Card,No
+CUST01856,66,726.84,44045.81,Two Year,No,Bank Transfer,No
+CUST01857,2,1405.72,34299.42,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01858,65,660.97,72042.43,Two Year,No,Credit Card,No
+CUST01859,67,507.41,29055.19,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01860,52,1492.35,25363.82,One Year,No,UPI,No
+CUST01861,62,492.85,35946.86,Two Year,No,Bank Transfer,Yes
+CUST01862,23,1994.75,18132.9,One Year,DSL,Credit Card,No
+CUST01863,26,611.87,69664.42,Two Year,No,UPI,No
+CUST01864,68,1310.04,61815.94,Month-to-Month,DSL,UPI,No
+CUST01865,55,999.34,48546.41,One Year,Fiber Optic,Bank Transfer,No
+CUST01866,6,514.86,39337.42,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01867,35,347.33,90951.72,Two Year,DSL,Debit Card,No
+CUST01868,22,1358.64,3397.82,Two Year,Fiber Optic,Credit Card,No
+CUST01869,43,1671.49,77026.22,Two Year,No,Debit Card,No
+CUST01870,15,1731.43,90240.0,Two Year,DSL,Debit Card,No
+CUST01871,60,1120.61,44912.28,Two Year,DSL,Debit Card,Yes
+CUST01872,12,1621.67,55293.7,One Year,DSL,UPI,No
+CUST01873,49,1443.84,94474.14,Two Year,Fiber Optic,Bank Transfer,No
+CUST01874,42,1531.23,21621.61,Month-to-Month,Fiber Optic,UPI,No
+CUST01875,38,1137.42,52253.42,One Year,No,UPI,Yes
+CUST01876,45,1376.8,47734.75,Month-to-Month,No,Bank Transfer,No
+CUST01877,35,1669.39,26210.07,Two Year,DSL,UPI,Yes
+CUST01878,30,976.4,81950.03,Month-to-Month,No,Credit Card,No
+CUST01879,30,1670.16,90010.26,One Year,Fiber Optic,Credit Card,No
+CUST01880,6,1306.43,78302.29,One Year,No,UPI,Yes
+CUST01881,67,582.03,19938.22,One Year,Fiber Optic,Debit Card,Yes
+CUST01882,7,341.96,9131.49,Month-to-Month,No,UPI,No
+CUST01883,52,916.68,60741.73,One Year,Fiber Optic,Debit Card,No
+CUST01884,14,1229.38,6180.93,Month-to-Month,Fiber Optic,UPI,Yes
+CUST01885,15,1727.69,67446.18,Two Year,No,Credit Card,No
+CUST01886,21,516.73,53277.21,Two Year,No,Debit Card,No
+CUST01887,35,1660.35,66447.18,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST01888,66,1767.12,59221.99,One Year,DSL,UPI,No
+CUST01889,2,556.17,42558.91,Month-to-Month,No,Bank Transfer,No
+CUST01890,35,1747.71,20487.28,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST01891,20,1985.47,30917.36,Month-to-Month,No,Debit Card,No
+CUST01892,10,1535.63,52687.81,Two Year,No,UPI,No
+CUST01893,25,1634.11,65360.88,Month-to-Month,No,UPI,Yes
+CUST01894,66,1990.51,78058.56,Two Year,No,Debit Card,Yes
+CUST01895,25,1329.32,76833.49,Month-to-Month,No,Bank Transfer,Yes
+CUST01896,54,823.41,97282.53,Two Year,DSL,UPI,No
+CUST01897,33,1723.8,28941.22,Month-to-Month,DSL,UPI,Yes
+CUST01898,36,1344.63,7575.52,Month-to-Month,DSL,UPI,No
+CUST01899,14,1288.03,34892.87,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01900,65,731.18,74457.8,One Year,DSL,Debit Card,No
+CUST01901,54,1585.77,44092.11,Month-to-Month,DSL,Credit Card,No
+CUST01902,52,438.83,81869.95,Month-to-Month,Fiber Optic,UPI,No
+CUST01903,3,1871.29,55157.97,Month-to-Month,DSL,Bank Transfer,No
+CUST01904,41,853.9,93014.28,Month-to-Month,No,Debit Card,No
+CUST01905,6,517.22,94812.41,One Year,DSL,Debit Card,No
+CUST01906,25,1052.02,7395.8,Two Year,DSL,Bank Transfer,No
+CUST01907,13,372.2,45913.14,Month-to-Month,DSL,UPI,No
+CUST01908,8,1463.86,61164.06,One Year,No,Credit Card,No
+CUST01909,21,1834.6,25959.32,Month-to-Month,No,UPI,Yes
+CUST01910,68,1723.35,41004.14,Month-to-Month,No,Debit Card,No
+CUST01911,25,516.53,67929.31,Two Year,No,Credit Card,No
+CUST01912,68,514.66,23060.06,Month-to-Month,Fiber Optic,UPI,No
+CUST01913,45,1682.84,60397.14,Month-to-Month,No,Credit Card,No
+CUST01914,60,1871.23,69896.06,Two Year,No,Bank Transfer,No
+CUST01915,12,1083.14,9504.38,Two Year,No,UPI,Yes
+CUST01916,32,1148.25,50004.17,Two Year,No,Debit Card,No
+CUST01917,13,841.05,26676.46,Two Year,Fiber Optic,Debit Card,Yes
+CUST01918,31,1820.25,72576.44,One Year,DSL,Credit Card,Yes
+CUST01919,20,1396.33,19360.77,One Year,DSL,Bank Transfer,No
+CUST01920,18,790.03,89277.67,One Year,No,UPI,No
+CUST01921,60,807.93,43378.66,Month-to-Month,No,Bank Transfer,No
+CUST01922,63,1815.04,20201.3,Two Year,No,Bank Transfer,No
+CUST01923,6,323.18,44083.17,Two Year,DSL,Credit Card,Yes
+CUST01924,32,848.64,41170.0,One Year,DSL,Credit Card,No
+CUST01925,43,1242.41,43177.44,Month-to-Month,No,UPI,No
+CUST01926,2,551.97,58763.35,Month-to-Month,DSL,Debit Card,No
+CUST01927,60,456.57,52356.79,Month-to-Month,Fiber Optic,UPI,No
+CUST01928,23,1685.97,15402.82,One Year,No,Bank Transfer,Yes
+CUST01929,31,1820.49,7025.12,Month-to-Month,No,Credit Card,No
+CUST01930,5,1700.13,73076.84,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01931,34,1827.94,56191.88,Month-to-Month,Fiber Optic,Credit Card,No
+CUST01932,10,1240.29,36220.58,Two Year,DSL,Debit Card,No
+CUST01933,2,1680.84,80931.6,One Year,Fiber Optic,Bank Transfer,Yes
+CUST01934,11,952.87,39111.82,Two Year,No,Credit Card,Yes
+CUST01935,50,1432.66,79698.53,Two Year,DSL,UPI,Yes
+CUST01936,31,1981.02,30922.73,One Year,Fiber Optic,UPI,No
+CUST01937,56,683.74,7748.11,Two Year,DSL,UPI,Yes
+CUST01938,9,962.83,93297.65,Month-to-Month,DSL,Bank Transfer,No
+CUST01939,21,1116.08,39757.84,Month-to-Month,DSL,Credit Card,Yes
+CUST01940,28,534.63,79372.91,Month-to-Month,DSL,Credit Card,No
+CUST01941,62,437.77,28274.84,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST01942,7,1710.53,64813.33,One Year,No,Bank Transfer,Yes
+CUST01943,16,1960.55,87394.43,Two Year,No,Credit Card,No
+CUST01944,4,988.03,4643.58,Two Year,Fiber Optic,Debit Card,No
+CUST01945,4,449.0,83148.26,Month-to-Month,No,Bank Transfer,No
+CUST01946,40,411.88,57347.63,Month-to-Month,DSL,Debit Card,No
+CUST01947,17,1815.24,60943.44,Two Year,DSL,Debit Card,No
+CUST01948,52,1088.48,52554.22,One Year,DSL,UPI,No
+CUST01949,52,844.05,87510.27,Two Year,Fiber Optic,Bank Transfer,No
+CUST01950,36,1109.98,4821.62,Month-to-Month,DSL,Credit Card,Yes
+CUST01951,38,841.12,26472.32,Month-to-Month,DSL,Debit Card,No
+CUST01952,50,1131.36,87638.37,One Year,Fiber Optic,Bank Transfer,No
+CUST01953,63,1761.25,75358.4,Two Year,DSL,Credit Card,No
+CUST01954,63,1306.91,2255.69,One Year,DSL,UPI,Yes
+CUST01955,62,1480.91,51942.13,One Year,No,Bank Transfer,No
+CUST01956,7,919.94,53192.48,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST01957,27,1555.46,40387.77,Two Year,DSL,Bank Transfer,Yes
+CUST01958,14,1433.25,30090.64,Month-to-Month,DSL,Credit Card,No
+CUST01959,71,503.26,68331.62,Two Year,DSL,Debit Card,No
+CUST01960,5,1273.49,21175.15,Month-to-Month,DSL,Debit Card,No
+CUST01961,55,736.46,79995.38,Month-to-Month,No,Bank Transfer,No
+CUST01962,2,1666.96,80402.2,Two Year,No,Bank Transfer,Yes
+CUST01963,62,1024.09,41818.51,Two Year,No,Credit Card,Yes
+CUST01964,21,1990.96,28713.03,Month-to-Month,No,UPI,No
+CUST01965,21,457.25,28745.88,Two Year,Fiber Optic,Bank Transfer,No
+CUST01966,10,1626.59,48487.99,Month-to-Month,DSL,Bank Transfer,No
+CUST01967,58,1445.29,72098.13,Two Year,No,UPI,No
+CUST01968,39,1604.75,36207.43,Month-to-Month,DSL,Bank Transfer,No
+CUST01969,5,822.8,61199.31,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01970,65,1136.49,38557.2,Month-to-Month,DSL,Bank Transfer,No
+CUST01971,13,1654.06,30800.06,One Year,DSL,Debit Card,No
+CUST01972,53,695.32,2973.52,Two Year,No,Credit Card,No
+CUST01973,45,684.26,889.45,Month-to-Month,No,Credit Card,No
+CUST01974,32,1236.79,23107.16,One Year,Fiber Optic,Debit Card,No
+CUST01975,36,1190.06,40937.43,Month-to-Month,DSL,Debit Card,No
+CUST01976,60,779.85,85200.49,One Year,No,UPI,No
+CUST01977,11,806.73,79949.18,Month-to-Month,No,Debit Card,Yes
+CUST01978,63,772.34,27082.94,Month-to-Month,No,Debit Card,Yes
+CUST01979,21,1611.57,24831.77,One Year,Fiber Optic,Bank Transfer,No
+CUST01980,52,1408.23,23118.55,One Year,DSL,UPI,No
+CUST01981,55,1715.11,34254.12,Two Year,No,Debit Card,No
+CUST01982,26,1958.3,50070.77,Two Year,DSL,Debit Card,No
+CUST01983,68,1106.08,44147.44,One Year,Fiber Optic,Debit Card,No
+CUST01984,34,413.38,22218.18,Two Year,DSL,Bank Transfer,Yes
+CUST01985,52,381.76,13479.92,One Year,No,Bank Transfer,Yes
+CUST01986,52,802.63,1751.49,Two Year,DSL,Bank Transfer,No
+CUST01987,29,1885.33,15819.34,Month-to-Month,DSL,Credit Card,Yes
+CUST01988,38,1189.46,70682.96,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST01989,42,762.04,24742.04,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01990,21,978.58,47125.88,Month-to-Month,DSL,Bank Transfer,Yes
+CUST01991,42,1317.61,59334.46,Two Year,DSL,Bank Transfer,No
+CUST01992,13,1410.01,88740.67,One Year,DSL,UPI,No
+CUST01993,64,561.66,88941.08,Month-to-Month,Fiber Optic,Debit Card,No
+CUST01994,17,1960.95,74700.51,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST01995,9,1226.11,3998.12,Two Year,DSL,Credit Card,No
+CUST01996,41,530.67,57719.51,One Year,Fiber Optic,UPI,Yes
+CUST01997,1,1819.18,78765.06,One Year,No,Bank Transfer,Yes
+CUST01998,2,426.89,2220.16,Two Year,Fiber Optic,UPI,No
+CUST01999,60,1843.15,55193.62,One Year,Fiber Optic,UPI,Yes
+CUST02000,48,1994.16,85847.53,Two Year,Fiber Optic,Credit Card,Yes
+CUST02001,29,1490.73,47673.16,Two Year,No,Credit Card,No
+CUST02002,10,1609.76,908.57,Two Year,No,Credit Card,No
+CUST02003,58,873.41,1595.83,Month-to-Month,No,Debit Card,No
+CUST02004,60,1900.68,41955.29,Month-to-Month,DSL,UPI,Yes
+CUST02005,21,1200.51,15923.36,Month-to-Month,DSL,Bank Transfer,No
+CUST02006,28,1545.06,66612.84,Two Year,No,Credit Card,No
+CUST02007,34,1870.98,71025.53,Month-to-Month,DSL,Credit Card,Yes
+CUST02008,8,1957.81,18199.04,Month-to-Month,DSL,UPI,Yes
+CUST02009,59,1716.45,88909.06,Month-to-Month,DSL,UPI,No
+CUST02010,49,815.13,44469.83,Two Year,No,UPI,No
+CUST02011,17,1943.13,14713.17,Two Year,Fiber Optic,Bank Transfer,No
+CUST02012,60,1367.8,76543.03,Two Year,No,Debit Card,Yes
+CUST02013,45,1882.09,79102.46,Month-to-Month,No,Debit Card,No
+CUST02014,69,1449.38,64109.9,One Year,DSL,Credit Card,No
+CUST02015,32,822.31,85419.82,Month-to-Month,DSL,Debit Card,Yes
+CUST02016,44,929.04,73868.61,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST02017,65,1235.8,88279.47,Two Year,Fiber Optic,Debit Card,No
+CUST02018,8,1643.03,43671.86,Two Year,Fiber Optic,Bank Transfer,No
+CUST02019,43,840.57,74885.91,Month-to-Month,Fiber Optic,Credit Card,No
+CUST02020,1,1285.54,99975.28,Month-to-Month,No,UPI,No
+CUST02021,51,887.56,72630.65,One Year,Fiber Optic,Bank Transfer,No
+CUST02022,24,1686.81,11861.29,One Year,No,UPI,No
+CUST02023,24,1093.44,52072.71,Two Year,DSL,Credit Card,No
+CUST02024,17,430.43,58941.11,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02025,5,582.29,17833.96,One Year,DSL,Bank Transfer,No
+CUST02026,20,403.88,96307.72,Two Year,DSL,Debit Card,No
+CUST02027,21,1148.82,17970.19,One Year,No,Bank Transfer,Yes
+CUST02028,58,480.77,18167.01,Month-to-Month,Fiber Optic,Credit Card,No
+CUST02029,31,494.04,91559.13,One Year,No,UPI,Yes
+CUST02030,11,1899.78,46787.94,Two Year,DSL,Bank Transfer,No
+CUST02031,52,1783.51,6787.23,Month-to-Month,Fiber Optic,Credit Card,No
+CUST02032,15,1068.55,60019.66,One Year,DSL,Credit Card,No
+CUST02033,7,1975.87,60381.72,Month-to-Month,DSL,Bank Transfer,No
+CUST02034,28,300.32,6917.83,Month-to-Month,Fiber Optic,Debit Card,No
+CUST02035,51,1343.77,97265.99,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02036,58,1347.93,54630.98,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02037,5,1077.65,56199.67,Two Year,No,Debit Card,No
+CUST02038,5,974.81,52251.48,Two Year,No,Credit Card,Yes
+CUST02039,8,1074.15,61267.81,Month-to-Month,DSL,Bank Transfer,No
+CUST02040,64,1005.43,26797.83,Two Year,Fiber Optic,Debit Card,No
+CUST02041,10,1541.84,29080.51,Month-to-Month,DSL,UPI,Yes
+CUST02042,38,530.1,51378.24,Month-to-Month,DSL,UPI,No
+CUST02043,8,635.99,80765.24,Two Year,DSL,Debit Card,No
+CUST02044,25,606.88,5461.53,Two Year,DSL,Credit Card,No
+CUST02045,66,746.2,60538.72,Two Year,DSL,Debit Card,No
+CUST02046,50,1192.94,80774.43,One Year,Fiber Optic,Credit Card,Yes
+CUST02047,67,489.05,16113.27,Month-to-Month,No,UPI,No
+CUST02048,49,1775.89,1994.74,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST02049,36,805.51,31614.97,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST02050,68,576.31,59020.3,Two Year,Fiber Optic,UPI,No
+CUST02051,41,1448.56,14259.18,Two Year,No,Bank Transfer,Yes
+CUST02052,62,364.75,42899.18,Two Year,No,UPI,No
+CUST02053,10,1353.95,55455.99,Two Year,No,Debit Card,No
+CUST02054,21,1486.94,60088.87,Two Year,Fiber Optic,Debit Card,No
+CUST02055,36,665.36,27803.97,One Year,No,Bank Transfer,No
+CUST02056,12,371.34,40302.95,Two Year,DSL,Debit Card,Yes
+CUST02057,2,918.2,77944.75,Month-to-Month,No,UPI,No
+CUST02058,13,467.61,94150.86,Two Year,Fiber Optic,Bank Transfer,No
+CUST02059,53,498.01,86257.09,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02060,32,732.24,56646.21,Two Year,DSL,UPI,Yes
+CUST02061,16,802.3,41324.13,Two Year,No,Credit Card,Yes
+CUST02062,32,1200.95,33629.18,Month-to-Month,No,Bank Transfer,No
+CUST02063,32,1453.27,12933.18,Month-to-Month,DSL,Credit Card,No
+CUST02064,11,1307.71,11101.85,Month-to-Month,Fiber Optic,UPI,No
+CUST02065,10,552.21,68991.58,Month-to-Month,Fiber Optic,UPI,No
+CUST02066,15,592.55,26349.54,One Year,No,Bank Transfer,No
+CUST02067,17,1793.91,25838.84,Month-to-Month,No,Debit Card,No
+CUST02068,40,1249.2,99820.41,Two Year,No,Bank Transfer,No
+CUST02069,18,1778.89,19198.63,Two Year,No,Debit Card,Yes
+CUST02070,55,931.63,15231.95,One Year,No,Credit Card,No
+CUST02071,25,1344.48,10319.18,Month-to-Month,Fiber Optic,Debit Card,No
+CUST02072,59,1190.23,58190.63,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST02073,22,842.51,62972.45,One Year,Fiber Optic,Debit Card,Yes
+CUST02074,30,1098.86,36840.18,Two Year,Fiber Optic,UPI,Yes
+CUST02075,44,1154.23,53773.63,One Year,DSL,Credit Card,No
+CUST02076,32,641.31,78945.75,One Year,Fiber Optic,UPI,No
+CUST02077,51,835.52,81901.36,Month-to-Month,DSL,UPI,No
+CUST02078,46,1645.4,95812.25,One Year,Fiber Optic,UPI,No
+CUST02079,21,1856.84,82514.66,Two Year,No,UPI,No
+CUST02080,32,911.65,56701.72,Two Year,No,Debit Card,Yes
+CUST02081,39,821.85,18375.87,Month-to-Month,No,UPI,Yes
+CUST02082,12,631.84,10426.47,Month-to-Month,DSL,Debit Card,No
+CUST02083,47,1453.43,5923.93,One Year,Fiber Optic,UPI,No
+CUST02084,18,849.27,66819.32,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02085,21,1979.17,80849.86,Two Year,DSL,UPI,No
+CUST02086,13,853.66,51114.05,Two Year,DSL,Bank Transfer,No
+CUST02087,21,970.03,5944.06,Month-to-Month,DSL,Debit Card,No
+CUST02088,8,1325.67,53779.32,Month-to-Month,DSL,Credit Card,Yes
+CUST02089,46,1662.86,93607.05,Month-to-Month,DSL,Debit Card,No
+CUST02090,7,1098.18,59962.51,One Year,No,Credit Card,Yes
+CUST02091,23,1018.52,81038.04,One Year,Fiber Optic,Credit Card,No
+CUST02092,22,1992.58,80115.19,Two Year,DSL,UPI,Yes
+CUST02093,22,317.84,93246.85,One Year,No,Credit Card,No
+CUST02094,29,1821.61,77137.76,One Year,DSL,Debit Card,No
+CUST02095,13,553.54,74896.2,One Year,No,UPI,No
+CUST02096,2,1636.07,23793.22,One Year,DSL,Credit Card,No
+CUST02097,29,1350.48,6462.55,Two Year,Fiber Optic,Debit Card,No
+CUST02098,52,881.14,52001.15,Month-to-Month,DSL,Credit Card,No
+CUST02099,27,1785.59,12881.2,Two Year,DSL,Credit Card,No
+CUST02100,50,321.94,96238.49,One Year,Fiber Optic,UPI,No
+CUST02101,23,685.37,29347.51,Month-to-Month,Fiber Optic,UPI,Yes
+CUST02102,44,1263.72,85367.95,Month-to-Month,DSL,Debit Card,No
+CUST02103,22,897.62,39068.65,Month-to-Month,Fiber Optic,UPI,No
+CUST02104,43,1337.64,32657.83,Two Year,Fiber Optic,UPI,No
+CUST02105,37,340.99,93548.28,Month-to-Month,No,Bank Transfer,No
+CUST02106,61,497.98,36650.6,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST02107,56,516.06,39333.65,Two Year,Fiber Optic,Debit Card,No
+CUST02108,3,621.78,11056.13,One Year,DSL,UPI,No
+CUST02109,63,1080.86,67209.44,One Year,DSL,Debit Card,Yes
+CUST02110,19,1578.62,29239.52,Month-to-Month,No,Bank Transfer,No
+CUST02111,23,1839.42,58767.61,Month-to-Month,DSL,Bank Transfer,No
+CUST02112,29,1720.13,59339.49,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02113,30,634.71,72060.37,Two Year,Fiber Optic,Debit Card,Yes
+CUST02114,39,1049.96,74651.53,Two Year,Fiber Optic,UPI,No
+CUST02115,25,639.0,51688.02,One Year,DSL,Credit Card,Yes
+CUST02116,8,749.6,33433.7,Two Year,Fiber Optic,UPI,No
+CUST02117,58,1156.03,83826.36,One Year,Fiber Optic,Debit Card,No
+CUST02118,16,415.79,31331.63,One Year,No,Bank Transfer,No
+CUST02119,1,670.9,50997.15,Month-to-Month,No,Credit Card,No
+CUST02120,5,1890.14,40424.63,Month-to-Month,No,Debit Card,No
+CUST02121,3,1092.4,85580.3,One Year,DSL,Bank Transfer,No
+CUST02122,65,1057.16,43475.89,Month-to-Month,Fiber Optic,Debit Card,No
+CUST02123,4,324.76,38916.87,One Year,Fiber Optic,Credit Card,No
+CUST02124,64,720.58,69137.46,Two Year,Fiber Optic,Bank Transfer,No
+CUST02125,10,1772.7,60442.89,Two Year,No,UPI,No
+CUST02126,21,579.87,11171.06,Two Year,Fiber Optic,Debit Card,Yes
+CUST02127,46,1005.71,51062.8,Two Year,Fiber Optic,Credit Card,No
+CUST02128,27,324.36,73680.1,One Year,Fiber Optic,UPI,No
+CUST02129,66,1113.17,99211.44,Two Year,Fiber Optic,Credit Card,No
+CUST02130,41,335.74,63100.11,Two Year,Fiber Optic,Debit Card,Yes
+CUST02131,13,1693.34,37344.16,Two Year,DSL,Credit Card,No
+CUST02132,9,1702.25,23002.08,Two Year,Fiber Optic,Bank Transfer,No
+CUST02133,36,1639.16,87346.61,One Year,DSL,Credit Card,No
+CUST02134,58,781.72,81549.24,Two Year,Fiber Optic,Debit Card,No
+CUST02135,54,1723.3,23775.32,Month-to-Month,DSL,Bank Transfer,No
+CUST02136,12,1223.1,20462.89,Month-to-Month,Fiber Optic,Credit Card,No
+CUST02137,14,935.47,71656.11,Month-to-Month,Fiber Optic,Credit Card,No
+CUST02138,34,1363.06,31837.73,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST02139,53,320.98,30986.68,Month-to-Month,Fiber Optic,UPI,No
+CUST02140,20,543.03,15652.88,Month-to-Month,No,UPI,Yes
+CUST02141,16,1561.9,26765.56,One Year,Fiber Optic,Bank Transfer,No
+CUST02142,70,715.07,43037.0,Month-to-Month,DSL,Credit Card,Yes
+CUST02143,56,1316.62,73417.41,Two Year,No,UPI,No
+CUST02144,58,954.67,33962.66,Month-to-Month,No,Bank Transfer,No
+CUST02145,4,1753.17,33196.13,One Year,Fiber Optic,Debit Card,No
+CUST02146,4,1919.11,28848.87,Month-to-Month,DSL,Credit Card,No
+CUST02147,20,1802.06,48089.22,Two Year,DSL,Debit Card,No
+CUST02148,10,760.05,18473.35,Two Year,No,Credit Card,Yes
+CUST02149,24,630.08,48820.26,One Year,DSL,UPI,No
+CUST02150,26,1106.54,70565.47,One Year,Fiber Optic,Debit Card,No
+CUST02151,37,312.47,3464.16,One Year,Fiber Optic,Debit Card,Yes
+CUST02152,54,343.88,1473.05,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02153,21,1240.59,7974.73,Month-to-Month,Fiber Optic,UPI,Yes
+CUST02154,38,1184.76,53798.18,Month-to-Month,Fiber Optic,UPI,Yes
+CUST02155,46,1990.79,85518.28,Two Year,No,Credit Card,No
+CUST02156,4,643.13,986.0,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02157,60,738.78,93697.8,One Year,Fiber Optic,Bank Transfer,No
+CUST02158,57,493.02,11074.71,Month-to-Month,No,Credit Card,Yes
+CUST02159,45,1859.82,84277.36,One Year,No,Debit Card,No
+CUST02160,20,1622.28,48544.05,Two Year,No,Credit Card,No
+CUST02161,17,1697.98,66106.06,Two Year,DSL,Credit Card,No
+CUST02162,71,1834.7,51312.96,One Year,DSL,Credit Card,Yes
+CUST02163,4,1192.33,47966.3,Two Year,Fiber Optic,Bank Transfer,No
+CUST02164,14,1067.03,83572.49,Two Year,Fiber Optic,Credit Card,Yes
+CUST02165,3,861.67,75710.69,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST02166,58,1301.66,48598.52,Two Year,DSL,Credit Card,Yes
+CUST02167,55,1072.27,11607.77,One Year,Fiber Optic,UPI,No
+CUST02168,4,1067.66,11982.59,One Year,Fiber Optic,Debit Card,No
+CUST02169,24,1892.78,80253.18,Two Year,DSL,Debit Card,No
+CUST02170,34,1972.85,53174.37,One Year,No,Debit Card,No
+CUST02171,30,1654.02,48418.12,Month-to-Month,DSL,Debit Card,No
+CUST02172,19,1586.49,68216.4,Two Year,Fiber Optic,Bank Transfer,No
+CUST02173,31,1456.95,85954.74,Two Year,DSL,Bank Transfer,No
+CUST02174,60,582.33,63072.88,Two Year,No,Credit Card,No
+CUST02175,60,400.48,76403.37,One Year,No,Bank Transfer,Yes
+CUST02176,19,1474.23,76644.42,One Year,No,Debit Card,No
+CUST02177,49,1538.94,35948.01,Two Year,No,UPI,No
+CUST02178,63,379.85,27771.28,One Year,No,Credit Card,No
+CUST02179,22,1877.69,80215.82,One Year,No,Credit Card,No
+CUST02180,24,454.94,38029.29,Two Year,Fiber Optic,Debit Card,No
+CUST02181,30,786.03,90381.93,Two Year,Fiber Optic,Debit Card,No
+CUST02182,58,1443.06,7434.22,One Year,DSL,Debit Card,Yes
+CUST02183,31,588.78,6292.64,Two Year,Fiber Optic,Bank Transfer,No
+CUST02184,64,394.21,92736.91,Two Year,No,Credit Card,No
+CUST02185,19,862.95,65021.26,Two Year,Fiber Optic,Debit Card,No
+CUST02186,48,1602.15,38270.14,Two Year,DSL,UPI,No
+CUST02187,45,1003.25,75628.51,One Year,No,Credit Card,Yes
+CUST02188,55,1410.05,67396.52,Two Year,Fiber Optic,Credit Card,No
+CUST02189,55,1285.35,53354.5,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02190,18,337.77,10337.9,Two Year,DSL,Credit Card,No
+CUST02191,63,1980.52,81311.87,Month-to-Month,No,Debit Card,No
+CUST02192,47,370.43,86669.31,Two Year,DSL,Debit Card,Yes
+CUST02193,57,1945.26,17630.78,Month-to-Month,No,UPI,Yes
+CUST02194,45,1234.77,85125.91,Month-to-Month,No,Credit Card,No
+CUST02195,33,1937.37,87845.81,Two Year,Fiber Optic,Credit Card,No
+CUST02196,17,495.08,55168.15,Two Year,DSL,Bank Transfer,No
+CUST02197,70,1133.69,65789.81,Two Year,DSL,Debit Card,No
+CUST02198,4,588.16,38532.61,Month-to-Month,DSL,UPI,Yes
+CUST02199,20,386.66,28538.27,One Year,No,Debit Card,Yes
+CUST02200,47,1349.8,72337.32,One Year,DSL,Credit Card,No
+CUST02201,15,653.23,86256.58,Two Year,No,Credit Card,No
+CUST02202,70,1299.08,65580.72,One Year,DSL,UPI,No
+CUST02203,47,491.02,51403.27,One Year,DSL,Credit Card,No
+CUST02204,9,864.38,16313.01,Two Year,Fiber Optic,UPI,No
+CUST02205,16,1628.78,5819.14,Month-to-Month,DSL,UPI,Yes
+CUST02206,69,1042.99,44846.33,Two Year,Fiber Optic,Debit Card,No
+CUST02207,61,1367.17,5410.28,One Year,Fiber Optic,UPI,Yes
+CUST02208,10,1400.68,57148.8,Month-to-Month,No,Credit Card,No
+CUST02209,50,1734.38,38581.55,One Year,DSL,Bank Transfer,No
+CUST02210,3,852.37,75840.32,Month-to-Month,DSL,Bank Transfer,No
+CUST02211,70,1468.4,30912.03,One Year,DSL,Credit Card,Yes
+CUST02212,51,1934.75,59501.78,Two Year,Fiber Optic,Bank Transfer,No
+CUST02213,19,1541.41,53999.51,One Year,DSL,Bank Transfer,No
+CUST02214,42,1132.78,968.89,One Year,No,UPI,Yes
+CUST02215,35,1372.22,7702.75,Month-to-Month,No,Bank Transfer,Yes
+CUST02216,46,1557.46,29391.64,One Year,DSL,Bank Transfer,No
+CUST02217,26,1340.87,88282.39,Two Year,Fiber Optic,Bank Transfer,No
+CUST02218,69,328.35,15127.99,Two Year,No,Debit Card,No
+CUST02219,64,631.11,71233.99,Two Year,No,Credit Card,Yes
+CUST02220,37,1677.8,97349.97,Month-to-Month,Fiber Optic,UPI,No
+CUST02221,49,763.51,79161.47,Month-to-Month,No,Bank Transfer,Yes
+CUST02222,21,1543.66,24673.06,One Year,Fiber Optic,Credit Card,No
+CUST02223,64,932.6,90882.34,One Year,No,Bank Transfer,No
+CUST02224,5,1187.2,9764.16,One Year,Fiber Optic,Debit Card,No
+CUST02225,70,415.55,47080.12,Month-to-Month,No,Debit Card,No
+CUST02226,4,608.08,88810.42,Month-to-Month,DSL,Bank Transfer,No
+CUST02227,39,1927.23,64305.94,One Year,No,Bank Transfer,Yes
+CUST02228,35,1813.23,41657.63,Month-to-Month,No,Bank Transfer,No
+CUST02229,1,1408.87,29634.88,Month-to-Month,DSL,Debit Card,Yes
+CUST02230,24,1081.4,37822.39,Two Year,DSL,Debit Card,No
+CUST02231,57,1448.79,51139.71,Two Year,DSL,Credit Card,No
+CUST02232,70,1351.64,32244.87,One Year,DSL,UPI,No
+CUST02233,41,1266.54,96912.3,One Year,Fiber Optic,UPI,No
+CUST02234,54,400.6,93341.23,Two Year,Fiber Optic,Debit Card,Yes
+CUST02235,46,1375.76,87131.81,Month-to-Month,No,UPI,No
+CUST02236,60,1607.16,42472.07,One Year,No,Bank Transfer,No
+CUST02237,60,1989.94,69284.53,One Year,No,Credit Card,No
+CUST02238,57,318.83,90331.52,One Year,Fiber Optic,Debit Card,No
+CUST02239,31,1541.29,85117.73,Month-to-Month,No,Debit Card,No
+CUST02240,24,1272.04,41725.54,Two Year,No,UPI,No
+CUST02241,36,1037.89,11682.41,One Year,Fiber Optic,Bank Transfer,No
+CUST02242,30,516.87,8025.22,Two Year,No,Credit Card,Yes
+CUST02243,24,995.44,57917.87,Two Year,Fiber Optic,UPI,No
+CUST02244,30,902.44,64441.48,Month-to-Month,Fiber Optic,Debit Card,No
+CUST02245,7,814.81,85059.34,Month-to-Month,DSL,Debit Card,Yes
+CUST02246,35,1542.5,29605.24,Month-to-Month,DSL,UPI,No
+CUST02247,55,1491.23,17163.31,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02248,14,1301.33,38211.08,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST02249,10,1895.73,35680.72,Month-to-Month,DSL,Credit Card,Yes
+CUST02250,16,894.75,13680.66,One Year,No,Credit Card,Yes
+CUST02251,54,714.46,67392.12,Two Year,No,Credit Card,No
+CUST02252,70,1415.04,51114.85,Month-to-Month,No,Bank Transfer,No
+CUST02253,44,637.98,72251.71,One Year,Fiber Optic,Debit Card,No
+CUST02254,45,835.52,35592.77,Two Year,DSL,Debit Card,Yes
+CUST02255,56,681.82,32907.37,Month-to-Month,No,Credit Card,No
+CUST02256,57,417.56,47521.3,Month-to-Month,DSL,Credit Card,No
+CUST02257,21,1706.75,87802.03,One Year,DSL,Credit Card,No
+CUST02258,68,732.72,4507.99,Two Year,Fiber Optic,UPI,No
+CUST02259,50,1104.15,80580.87,Month-to-Month,No,UPI,No
+CUST02260,33,373.64,37214.27,Two Year,DSL,Debit Card,No
+CUST02261,7,1488.88,85534.59,One Year,Fiber Optic,Debit Card,No
+CUST02262,70,861.95,80319.2,Month-to-Month,Fiber Optic,Credit Card,No
+CUST02263,15,1566.05,35201.74,Two Year,Fiber Optic,UPI,Yes
+CUST02264,32,1001.09,69540.72,One Year,No,Bank Transfer,No
+CUST02265,20,632.78,16383.46,One Year,No,UPI,No
+CUST02266,15,1172.4,89680.01,Month-to-Month,Fiber Optic,Debit Card,Yes
+CUST02267,48,521.86,40746.86,Two Year,No,UPI,No
+CUST02268,71,1048.92,45834.75,Month-to-Month,No,Debit Card,No
+CUST02269,21,839.42,70723.03,Month-to-Month,DSL,Credit Card,Yes
+CUST02270,42,1850.33,82173.6,Two Year,Fiber Optic,Bank Transfer,No
+CUST02271,26,403.58,24016.1,Two Year,Fiber Optic,Credit Card,No
+CUST02272,14,1479.83,66304.34,Two Year,No,Credit Card,No
+CUST02273,57,610.68,39503.81,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02274,37,842.38,37185.94,One Year,Fiber Optic,Bank Transfer,No
+CUST02275,58,1006.37,69157.57,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST02276,21,1843.63,39024.74,One Year,No,Debit Card,No
+CUST02277,69,712.38,34937.8,Month-to-Month,No,Credit Card,Yes
+CUST02278,3,455.22,83670.9,Two Year,No,Debit Card,No
+CUST02279,37,841.77,10576.97,Month-to-Month,DSL,Bank Transfer,Yes
+CUST02280,49,477.95,67751.32,Two Year,Fiber Optic,Debit Card,Yes
+CUST02281,19,518.61,25248.18,Month-to-Month,DSL,Bank Transfer,Yes
+CUST02282,12,1275.55,2042.08,Two Year,No,UPI,No
+CUST02283,61,403.53,17093.04,Month-to-Month,DSL,Bank Transfer,No
+CUST02284,41,352.58,60862.82,Two Year,Fiber Optic,Credit Card,Yes
+CUST02285,33,1514.5,71058.16,Two Year,Fiber Optic,Credit Card,No
+CUST02286,50,914.8,2595.25,One Year,No,Credit Card,Yes
+CUST02287,68,513.14,4124.33,Month-to-Month,No,Debit Card,No
+CUST02288,71,731.14,90302.94,One Year,DSL,Credit Card,Yes
+CUST02289,33,1391.55,7793.93,Month-to-Month,No,Bank Transfer,No
+CUST02290,24,768.41,89471.12,One Year,DSL,UPI,No
+CUST02291,61,1140.69,23202.51,Two Year,Fiber Optic,Credit Card,No
+CUST02292,61,506.88,74131.77,One Year,Fiber Optic,Debit Card,No
+CUST02293,28,1299.76,31318.46,One Year,Fiber Optic,UPI,Yes
+CUST02294,58,837.33,85945.83,Two Year,Fiber Optic,Credit Card,No
+CUST02295,43,1365.85,70195.26,One Year,Fiber Optic,Credit Card,Yes
+CUST02296,41,1674.27,40480.44,Two Year,DSL,UPI,No
+CUST02297,39,1339.8,8092.09,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST02298,49,802.77,73403.67,One Year,DSL,Debit Card,Yes
+CUST02299,17,734.76,61880.03,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST02300,70,856.62,789.72,Two Year,DSL,Bank Transfer,No
+CUST02301,70,579.85,1437.28,One Year,DSL,UPI,No
+CUST02302,65,607.99,80974.9,Month-to-Month,DSL,Bank Transfer,No
+CUST02303,5,1644.17,26310.27,One Year,No,Credit Card,Yes
+CUST02304,2,954.05,63795.3,Two Year,DSL,Credit Card,No
+CUST02305,22,1041.19,45694.33,Month-to-Month,DSL,Debit Card,No
+CUST02306,57,1309.88,86411.29,One Year,Fiber Optic,Bank Transfer,No
+CUST02307,66,1302.41,91737.63,Two Year,DSL,UPI,Yes
+CUST02308,16,414.54,99682.37,One Year,DSL,Credit Card,No
+CUST02309,51,1713.62,15791.57,Month-to-Month,No,UPI,No
+CUST02310,39,601.46,86364.92,Month-to-Month,Fiber Optic,Credit Card,No
+CUST02311,40,1529.22,26969.13,Month-to-Month,No,Credit Card,Yes
+CUST02312,38,1613.54,59286.18,Month-to-Month,No,Debit Card,Yes
+CUST02313,60,1515.33,50824.4,Month-to-Month,No,Bank Transfer,Yes
+CUST02314,59,1284.26,2289.82,One Year,DSL,Debit Card,No
+CUST02315,10,324.84,93310.74,Month-to-Month,No,Bank Transfer,No
+CUST02316,64,912.64,8293.54,Month-to-Month,No,UPI,No
+CUST02317,63,1328.23,68977.78,Two Year,Fiber Optic,Bank Transfer,No
+CUST02318,49,958.67,78608.18,Month-to-Month,Fiber Optic,UPI,No
+CUST02319,64,1767.92,79631.14,Two Year,Fiber Optic,Credit Card,No
+CUST02320,32,824.96,13981.7,Two Year,Fiber Optic,UPI,No
+CUST02321,7,799.01,45033.21,Two Year,No,UPI,No
+CUST02322,21,752.2,83028.17,One Year,Fiber Optic,Credit Card,No
+CUST02323,20,865.73,30616.58,One Year,DSL,UPI,No
+CUST02324,26,1247.59,47040.99,Two Year,No,UPI,No
+CUST02325,68,1501.93,27642.99,One Year,Fiber Optic,Credit Card,No
+CUST02326,15,1426.37,46623.37,Month-to-Month,No,Credit Card,No
+CUST02327,14,1673.12,88839.87,One Year,Fiber Optic,Credit Card,Yes
+CUST02328,27,1806.05,45784.86,Month-to-Month,No,Bank Transfer,No
+CUST02329,40,1687.33,55813.25,Month-to-Month,Fiber Optic,Credit Card,Yes
+CUST02330,58,332.21,40695.64,One Year,DSL,Credit Card,Yes
+CUST02331,28,1551.06,46281.66,One Year,Fiber Optic,UPI,No
+CUST02332,26,654.28,2009.83,Two Year,No,Debit Card,No
+CUST02333,63,525.98,28732.68,One Year,No,Debit Card,No
+CUST02334,66,1385.43,43939.88,One Year,DSL,Bank Transfer,No
+CUST02335,25,843.56,63562.8,One Year,No,Bank Transfer,Yes
+CUST02336,3,397.1,45280.17,Month-to-Month,DSL,Debit Card,Yes
+CUST02337,44,533.97,34112.8,Month-to-Month,No,Debit Card,No
+CUST02338,42,301.58,39115.82,Month-to-Month,No,Credit Card,No
+CUST02339,6,1835.48,24608.19,Two Year,DSL,UPI,Yes
+CUST02340,39,341.85,92487.18,Two Year,No,Credit Card,No
+CUST02341,52,656.07,52413.45,Two Year,No,Bank Transfer,No
+CUST02342,23,1007.65,1834.24,Month-to-Month,DSL,Debit Card,No
+CUST02343,50,906.17,2434.9,One Year,Fiber Optic,Bank Transfer,No
+CUST02344,43,1849.93,97309.68,Two Year,DSL,Credit Card,No
+CUST02345,19,368.49,22534.36,Two Year,No,Bank Transfer,No
+CUST02346,69,1170.77,80658.02,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02347,51,1456.82,6298.39,Two Year,Fiber Optic,UPI,Yes
+CUST02348,11,1883.89,92155.69,One Year,Fiber Optic,Bank Transfer,No
+CUST02349,12,1354.63,87504.49,Month-to-Month,DSL,Credit Card,No
+CUST02350,8,1666.38,57323.77,Month-to-Month,Fiber Optic,UPI,Yes
+CUST02351,24,442.33,1395.37,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02352,41,956.1,26152.18,One Year,Fiber Optic,Credit Card,No
+CUST02353,36,935.71,40978.85,One Year,No,Debit Card,No
+CUST02354,55,1806.69,46276.38,Two Year,DSL,UPI,No
+CUST02355,9,557.33,30119.04,One Year,DSL,Bank Transfer,Yes
+CUST02356,47,558.21,3778.31,Month-to-Month,No,Bank Transfer,No
+CUST02357,15,858.55,59217.68,One Year,Fiber Optic,UPI,No
+CUST02358,48,392.59,52653.39,Month-to-Month,No,Credit Card,Yes
+CUST02359,42,610.18,28658.56,Month-to-Month,No,Bank Transfer,No
+CUST02360,60,1940.86,4278.61,Two Year,Fiber Optic,Credit Card,Yes
+CUST02361,70,1027.91,99462.12,One Year,Fiber Optic,UPI,Yes
+CUST02362,12,1374.43,48457.63,Two Year,DSL,Bank Transfer,No
+CUST02363,2,1534.39,75722.42,One Year,Fiber Optic,Debit Card,No
+CUST02364,7,923.83,45505.25,One Year,No,Debit Card,Yes
+CUST02365,3,550.29,4795.44,One Year,No,Debit Card,No
+CUST02366,3,651.19,31305.27,One Year,Fiber Optic,UPI,Yes
+CUST02367,27,832.55,32350.96,One Year,DSL,Bank Transfer,Yes
+CUST02368,40,1381.32,83916.11,Month-to-Month,No,UPI,No
+CUST02369,33,977.08,65595.88,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02370,1,311.58,27905.28,One Year,DSL,Debit Card,Yes
+CUST02371,8,1189.79,96790.13,Month-to-Month,DSL,Debit Card,No
+CUST02372,32,1866.57,32493.41,Two Year,No,Credit Card,Yes
+CUST02373,48,1680.53,99824.29,Two Year,No,UPI,No
+CUST02374,4,1702.86,99618.29,Two Year,DSL,UPI,No
+CUST02375,70,1651.6,19525.45,One Year,DSL,Credit Card,No
+CUST02376,19,850.34,31617.74,One Year,DSL,Debit Card,Yes
+CUST02377,32,1600.83,48861.4,Month-to-Month,Fiber Optic,Debit Card,No
+CUST02378,9,543.37,66578.02,Month-to-Month,No,UPI,No
+CUST02379,12,1418.12,53040.72,Month-to-Month,DSL,Bank Transfer,No
+CUST02380,11,1390.67,96959.43,Two Year,No,Debit Card,No
+CUST02381,46,343.47,72536.92,Two Year,No,Credit Card,No
+CUST02382,16,1639.55,21598.46,Two Year,No,Credit Card,No
+CUST02383,1,1835.52,10957.21,Two Year,DSL,Credit Card,No
+CUST02384,63,754.61,68995.93,Month-to-Month,Fiber Optic,UPI,No
+CUST02385,21,1681.06,16266.02,One Year,DSL,UPI,No
+CUST02386,30,440.09,78873.85,One Year,No,UPI,No
+CUST02387,13,1319.95,31448.15,Two Year,DSL,UPI,No
+CUST02388,34,1125.6,33025.88,One Year,DSL,Credit Card,No
+CUST02389,4,1228.07,1574.44,One Year,No,Credit Card,No
+CUST02390,28,1874.55,70250.62,One Year,No,UPI,No
+CUST02391,59,1781.24,11770.34,Two Year,DSL,UPI,No
+CUST02392,27,1634.64,77401.62,Month-to-Month,DSL,Credit Card,No
+CUST02393,69,765.29,49440.85,Month-to-Month,DSL,UPI,No
+CUST02394,25,1850.09,78535.84,One Year,DSL,UPI,No
+CUST02395,3,465.76,58600.69,Month-to-Month,Fiber Optic,UPI,No
+CUST02396,68,1750.66,8702.11,Month-to-Month,DSL,UPI,No
+CUST02397,25,857.87,76682.41,Two Year,Fiber Optic,Debit Card,Yes
+CUST02398,20,391.41,7445.05,Two Year,No,UPI,No
+CUST02399,34,1437.91,48130.82,One Year,Fiber Optic,Credit Card,No
+CUST02400,26,693.18,17648.75,One Year,No,Credit Card,No
+CUST02401,5,714.07,75357.35,One Year,Fiber Optic,Credit Card,Yes
+CUST02402,61,820.28,91203.33,Two Year,No,Credit Card,No
+CUST02403,9,408.26,55635.55,Month-to-Month,DSL,UPI,No
+CUST02404,50,601.12,52951.16,Two Year,Fiber Optic,Debit Card,Yes
+CUST02405,6,308.74,76514.34,Two Year,Fiber Optic,Bank Transfer,Yes
+CUST02406,60,1057.2,1005.34,Month-to-Month,No,Bank Transfer,No
+CUST02407,44,443.23,91816.98,Month-to-Month,No,Bank Transfer,No
+CUST02408,11,1460.51,20146.16,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02409,66,700.56,98419.83,Month-to-Month,No,Credit Card,No
+CUST02410,47,1904.08,73757.27,Month-to-Month,DSL,UPI,No
+CUST02411,3,1781.13,77537.99,Month-to-Month,Fiber Optic,UPI,No
+CUST02412,30,792.05,65792.2,Month-to-Month,DSL,Bank Transfer,No
+CUST02413,21,1631.47,47430.49,One Year,Fiber Optic,Bank Transfer,No
+CUST02414,28,1665.52,57376.96,One Year,DSL,Debit Card,No
+CUST02415,62,1977.16,5117.09,Month-to-Month,Fiber Optic,Debit Card,No
+CUST02416,33,1316.33,62583.97,Month-to-Month,No,Debit Card,No
+CUST02417,35,439.34,62796.76,One Year,Fiber Optic,Credit Card,No
+CUST02418,52,1399.62,89174.48,One Year,DSL,UPI,No
+CUST02419,34,1362.47,50812.81,Month-to-Month,Fiber Optic,Credit Card,No
+CUST02420,41,1385.2,8175.87,Two Year,DSL,Credit Card,Yes
+CUST02421,51,822.15,30966.49,One Year,DSL,UPI,Yes
+CUST02422,47,1761.46,65735.13,One Year,DSL,Debit Card,No
+CUST02423,58,1931.1,24306.26,One Year,No,UPI,No
+CUST02424,57,670.11,28412.52,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02425,23,449.86,82136.67,Month-to-Month,DSL,Debit Card,Yes
+CUST02426,48,630.71,58639.81,One Year,No,UPI,Yes
+CUST02427,22,1694.94,51098.48,Month-to-Month,DSL,Credit Card,No
+CUST02428,17,1450.3,32185.97,Month-to-Month,Fiber Optic,UPI,No
+CUST02429,69,1381.28,73227.34,One Year,No,Debit Card,No
+CUST02430,11,983.05,29127.98,Month-to-Month,DSL,Bank Transfer,Yes
+CUST02431,15,1282.31,73837.82,Two Year,DSL,Credit Card,No
+CUST02432,35,823.39,7475.1,Month-to-Month,DSL,Bank Transfer,No
+CUST02433,33,1111.24,86521.86,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02434,16,1648.21,50206.86,One Year,No,Credit Card,No
+CUST02435,34,1968.11,44131.55,One Year,No,UPI,No
+CUST02436,66,1885.23,61296.83,Two Year,No,UPI,No
+CUST02437,40,1887.57,62607.11,Month-to-Month,DSL,Bank Transfer,No
+CUST02438,28,983.78,13637.5,Two Year,No,UPI,No
+CUST02439,47,1096.94,75745.24,Two Year,DSL,Debit Card,Yes
+CUST02440,39,1499.58,27954.87,One Year,Fiber Optic,Bank Transfer,Yes
+CUST02441,70,1867.73,90543.71,Month-to-Month,No,Bank Transfer,No
+CUST02442,20,541.39,81876.14,One Year,DSL,Bank Transfer,Yes
+CUST02443,1,817.21,34953.47,Two Year,No,Debit Card,Yes
+CUST02444,63,536.72,80870.06,Two Year,No,Bank Transfer,No
+CUST02445,67,1340.41,35960.85,One Year,Fiber Optic,UPI,No
+CUST02446,4,820.71,10544.29,One Year,No,UPI,No
+CUST02447,58,854.38,96207.88,One Year,Fiber Optic,UPI,No
+CUST02448,25,420.56,65433.9,One Year,No,UPI,No
+CUST02449,47,894.65,45881.9,One Year,No,Bank Transfer,No
+CUST02450,38,1766.24,40078.45,Two Year,No,Debit Card,No
+CUST02451,15,696.22,32808.18,One Year,No,Credit Card,Yes
+CUST02452,63,1481.82,98154.04,Month-to-Month,No,UPI,Yes
+CUST02453,21,1370.37,13907.35,Two Year,No,Credit Card,No
+CUST02454,57,1767.92,31823.1,Two Year,Fiber Optic,Credit Card,Yes
+CUST02455,53,524.89,48807.02,Month-to-Month,Fiber Optic,Bank Transfer,Yes
+CUST02456,46,1961.9,48060.95,Month-to-Month,DSL,UPI,Yes
+CUST02457,14,1290.47,47400.97,Two Year,No,UPI,No
+CUST02458,17,1992.31,17990.49,One Year,Fiber Optic,UPI,No
+CUST02459,39,1849.58,14920.79,Two Year,No,Credit Card,No
+CUST02460,9,676.58,25849.37,Two Year,No,UPI,Yes
+CUST02461,6,395.48,91495.35,Month-to-Month,Fiber Optic,UPI,No
+CUST02462,23,734.59,11748.77,Two Year,No,Debit Card,Yes
+CUST02463,59,1196.86,75863.8,One Year,Fiber Optic,Bank Transfer,No
+CUST02464,46,591.71,75876.07,Month-to-Month,Fiber Optic,UPI,No
+CUST02465,38,584.68,81072.16,Two Year,DSL,UPI,No
+CUST02466,14,1086.41,88718.24,Two Year,DSL,Bank Transfer,No
+CUST02467,62,356.56,26672.1,One Year,DSL,Bank Transfer,No
+CUST02468,35,507.21,22843.67,Two Year,DSL,Credit Card,No
+CUST02469,19,1006.96,46817.81,Two Year,No,Credit Card,No
+CUST02470,30,407.32,26876.37,Two Year,No,Credit Card,No
+CUST02471,25,974.48,73563.84,Two Year,DSL,Bank Transfer,No
+CUST02472,40,1105.81,63775.99,One Year,Fiber Optic,Debit Card,No
+CUST02473,14,1067.15,87561.27,Two Year,Fiber Optic,UPI,No
+CUST02474,26,1777.6,8732.46,Two Year,Fiber Optic,Bank Transfer,No
+CUST02475,22,1201.11,91550.79,Two Year,Fiber Optic,Debit Card,Yes
+CUST02476,48,1095.57,29688.19,Month-to-Month,No,Bank Transfer,No
+CUST02477,51,998.21,49324.09,One Year,Fiber Optic,Debit Card,No
+CUST02478,3,1689.96,44141.84,Month-to-Month,Fiber Optic,Bank Transfer,No
+CUST02479,42,1821.6,76151.01,Month-to-Month,DSL,Bank Transfer,Yes
+CUST02480,19,1750.51,42323.16,One Year,Fiber Optic,Debit Card,No
+CUST02481,28,1445.03,94383.54,Month-to-Month,No,Debit Card,No
+CUST02482,45,533.51,90302.12,Month-to-Month,Fiber Optic,Debit Card,No
+CUST02483,71,770.68,87280.03,Month-to-Month,Fiber Optic,Debit Card,No
+CUST02484,63,378.31,7590.2,One Year,No,Debit Card,No
+CUST02485,19,1882.4,85498.68,Two Year,DSL,Debit Card,No
+CUST02486,47,1423.36,78272.73,One Year,No,Debit Card,Yes
+CUST02487,14,1568.82,10799.54,One Year,DSL,Debit Card,No
+CUST02488,38,829.67,11187.73,One Year,Fiber Optic,Bank Transfer,No
+CUST02489,53,1737.61,10565.8,Month-to-Month,DSL,Debit Card,No
+CUST02490,61,741.33,1627.59,Two Year,DSL,Debit Card,No
+CUST02491,36,302.79,55089.11,One Year,DSL,Bank Transfer,No
+CUST02492,40,939.91,97352.73,One Year,Fiber Optic,Bank Transfer,No
+CUST02493,30,1270.29,44149.13,Two Year,DSL,Credit Card,No
+CUST02494,9,1113.8,54305.37,Two Year,DSL,Credit Card,No
+CUST02495,64,1765.53,96812.99,Two Year,Fiber Optic,Debit Card,No
+CUST02496,33,479.19,25890.63,Month-to-Month,No,Debit Card,No
+CUST02497,52,1241.5,85917.79,Two Year,No,Credit Card,No
+CUST02498,14,1172.06,54865.85,Month-to-Month,No,Credit Card,Yes
+CUST02499,53,778.37,57162.91,One Year,Fiber Optic,UPI,No
+CUST02500,59,1697.79,34645.8,Month-to-Month,Fiber Optic,UPI,No
